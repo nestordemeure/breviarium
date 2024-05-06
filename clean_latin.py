@@ -7,7 +7,7 @@ from anthropic import Anthropic
 from anthropic.types import Usage
 
 # model used
-model = 'opus'
+model = 'haiku'
 
 #----------------------------------------------------------------------------------------
 # API
@@ -135,7 +135,6 @@ def get_latin_heading(heading:str, next_heading:str) -> str:
     while stop_reason == 'max_tokens':
         # queries the model
         throttler.start()
-        prefix = '' #"Here is the text of the full section, in a single pair of <latin></latin> tags:\n"
         answer = client.messages.create(
             model=MODEL,
             max_tokens=MAX_TOKENS,
@@ -145,9 +144,9 @@ def get_latin_heading(heading:str, next_heading:str) -> str:
                     {"type": "text", "text": ocr2}, 
                     {"type": "text", "text": prompt}
                 ]},
-                {"role": "assistant", "content": prefix + "<latin>" + latin} # primes the model to start transcribing
+                {"role": "assistant", "content": '<response>' + latin} # primes the model to start transcribing
             ],
-            #stop_sequences=["</latin>"] # stop once the latin is written
+            stop_sequences=['</response>'] # stop once the latin is written
         )
         throttler.stop(answer.usage)
         # updates our stopping criteria

@@ -10,10 +10,6 @@ You will need the API key in your environment. Tweak script variable to pick a m
 
 ## TODO
 
-* create a `manual mode` (?):
-  loading the prompt into the clipboard to be copied in the online UI, the result would be pasted back in the shell
-  this would be the cheapest option (by far, book length inputs are long) but would require some manual work
-
 * switch to AWS Bedrock for higher limits (?):
   this would be as expensive as using Anthropic while raising limitations
   a bit more complex but building some AWS experience

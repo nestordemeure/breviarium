@@ -3,6 +3,7 @@ import time
 from typing import List
 from anthropic import Anthropic
 from anthropic.types import Usage
+import pyperclip
 
 #----------------------------------------------------------------------------------------
 # THROTTLER
@@ -104,22 +105,63 @@ class Opus(Model):
 #----------------------------------------------------------------------------------------
 # MANUAL MODE
 
+def cut_until_answer_prefix(text, answer_prefix):
+    # Find the index of the first occurrence of answer_prefix
+    index = text.find(answer_prefix)
+    
+    # If answer_prefix is found, cut the text up to and including the prefix
+    if index != -1:
+        # Add the length of answer_prefix to index to include it in the cut
+        return text[index + len(answer_prefix):]
+    else:
+        # If answer_prefix is not found, return the original text or an empty string
+        return text
+
+def cut_until_any_suffix(text, stop_sequences):
+    # Initialize the minimum index to be a large value
+    min_index = float('inf')
+    
+    # Iterate over each suffix in the list
+    for suffix in stop_sequences:
+        index = text.find(suffix)
+        if index != -1 and index < min_index:
+            # Update the minimum index if this suffix is found earlier in the text
+            min_index = index + len(suffix)
+    
+    # If a suffix was found and used to update min_index, slice the text
+    if min_index != float('inf'):
+        return text[min_index:]
+    else:
+        # If no suffix was found, return the original text or an empty string
+        return text
+
 class Human(Model):
     """
     Calls a human to get an answer.
     """
     def __init__(self):
-        super().__init__(name='human', max_tokens=None, token_per_minute=None)
+        self.name = 'human'
 
     def chat(self, prompt:str, documents:List[str]=[], answer_prefix='<response>', stop_sequences=['</response>']):
         """
         Queries the model with, optionally, some documents and a prefix / stop criteria.
         This function asks the human user for an answer.
         """
-        # displays the prompt to the user
-        print(f"<prompt>\n{prompt}\n,/prompt>")
-        # TODO put prompt in clipboard
-        # TODO gets result from user
-        output = None
-        # TODO cut answer from the first occurence to answer prefix to the first occurence of stop_sequence
-        return output
+        while True:
+            # put prompt in clipboard
+            print(f"The prompt has been copied to the clipboard! Press Enter to copy the result from the clipboard.")
+            if len(documents) > 0: print(f"(Do not forget to load the {len(documents)} documents)")
+            pyperclip.copy(prompt)
+            # wait for user to press enter
+            user_input = input("Answer in the clipboard? [y]/n")
+            # reloop if the user failed
+            if 'n' in user_input: continue
+            # gets result from clipboard
+            output = pyperclip.paste()
+            # cut to the prefix
+            if (answer_prefix is not None) and (answer_prefix != ''):
+                output = cut_until_answer_prefix(output, answer_prefix)
+            # cut the suffix
+            if len(stop_sequences) > 0:
+                output = cut_until_any_suffix(output, stop_sequences)
+            return output

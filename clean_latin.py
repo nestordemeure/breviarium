@@ -1,7 +1,7 @@
 from pathlib import Path
 from .breviarum.io import read_file, write_file
 from .breviarum.markdown import Markdown
-from .breviarum.model import Opus, Haiku
+from .breviarum.model import Human, Haiku, Opus
 
 # model used
 model = Haiku()

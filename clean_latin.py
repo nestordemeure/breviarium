@@ -7,7 +7,7 @@ from anthropic import Anthropic
 from anthropic.types import Usage
 
 # model used
-model = 'haiku'
+model = 'opus'
 
 #----------------------------------------------------------------------------------------
 # API
@@ -155,6 +155,8 @@ def get_latin_heading(heading:str, next_heading:str) -> str:
         # updates our extracted latin
         if len(answer.content) > 1: print(f"WARNING: `answer.content` is of length {len(answer.content)}: {answer.content}")
         latin += answer.content[0].text
+    # strips any unneeded spaces and returns
+    latin = latin.strip()
     print(f"\n{latin}\n")
     return latin
 

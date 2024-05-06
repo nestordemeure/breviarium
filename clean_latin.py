@@ -82,7 +82,7 @@ data_folder = Path('./data')
 # OCRs
 ocr_folder = data_folder / 'ocr'
 ocr1_file = ocr_folder / '1701 (v1).txt'
-ocr2_file = ocr_folder / '1701 (v1).txt'
+ocr2_file = ocr_folder / '1701 (v2).txt'
 ocr1 = read_file(ocr1_file)
 ocr2 = read_file(ocr2_file)
 

@@ -15,3 +15,6 @@ You will need the API key in your environment. Tweak script variable to pick a m
   a bit more complex but building some AWS experience
   * <https://aws.amazon.com/fr/bedrock/claude/>
   * <https://docs.anthropic.com/claude/reference/claude-on-amazon-bedrock>
+
+* Redo:
+  * `Ratio Majorem Dignitatem Consequendi`

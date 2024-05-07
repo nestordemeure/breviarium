@@ -117,7 +117,7 @@ def cut_until_answer_prefix(text, answer_prefix):
         # If answer_prefix is not found, return the original text or an empty string
         return text
 
-def cut_until_any_suffix(text, stop_sequences):
+def cut_after_any_suffix(text, stop_sequences):
     # Initialize the minimum index to be a large value
     min_index = float('inf')
     
@@ -126,11 +126,11 @@ def cut_until_any_suffix(text, stop_sequences):
         index = text.find(suffix)
         if index != -1 and index < min_index:
             # Update the minimum index if this suffix is found earlier in the text
-            min_index = index + len(suffix)
+            min_index = index
     
     # If a suffix was found and used to update min_index, slice the text
     if min_index != float('inf'):
-        return text[min_index:]
+        return text[:min_index]
     else:
         # If no suffix was found, return the original text or an empty string
         return text
@@ -150,7 +150,7 @@ class Human(Model):
         while True:
             # put prompt in clipboard
             print(f"The prompt has been copied to the clipboard! Press Enter to copy the result from the clipboard.")
-            if len(documents) > 0: print(f"(Do not forget to load the {len(documents)} documents)")
+            if len(documents) > 0: print(f"(Do not forget to load the {len(documents)} documents!)")
             pyperclip.copy(prompt)
             # wait for user to press enter
             user_input = input("Answer in the clipboard? [y]/n")
@@ -163,5 +163,5 @@ class Human(Model):
                 output = cut_until_answer_prefix(output, answer_prefix)
             # cut the suffix
             if len(stop_sequences) > 0:
-                output = cut_until_any_suffix(output, stop_sequences)
-            return output
+                output = cut_after_any_suffix(output, stop_sequences)
+            return output.strip()

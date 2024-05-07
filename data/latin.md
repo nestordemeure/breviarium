@@ -19,6 +19,7 @@ Hoc nostro labore fruere, et Vale.
 ## Ubi Ingenium Excolendum
 
 Ante omnia ingenium aestimandum, quid non possit et quid possit, ut naturae nostrae semina sequamur, nisi et opes et aetatem cum opera perdere desideremus.
+
 Praeceptores moribus hujus seculi aptos eligamus, quorum mores doctrinamque aemulemur, qui in omni doctrina nos ad praesentis temporis mores formare sciunt.
 
 Religio te non avocet, quo minus te tuosve illis committas: persuasio quaedam superstitiosa est, certae nationis naevum ab homine Politico finem suum adsequi desiderante, magni aestimare.
@@ -136,6 +137,28 @@ Fidum te cuique obsequium præstiturum pollicebere.
 
 ### Ratio Majorem Dignitatem Consequendi
 
+Interea observabis, quemadmodum ad altiores honorum titulos tibi liceat pervenire; imprimis mutuae amicitiae affectus potentiorum familiarum quaeres.
+
+Cujus tamen praesertim ambis dignitatem, honorem et officium, ut videas, quomodo aliorum, qui ipsi tibi favent, auxilio, propositum tuum valeas assequi.
+
+Politicus enim alterius ope inprimis eget.
+
+Tum id omnibus modis laborandum, ut vel filiam vel illius agnatam ducas, cujus familia apud Principem sit in gratia, sit ampla et potens, qui vel ipse vel per suos te non promoveat, (id enim abjecti est animi,) sed tu conatus ipsorum juvare videaris.
+
+Cumque jam arte tibi fuerit notus in hunc illumve illorum animus, ulciscendi injuriam gratia omnia agas, ut tamen affectum erga illum, sartum tectumve serves; et si non omnia possis excusare, culpes, deplores, nullius te participem simules, et ita animum explores: sique fueris in suspicione, tum demum locus erit, ut jurejurando exquisitissimo te purges, quo commoniti homines abhorrent quidquam de te mali suspicari vel credere.
+
+Non tamen occulta aliis detineas subministrare consilia, ut illi per suos te quasi ignorante, persecutionis et oppressionis apud Principem spargant consilia, odium illius excitent, ut sint causae removendi ab officio.
+
+Ne vero suspicio apud alios oriatur, non tantum juramento te purges, sed officium hoc detrectare te simules, nihilominus tamen specie recusantis imperium flagrantissime concupisces.
+
+Hoc si succedere non posse putaveris, alium sic institues: Age ut is, cujus tu sectaris honorem, vel cum gratia tanquam emeritus dimittatur, vel in officio conservetur, te tamen adjuncto, vel ut idem ad alia promoveatur.
+
+Uxorem vero tuam formare debes tuarum actionum adjutricem, cui tuto credere possis, quaeque omnia cum aliis te inscio quasi agat.
+
+De tuis donis ne benefacias amicis: Politicus enim omne damnum evitabit; Sed hoc age, ut opera tua aliunde auctis beneficiis et divitiis venerentur usuque postulante defendant; tutissima enim utilissimaque beneficia, quae de alienis quasi suis largitur.
+
+Noto tamen non Politice, ne tuis et amicis secretissima credas negotia, quae per te expediri possunt, neque alterius ope indigent, quia si hoc feceris, metuendum tibi, ne cum illos offenderis, tua consilia prodant, nulla namque major inimicitia, quae inter consanguineos oritur, quae quoquomodo avertenda.
+
 ### Si Major Dignitas Sit Delegata, Quid Tum Facto Opus?
 
 Si majorem dignitatem et regimen imperiumque a Principe fueris consecutus; major etiam auctoritas, major apud omnes gratia acquisita, majorem curam callidiorum consiliorum exposcunt, ut Principis gratiam, auctoritatem et amorem populi non modo conserves, verum subinde augeas.
@@ -220,33 +243,423 @@ Hoc insuper notato, ut ex omnibus proventibus Principis partem detrahas exiguam,
 
 ## Fundamentum
 
+Duo olim in sincera Philosophia; duo nunc. Olim, nunc: *Sustine et Abstine* olim, nunc *Simula et Dissimula*, sive *Nosce Teipsum*, *Nosce alios*, quæ (nisi fallor) etiam priora sustentant.
+
+Hæc ergo primò peragemus; Deinde priora in variis *Actionibus humanis*, et cum eæ ferè sine ordine accidant, non spectato ordine dabimus.
+
 ### Nosce Te Ipsum
+
+Anira, metu, temeritate, aut qua Passione labores?
+
+Qui defectus in moribus, in mensa, in Templo, in conversando, ludendo, cum aliis actionibus, maxime socialibus, te notent?
+
+Omnia membra corporis examina: an oculus insolentior, pes aut caput justo inflexiores, rugae in fronte, labiorum extremitates mundae, tardior aut velocior incessus?
+
+Cum quibus agas, an sint homines laudabiles, fortunati, prudentes?
+
+Quo tempore maxime incautus reddaris, an verbo, aut moribus cadas? an in mensa dum es potus? an in ludo, an in calamitate? ubi juxta Tacitum *Molles sunt mortalium animi*.
+
+Quae loca adeas, an suspecta, vilia, infamia, te non digna?
+
+Actionibus tuis cave, nec cautio desit, ad quod servit libelli hujus lectio, quo loco, tempore, in qua dignitate, et cum cujus dignitatis persona agas?
+
+Adnota singulos defectus, ut in iis mens hoc tibi strictius attendas.
+
+Proderit, quoties contigerit labi, aliquid durius sibi injungere.
+
+Si offenderis ad bilis effusionem, nil dic, nec ullo signo prode iram, dummodo sis in talibus circumstantiis, ubi frustra tuum zelum ostendere possis, nec tibi satisfacere, sed simula, te minime laesum, et expecta opportuniorem horam.
+
+Nil ostende in vultu praeter humanitatem, aut etiam affectum.
+
+Non facile ad quamvis lepiditatem ride.
+
+Omnes stude tibi habere perspectos.
+
+Tua secreta nulli unquam prode alia expiscari.
+
+Nil indecori loquere, aut fac coram ullo, etsi naturale, et non malitiosum sit, quia talia alii despiciunt.
+
+Constanti incessu modestiam serva, alioquin acribus oculis observa omnia, et prudenti supercilio curiositatem finias.
+
+Tales habentur pro prudentibus, astutis, et accuratis.
 
 ### Nosce Alios
 
+Multum noscitur in morbo, ebrietate, poculis, loculis, ubi agitur de lucro, aut damno, in ludo, et itinere, ubi laxatis animi ostiis, facilius e latebris prodeunt ferae.
+
+In afflictione, maxime in injuriosa etc.
+
+Hae occasiones observandae, in his agendum cum illis, quos nosse velis.
+
+Multum juvat frequentare ejus amicos, filios, pueros, familiares, famulos, qui facile munusculis corrumpi possunt, et multa prodere. Quod suspicaris alterum cogitare, ejus oppositum inducas in sermone, laudando: si is contrarium cogitat, vix erit tam cautus, ut se non prodat, defendendo, aut apponendo aliqua, ut contrarium sentire ostendat.
+
+Quibus vitiis quis laboret, hac arte nosces: induc in sermonem, quae vitia maxime occurrunt, et quibus amicus maxime posset laborare, quo laborabit, illud acerrime oppugnabit, et execrabitur.
+
+Sic Concionatores illis fere laborant vitiis, quos ardentissime accusant. Pete consilium de re aliqua, post aliquot dies age cum eodem, Dei enim providentia facile mendaciorum obliviscimur.
+
+Finge te habere notitiam alicujus rei, et coram eo, quem putas scire, refer, ille te corrigendo notitiam suam prodet. Vide, cum quibus quis conversetur, nam noscitur ex socio etc.
+
+Lauda aliquem, vel in afflictione solare, quia in hujusmodi casibus erumpunt obscurae et occultae cogitationes.
+
+Pellice aliquem, ut vitam suam narret: (quod fieri potest, si tuam narres fingendo) quas nequitias alteri intulerit, hinc habebis locum argumentandi de praesentibus; sed tu cautus esto, ne tuam prodas. Scientiam sic explorabis: e.g. Epigramma aliquod da legendum, si laudat nimium, et sit vile, exiguus Poeta est: si laudat in quantum est laudabile, Poeta. Sic de cibis infer sermonem, nosces gulosum: idem est de aliis vitiis et virtutibus. Jubeat proponere in consessu, ut de re ferat judicium per modum joci, quid quisque valeat, quas virtutes habeat, cui sit par officio? saepe enim joci multum de vero texere. Poteris etiam aliquando Medicum agere, talia cibo immiscendo, quae illos exhilarent et reddant loquaces etc. Maligni hominis indicium est, qui frequenter contradicit, saepe ad furta descendit talis.
+
+Qui multum se jactant sua praedicantes, non multum timendi sunt, Phantastici sunt, qui sunt scrupulosi, tristes, multae orationis vocales, qui ungues habent nimium breves, qui faciunt mortificationes externas sine internis.
+
+Ex mendicitate elevatum agnosces, si de victu, amictu queri incipiat: mendici enim elevati talia prae nobilibus affectant. Secretum vix tenent vino et Veneri dediti, quia hi mancipia sunt amasiae, illi inconsiderantia linguae feruntur.
+
+Falsum et jactabundum sic tenebis: dum itinera, peregrinationes, militiam, gesta enumerat, tot et tot annos in illo loco egisse.
+
+Tunc summa omnium computa, roga deinde alia occasione, quo anno haec inceperit, quo desierit.
+
+Quot annos vita habeat, magna disconvenientia patebit. Item quot turres illa urbs habeat, aut arcem celeberrimum, cujus nomen finge, an noverit interroga: vel tanquam omnium conscius, gratulare illi, quod periculum hoc vel illud evaserit. Probum virum, et ejus pietatem nosces, si in ejus vita observetur concordia, si ambitio, et loci dignioris appetitus desit: non sit affectata modestia, et in omnibus compositio, non effeminatus sermo, non nimis exterior mortificatio ostendatur, nimis parum bibendo, edendo etc.
+
+Natura melancholici sunt aut phlegmatici, qui se maxime alienos ab ambitione et fastu jactant, et qui laesi statim amice agunt.
+
+Astuti plerumque sunt, qui habent affectatam lenitatem, in naso monticulum, et acres oculos. Petatur ab aliquo consilium aliquod, agnoscetur ejus prudentia, dexteritas etc.
+
+Unde etiam fingenda est mens anceps, et ambigua.
+
+Qui facile promittit, parum ei fide, quia mendax et fallax est.
+
+Secreti tenace judica, qui tibi per nullam amicitiam secreta ab alio pandat, ideoque suborna talem, qui ei concredat, aut qui a te concredita ab eo petat: sed facilius solent aperire foeminis, pueris, dilectis, et iis, quos quisque majores et superiores amat: si tibi alienum secretum prodat, nihil ei committe, quia potest habere, quem tantum diligat ac te.
+
+Literas subditorum suorum juvabit interdum intercipere, relegere, et ad eas respondere.
+
+Qui nimis multa peculiaria et nitida habent, effoeminati et fere parum sancti sunt.
+
+Qui nimis arma decora habent fere parum milites, nimium instrumenta artis culta, parum artifices, nisi excuset aetas juvenilis.
+
+Item qui suae naturae nimis indulgent, atque nimium formosi et amabiles sunt parum docti.
+
+Adulatorem sic deprehendes, finge te aliquid fecisse, quod clare sit absurdum, illudque jactabundus refer: si laudaverit, adulator est; secus, si saltem siluerit.
+
+Amicum falsum advertes, nunciet illi tertius a te instructus, te ad extrema esse redactum, jura quibus nitebaris falsa esse deprehensa, si velut, non curaret, audierit, nunquam erit amicus.
+
+Mitte insuper, qui ab eo tuo nomine consilium petat, et simul auxilium, advertes, qualis sit ac probata virtute simula tibi omnia falso nunciata fuisse. Indocti produnt se nimio nitore in suis rebus, ornatu parietum, cura lecti, aut si quid minus latinum proferatur, rident, et ostendunt se advertere.
+
+Parvae staturae homines caveas, sunt enim pertinaces factiosi etc.
+
+Amicorum concordiam sic explorabis: aliquem eorum nominatim vitupera coram alio, lauda tunc vel ex silentio, vel frigido responso advertes totam rem. Propone in consessu aliquos casus, quomodo in tali vel tali casu procedi possit ingeniose, ex responso cujusvis ingenium, et astutia patebit. Item propone, quomodo tales vel tales decipi possint; injice sermonem de persecutionibus.
+
+Plurima se passum probabit, qui plurima dicet.
+
+Mendaces plerumque natura sunt, qui dum rident habent fossulas in genis. Qui curant nimis suam pellem, ab his parum metue.
+
+Ex juvenibus, et nimis senibus plurimum in quovis negotio noscitur.
+
+Simulator est, qui de eadem re et bene et male loquitur, ad quod occasio ei danda est.
+
+Frequenter exigui judicii sunt, qui multas linguas sciunt, quia multa memoria judicio obesse solet. Si quis magnas virtutes subito prae se ferat, qui alias fuerat vitiosus, suspectum habe. Quem putas dicta tua prodere, coram illo loquere aliqua singularia, et talia, quae coram nullo alio dixeris, si prodatur dictum, habes delatorem. Si narrent alii somnia sua, saepius ea narranti, et diversa roges, et discursu facto multum nosces secretum animum.
+
+Ut si quis se tui amantem dicat, expiscari alio tempore somnia, si nunquam de te somniat, fictus est amor.
+
+Alterius erga te animum explora, studia ostendendo, aut te ejus inimicum fingendo.
+
+Nullius vitii paxin ostende te scire, nec narra aliorum vitia cum vituperio, aut zelo nimio, iisdem laborare judicaberis.
+
+Si accusator alium proditurus ad te veniat, simula id jam audivisse, et plura alia, tunc videbis, quod suspiciones et particularia addet, quae non fuisset alias dicturus.
+
+Qui cum canibus, pueris jucundis nimis tenere agunt, molles sunt.
+
+Qui ficta voce cum ficta tussi loquuntur, effoeminati, proni in Venerem; sic et qui nimis comptuli, adornati, aliorum oculis placere cupientes et junioris aut foemineae aetatis nimis observantes.
+
+Falsarii sunt, qui omnia nimis facile annunciant, nimis probant omnia tua, quia simulata est haec amicitia. Qui coram te nimis acriter in alios invehitur, cavendus, quia tibi idem est facturus.
+
+Secreti tenace sic cape: narra ei aliquid sub summo secreto, id ipsum et alteri narra cum eadem cautela, submitte tertium fraudis conscium, qui duos hos convocet, et discursui de concredito quid insinuet: hic apparet, quae quis, et quis prius prodet, si advertant, se omnes tres quid simul scire, qui ne tunc prodit, hunc tuum fac secretarium.
+
+Alterius mentem ut agnoscas suborna alium, cujus amator est, et per eum secretissima rescies.
+
 ## Actiones Humanae Civiles
+
+Dum viam ingredior nullo servato ordine, quia nullum sequor.
 
 ### Gratiam Sibi Comparare
 
+Intellige, quibus rebus amicus afficiatur, et pro genio munuscula dona, apta erunt mathematica, tubi optici, microscopia, sciaterica, specula varia, aliaque curiosa, communicatio secretorum naturae, quibus plenus est *Mizaldus*.
+
+Saepius alloquere, consulta, et ab eo pete consilia, atque utere illis.
+
+Sed nunquam te ita aperi, ut si fiat inimicus, habeat, quo te possit tenere.
+
+Nihil pete, quod difficulter praestiturus sit, qualia sunt, ubi tangitur *meum et tuum*.
+
+Festa solemnia, natalem, sanitatem etc gratulare brevibus, sed cultis orationibus.
+
+Raro virtutes, semper vitia ipsius dissimula, peregrinationes tuas ei communica, laudes ab aliis ei dictas refer, et omnia insusurra auribus, maxime ea, quae a superioribus dicta, nunquam autem vituperia et vitia illius, quomodocunque petierit, manifesta, atque si urgeat, ne videaris diffidere, saltem levissima, aut quae ipse de se alias etiam dixit, refer: talia enim acrem sui memoriam post se relinquunt, quomodocunque dicantur, maxime si nimium de vero trahant.  
+
+Per alios, et in alienis literis eum crebro saluta, saepe ipsi scribas, sententiam ei contrariam nunquam tuearis, aut premas, aut si promere ausus es, permitte te ab illo instrui, et ab eo dejici, et dejecisse dissimula.
+
+In dandis titulis esto liberalis, et alacer ad obsequia nunquam futura: Per vitia nulli placere stude, imo nec per eas species, quae cum tuo statu pugnant, ut si sis Ecclesiasticus, a nimiis jocis, scurrilitate, haustibus magnis etc. tibi tempera: haec enim et si amorem in praesens comparant, tamen in contemptum, ludibriumque ducunt, imo acria, etsi non statim, odia conciliant.
+
+Ideoque etsi aliquando expedierit esse extra virtutes, sine vitio tamen id fiat.  
+
+Si ad aliquem venias, primum intellige, qui gratia apud loci Dominum potiantur, qui factione, dicacitate, illorum gratiam omnibus modis demerere, quia multis usibus futuri eorum poteris consiliis in rebus promovendis uti, quia tales, dum dant consilium, partem in se curae assumunt.
+
+Si de aliquo te vindicare velis, ipsis suspectum fac, et eorum invidia tuam causam feceris.
+
+Nullum scelus a Domino admitte, ut tibi perpetrandum imponat: nam licet illi futurus sis gratus in praesens, deinde tamen, ut exprobrator aspicieris, et censeberis in Dominum id posse facere, quod facile ejus jussu suscepisti, tanquam venalis fidei, et virtutis homo, aut saltem cum facti praemio statim discedes.  
+
+Literas aliquas scribe honorificas de tertio, et permitte amitti, et intercipi, ut ad eum tertium deveniant.
+
+Multi judicant ea, quae sibi grata sunt, etiam aliis grata esse; ideoque ea faciunt, tu prudentius explora, quid illi gratum, vel ingratum sit.
+
+Appella fratres, etiam te minores, eosque honore praeveni, dummodo sint ingenui.
+
+Nulli res gratas ad satietatem exhibe, nauseam accipiet, sed plura ostende, quam des, relinque, ut desideret: Idem sit in ludo, colloquiis etc.
+
+Nihil mutuo ab amico petas, nam si nequit praestare id, quod offendit, te oderit, vel si illibenter concedat, aut res non integras receperit, aegre feret.
+
+Nihil ab amico emas, nam si caro vendiderit, tu laederis, si vili, ille.  
+
+Minimos illius famulos bene habe, alias sensim amici animum avertent.
+
+Hoc in conviviis hospitalitate observes: Confinge secreta, et tanquam secreta concrede, etiam ea, quae de officio illius sunt, ostende te singulari curae habere.
+
+Cum mancipiis si familiariter agas, contemnent, si ira, oderint, si dulci gravitate, venerabuntur.
+
+Cum ingenuis, benevolentia, amore, comitate agendum est, ad humilia obsequia, extrema demissionis indicia, ut ad oscula pedum, non admitte: avaros, quoad genium mancipiis annumera.
+
+Gratiam Populi si quaeres, promove promissis illorum commoda, quae singulorum utilitatem attingunt: his magis, quam honestate moventur.
+
+Ad mensam inferiorum invitatus accede, nil reprehende, civilitate omnes vince, salva tamen gravitate, verbis saltem liberalis esto.
+
+Cave, ne quid illis invitis, rerum subtrahas, et tibi aggreges.  
+
+Compatere, solare saepius, et per partes beneficia exerce.
+
+Nil contemne, sed potius lauda.
+
+Si contradicere opus sit, non objice illis imprudentiam, imperitiam, sed potius laudatis illorum rationibus, bona intentione etc. ostende incommoda inde secutura, sumptus etc.
+
+Ostende te semper propugnatorem populi immunitatum.
+
+Speculare amicum, cujus gratiam vis comparare, an scilicet armis, an scientiae, an clementiae, an feritati sit deditus.
+
+Intercessor esto rarus: nam quidquid aliis propter te fit, tibi praeripitur, nec gratia salva manet. tu autem tibi serva Principem integrum.
+
+Nulli secretum alterius pandas, illi deinde vilis eris, si scelus imperat, moras trahe, et de modo te excusandi cogita, morbum simula, equos ablatos etc.
+
+Famulos ejus, cujus amicitiam quaeris, habe prius amicos, auro etiam corrumpe, si opus sit, pertrahent et illi Dominum.
+
+Quomodocunque profeceris in gratia, non secus illam habe, quam si illam per mille officiositates adhuc quaereres: acquisita enim tenere vult tractari, ne amittatur; imo officiis ali.
+
 ### Nosce Quis Sit Amicus Alicujus
+
+Lauda aliquem, si alter tacet, non erit amicus, vel si rem alio divertit, vel languide et coacte loquitur, si minuit, si non constare sibi dicat, aut in aliarum laudum partem derivet: Item si sit conscius facti laudabilis, te illud referente nihil apponat ad id, quod possit corripere.
+
+Item si etiam fortuitum casum esse dicat, aut id eventum nimia Dei Providentia, et extollat alios, paria, et majora fecisse, aut consilio id factum esse alieno.
+
+Literas amici nomine ad eum finge, in quibus petat aliquid sibi concredi, patebit animus propensus, vel adversus.
+
+Eum amici nomine saluta, vel de eo adversa audisse dic, et quid apponet his videbis.
 
 ### Aestimationem et Famam Sibi Comparare
 
+Nunquam esto certus, quod aliquis sit secretum servaturus, si coram eo aliquid licentius, aut confidentius agas, aut dicas, nec de puero, nec de servo id crede, imo ex hoc actu de te formabit judicium, atque talem aliis describet.
+
+Nunquam tibi promittas, quod aliquis tuam actionem dubiam sit excusaturus, imo in pessima trahet, ideo nil tibi, vel uno spectante, indulge.
+
+Non referas, quomodo alias fueris diffamatus, vel injuria affectus, nam sic te magis diffamas, et erunt, qui approbent.
+
+Non valet hic illud Bernardi: *Excusa intentionem, si non potes opus*, ut dicant casu, aut inconsiderate peccasse, vel te tentandi gratia, ad malum sollicitasse.
+
+Aliquando confidentius, maxime garrulis, secretum confide, ac roga, ne illud aliis detegant, scilicet te plurimum posse apud Potentes, habere cum aliis correspondentias etc.
+
+Deinde vitando aliorum conspectum ad tales Potentes scribe literas, obsigna, et ostende, quas deinde combures, rescriptiones finge, quas tamen incautius custodi.
+
+Quod audiunt aliqui confuse, etiam et ipsi confundunt.
+
+Ideoque, si quid tale contigerit, bene legendum.
+
+Depraedica, te nulli unquam nocuisse, si pro aliquo, certe pro hoc, coronam a DEO dicte expectare, et affer exempla in momento ficta.
+
+Quicquid in publicum proditurum est, (esto sit minimum,) perfectissime agas, quia ab uno actu saepe dependet opinio aeterna.
+
+Nunquam plures res simul agendas suscipes, quia nulla ex eo gloria, quod multa facias, sed si unum tantum excolatur.
+
+Testor experientiam. Iracundis, Potentibus, Cognatis semper cedere decet, imo et utile est, simula demissionem animi, candorem, liberalitatem, hilaritatem lauda, gratias age, promptum te offer, etiam non meritis.
+
+Initia rerum summo consilio et labore agenda, et cum omni certitudine successus, et qualiter prima, taliter omnia, et fama semel parta errores ipsos in gloriam coalescent.
+
+Si quid tibi in officio incumbat faciendum, nullis precibus id suscipe, per quod intentio tua minuatur erga debitum opus, certus etiam esto, respectum minui, quamvis tot et tanta feceris, tot curis distractus fueris, si tuo muneri vel minimum defuisti, imo vel eo ipso, quod ea susceperis.
+
+Si tractaturus es negotia, non admitte socium, qui sit idoneus, et plus quam tu exercitatus in illis.
+
+Si aliquem es aditurus, non habe tecum eum, qui sit acceptior.
+
+Si mutaturus es officium, non succedant notabiliter meliores.
+
+Ea, quae domui tuae decora sunt, sine typis mandari, obtrectatione inpraesens spreta, nam quacunque veritate, obsequioque scripta fuerint, olim verisimilia legentur.
+
+Sermones autem loquentium, aut cum iis, aut ante eos intereunt.
+
+Scientiae opinionem sic tibi facies: Ex scientiis historicis, quaecunque habere potes, in unum libellum refer, et cum quovis mense per otium relege, sic omnium rerum species tibi imprimes, et ubi opus erit, notitiam ostendes.
+
+Formulas respondendi, salutandi, loquendi, et quaecunque subito fieri debent, habe plura parata.
+
+Quidam se nimis extenuant, ut inde extollantur, vel ut fortuna ferri, non curis; ingenio, non labore videantur; se negligere, contemnere incipiunt, vel saepe persuadent, ut habeantur pro inertibus, et imbecillibus: tu sine, ut hoc religioni addicti faciant.
+
+Nunquam juxta totam potentiam age, ut credaris nihil amplius posse agere.
+
+Quae per servos agere, corrigere, punire potes, per te non agas, majora tu fac.
+
+De incertis non disputa, nisi scias te certo victorem.
+
+Si convivium instrues, communica fortunam famulis hospitum, garrula plebs est haec, ad infamiam potentior; unde beneficium debet oculos implere, ne alia speculentur; similiter liberaliter agas cum barbitonsore et meretrice.
+
 ### Tempus ad Negotia Augere
+
+Quae sunt minora, per alios expedi.
+
+Ordinem tibi exactum praescribe, quem nullatenus transgrediaris, et minimas partes temporis minimis negotiis tribue, nec in ullo negotio diutius, quam sufficiat, ut honeste expediatur, moreris.
+
+Si sis fatigatus negotio, nil amplius attinge, sed honesto lusu cum commotione corporis te excita, et plura, et facilius brevi tempore deinde perages, vel saltem tale assume negotium, cui sine labore sufficias.
+
+Quae negotia per aliquot dies trahi debent, melius in unum separabis, ut expedias.
+
+Non admitte ea negotia, quae parum lucri habent, aut gloriae, et multum laboris.
+
+Negotia inutilia, et quae multum temporis petunt, in gratiam nullius fac.
+
+Cum artificibus per te ipsum non agas, nec rem oeconomicam tracta, nec hortos, nec aedificia: haec enim plena sunt laborum, et curam ex cura trahunt.
 
 ### Gravitatem Acquirere
 
+Occupationes congruas agendo, ut si Praelatus, arma non tracta; si Nobilis, Chiromanticam artem; si Religiosus, Medicinam; si Sacerdos, ut sis lanista cave.
+
+Non facile promittas, aut concedas; non facile rideas, non statim aliquid conclude, conclusa non muta.
+
+Oculos non defige in alterum, non jacta nasum, non corruga, non esto tetricus, gestus raros habe, caput rectum tene, verbis paucis et sententiosis utere, habe passus non nimis diductos, omnia membra decore compone.
+
+Nulli fateare te aliquid amare, aut odisse, aut timere.
+
+Vilia negotia non per te, sed per famulos agas, nec de illis loquaris.
+
+Cum in mensa es, aut lectum intras, aut deseris, nullus adsit.
+
+Paucis esto amicus, raro age cum ipsis, ne contemnaris.
+
+Non in quovis loco sine delectu colloquium instrue.
+
+Subitam mutationem in moribus, ne quidem in melius adhibe, item nec in vestitu, victu, splendore etc.
+
+In laudibus et reprehensionibus a nimiis exaggerationibus abstinendum, sed proportionate ad materiam judicandum, ne gravis nimia exageratione sis.
+
+Affectus nimios, ut oblectationes, admirationes etc. rarissime fac manifestos.
+
+Etiam in intima amicitia pietatem prae te feras, item cum confidentissime agis, de nemine queraris, neminem accuses.
+
+Res multas non imperes simul subditis, et quas exequi nequeant, quia discent contemnere jussa aut poterunt ostendere imprudenter imperata.
+
+Leges aut nullas feras, aut paucissimas.
+
+Non facile irascaris, nam si deinde facile placaberis, levis haberis.
+
+Si quid publice dicturus es, praemeditate, et e calamo dic.
+
 ### Legere, Scribere
+
+Si quid scribas in loco, quem multi adeunt, erige chartam scriptam, veluti eam describeres, haec omnibus pateat, et ea quae vere scribis, jaceant, et ita tegantur, ut sola linea, quam descripsisti pateat, et a quovis accedente legi possit.
+
+Quae vero scripsisti libro, vel charta alia obtege, aut charta erecta propius mota. Si dum legis, aliquis accedat, statim plurima folia transpone, ne tua intentio deprehendatur, imo convenit plures esse simul copaltos, ut unus prae altero inspiciendus objiciatur.
+
+Quod si literas scribas, aut legas librum, aliusque superveniat, coram quo si legas suspectus eris, provide, et veluti ex libro et literis rem omnino differentem propone: Ut si v.g. scribas monitorias etc. advenientem hospitem interroga, quid ad talem casum caute, prudenter possis respondere, aut pete nova, ut literas posses implere; idem fac cum pecunias numeras, aut librum legis. Scribere secreta manu tua ne graveris; nisi per zifras scribas, idque tales quae ab omnibus legi aut intelligi possunt, quales Trithemius in Polygraphia sua dedit, haec enim magis celant, si aliena manu scribantur.
+
+Zifra, quae legi non possunt, suspicionem excitant, et interceptionem, nisi apte scribas.
 
 ### Donare, Munerari
 
+Liberalis in iis esto, quae vides non praestiturum, vel quibus nunquam usuri sunt ii, da privilegia.
+
+Nemo Magister suum discipulum ita doceat, ut is non speret, se posse aliquid amplius discere.
+
+Nec parens filio suo tantum det, ut hic aut nullo favore egeat, aut nihil amplius sperare queat.
+
+Idem est de Domino respectu famuli, unde si dentur praedia, ea sint, quae egeant Domini gratia, v.g. lignis, aqua molendina careant.
+
+Si contractus aut inscriptio fiat, clausula apponatur, ut ad libitum Domini sint revocabiles.
+
+Si sit aliquis communi officio dignus, et dum ei confers se excuset, nullo modo admitte, ut non acceptet; nisi de hoc palam omnibus constiterit; alioquin merita ejus notate non compensasse credetur; ut vero se excusare nequeat, tunc committe, quando administrandum statim erit, et interim absens esto, ut ille de literis quaerere cogatur, munus interea suum inchoet.
+
+Gratia ita facienda, ut tibi nil decedat, sed v.g. poenas condona debitas in praemium, tributa nova, quae alioquin minus juste impositurus esses, exemplo vicinorum.
+
+Quibus ipse uteris, non sint nimis sumptuosa, ut arma, equus, annulus etc. ut ea velut magnum munus tuo levi damno donare possis.
+
+Modi donandi non sint vulgares, sed v.g. ut sclopetum dones, cura explodi ad metam sub ejus amissione, eumque jam jaculanti velut victori dona, vel de re certe dispone, vel ludo fave.
+
+Si alicui personae gratum donare velis, non promitte, quia detrectabit, promittere enim est petere, ut se excuset, aut saltem precibus emat.
+
+Qui suas res laudant coram aliis, invitant, ut eas petant audientes.
+
+Ea quae praedecessores statuerunt, non facile damna: praeviderunt illi, quae tu non advertis.
+
+Item gratias perpetuas non facile concede, quia oportebit fortasse mutari, nec amplius poteris.
+
+Dona ne videaris projicere, neque, ut grata sint, coneris pretium intendere.
+
+Speculare, quibus quis necessitatibus urgeatur, et quando; et si aliis benefecisti, hoc aliis non dicas; offendes, et exprobrare videberis: et si cogaris dicere, dic debitum fuisse, nec pro eo gratibus egere, aut velle acceptare.
+
+Si quid tibi donetur, (et si minimum,) cave ne sis ingratus.
+
 ### Petere
+
+Vide ne id, quod petis, marsupium affligat, aut multos labores exigat, idque satis fuerit amico indicare, ea re te egere: quod si sic non praestiterit, nec ad preces faciet, sed gratum pro praestitis te ostende, ut advertat eo ipso te petere nova.
+
+Si rem gravem petiturus es, de aliis negotiis age, et velut aliud ageres, desideria explica.
+
+Magnates caute roga, quia putant sibi imperari, intercessores adhibe, clarissimas personas, ut Prolem ad Parentem, dummodo eos non adhibebis, qui ipsa re indigent.
+
+Tempus petendi est, dum aliquis est laetus, quod sit die festo, et post prandium, non tamen, cum dormitat, nec inter alia negotia, dum illis distrahuntur, nec cum somno affliguntur, nec multa simul petere praesumas.
+
+Cujus causa promovendam suscipis, ut ignotum fove, rarus esto cum eo congressus, quo honesto, ac publici amore potius, quam privati moveri videaris.
+
+Rationes ac commoda personis, cum quibus agis, propone avaris lucra ac damna; spiritualibus viris gloriam Dei, juvenibus laudes, et irrisiones a sociis.
+
+Privilegia et schedas non petas a Domini, tarde enim expediuntur talia, sed scripta a te tempore oportuno, ut subscribat, subtrude.
+
+Non petas ab alio, si ille afficitur, (maxime si sit tibi inutile,) aliqua rara: nam si negabit, te laesisse putabit, et oderit; humanum enim est, quem laesisti, odisse: si concesserit, te velut indiscretum petitorem aversabitur. Quia turpe est repulsam pati, nil pete, nisi de ejus obtentione certus, ideoque non petere, sed tantum necessitatem explicare juvabit.
+
+Rem, quam amas, nemo advertat te amare, priusquam sis in possessione; ideoque vel desperationem ostende, vel sparge jam alteri esse destinatam, gratularique illi.
+
+Si quid tibi negetur, suborna alterum, qui pro se petat, a quo tu facilius rem obtinebis.
+
+Si quis honorem, quem tu petis, tibi praeripere velit, mittas ad illum aliquem occulte, qui ei titulo amicitiae dissuadeat, et difficultates ostendat.
 
 ### Monere
 
+Alia omnia incipe narrare, tum ea facta, de quibus vis arguere, exaggera, reprehende, et circumstantias alias appone, ne ille adversari se tangi, et saepe audientem bonae mentis, ac letum esse iube, ac facetias immisce, et si tristetur, quaere causam, et tunc in fine alia omnia appone, de remediis etiam in abstracto loquere.
+
+Si quis sciat, se apud te de aliquo vitio esse suspectum, eum praefice rebus arcanis, sed non cum periculo, ille ut a te amoliatur suspicionem, toto animo exequetur; ideoque expedit se ostendere interdum suspicari.
+
+Juvenes qui sui juris sunt, et ad illicita prolabuntur, si exprobrando arguas, magis accendes, ideoque potius eorum paenitentia expectanda, vel satietas.
+
+Si contingat vertere artes, non ex abrupto de duro in lenem descende, cum frigidis aperte agendum, timor incutiendus: cum fervidis caute et leniter.
+
 ### Non Falli
 
+Prudentibus viris fides temperata detur, quia quae illorum praerogativas concernunt, nimis extenuant; Et quia alienam famam nimis bene interpretantur; non fatebuntur, an quispiam coram illis de te sinistre locutus sit, non a quo cavendum sit, non quibus vitiis laboret.
+
+Idem est de Sacerdotibus, dum suos laudant poenitentes, quia de his nihil possunt, nisi bene loqui, non minus, quam Parentes de filiis.
+
+A quo times, ne te absente, aut querelas contra te, aut turbas, aut quid simile moveat; habe illum tecum specie amicitiae, in recreationibus, venationibus, mensa, colloquio, commilitio etc.
+
+Sic ne vicinae nationes rebellent, ubi tu implicaris alio bello, conspicuos eorum cum exigua manu, a qua perfidia timeri non possit, tecum in bellum veluti fidelissimos adduc.
+
+Juvabit ut dum ad mensam sedes, scribis, ante te speculum sit, ut videas quae, a tergo geruntur.
+
 ### Sanitatem Conservare
+
+Hic attende, ne sit defectus aut excessus in cibo, quoad quantitatem et qualitatem, in vestitu etc. quoad calorem et frigus.
+
+Angustias in somno, in labore, in loco, quoad auram nec nimis altus laudetur.
+
+Repletio, et evacuatio morborum fontes, motus, et quies sint moderata, passiones animi non effrenes; Non prope paludes, imo, nec flumina habita.
+
+Fenestrae cubiculi Boreae potius et Orienti, quam Austro obvertantur.
+
+In negotia seria ultra duas horas vix incumbendum; sed mediet aliquando animi relaxatio; Cibi sint bene parati, et qui possint haberi ubique.
+
+Moderate Venere utaris in quocunque statu permanes, et id juxta exigentiam propriae complexionis.
 
 ### Invidiam Vitare
 

@@ -1,6 +1,8 @@
 """
 Takes a markdown file and produces a Hugo folder hierarchy.
 """
+import re
+import shutil
 from pathlib import Path
 from breviarum.io import read_file, write_file
 from breviarum.markdown import Markdown
@@ -12,7 +14,7 @@ from breviarum.markdown import Markdown
 data_folder = Path('./data')
 
 # input
-input_file = data_folder / 'english_gpt.md'
+input_file = data_folder / 'latin.md'
 input = read_file(input_file)
 markdown = Markdown.from_text(input)
 
@@ -20,41 +22,103 @@ markdown = Markdown.from_text(input)
 output_folder = data_folder / 'hugo'
 
 #----------------------------------------------------------------------------------------
-# PROCESSING THE FILE
+# FILENAME OF TITLE
 
-def create_header(title, priority):
-    """Create an header for a Hugo file"""
-    return f'---\
-title: "{title}"\
-draft: false\
-comments: false\
-weight: -{priority}\
-images:\
----'.strip()
+def remove_stop_words(text_list):
+    # List of common English+Latin stop words
+    english_stop_words = [
+        "i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your", "yours",
+        "yourself", "yourselves", "he", "him", "his", "himself", "she", "her", "hers",
+        "herself", "it", "its", "itself", "they", "them", "their", "theirs", "themselves",
+        "what", "which", "who", "whom", "this", "that", "these", "those", "am", "is", "are",
+        "was", "were", "be", "been", "being", "have", "has", "had", "having", "do", "does",
+        "did", "doing", "a", "an", "the", "and", "but", "if", "or", "because", "as",
+        "until", "while", "of", "at", "by", "for", "with", "about", "against", "between",
+        "into", "through", "during", "before", "after", "above", "below", "to", "from",
+        "up", "down", "in", "out", "on", "off", "over", "under", "again", "further", "then",
+        "once", "here", "there", "when", "where", "why", "how", "all", "any", "both", "each",
+        "few", "more", "most", "other", "some", "such", "no", "nor", "not", "only", "own",
+        "same", "so", "than", "too", "very", "s", "t", "can", "will", "just", "don",
+        "should", "now"]
+    latin_stop_words = [
+    "a", "ab", "ac", "ad", "at", "atque", "aut", "autem", "cum", "de", "dum", "e", "ex",
+    "et", "etiam", "enim", "ergo", "est", "et", "hic", "haec", "hoc", "id", "ille",
+    "illa", "illud", "in", "inter", "ipsa", "ipso", "ita", "me", "mihi",
+    "nec", "necque", "neque", "nisi", "non", "nos", "noster", "nostri", "nostra", 
+    "nostrum", "quam", "quae", "qui", "quibus", "quid", "quidem", "quo", "quod",
+    "quos", "sed", "si", "sic", "sunt", "sum", "tamen", "tibi", "tu", "tuum", "tua",
+    "tuo", "te", "ut", "ubi", "vel", "vero"]
+    stop_words = set(english_stop_words + latin_stop_words)
+
+    # Filter the list to exclude any words that are in the stop words set
+    filtered_list = [word for word in text_list if word not in stop_words]
+    return filtered_list
+
+def id_of_str(title:str):
+    # simplifies the string
+    title = re.sub(r'[^a-zA-Z0-9 ]', '', title)
+    title = title.lower()
+
+    # Split the string into words
+    words = title.split()
+
+    # remove stop words
+    words_filtered = remove_stop_words(words)
+    if len(words_filtered) > 0:
+        words = words_filtered
+
+    if len(words) < 1:
+        # no word found, return the string intact
+        return title
+    elif len(words) < 2:
+        # only one word anyway
+        return words[0]
+    else:
+        # gets the longest consecutive pair of words
+        id = None
+        id_length = 0
+        for i in range(len(words) - 1):
+            new_id_length = len(words[i]) + len(words[i+1])
+            if new_id_length > id_length:
+                id = f"{words[i]} {words[i+1]}"
+                id_length = new_id_length
+        return id
+
+#----------------------------------------------------------------------------------------
+# PROCESSING THE FILE
 
 def create_hugo_rec(node: Markdown, folder: Path, priority:int=0):
     # content to be printed to file
-    header = create_header(node.title, priority)
-    body = node.__str__() # TODO remove title heading
-    content = header + '\n\n' + body
+    content = '---\n'
+    content += f'title: "{node.title}"\n'
+    content += 'draft: false\n'
+    content += 'comments: false\n'
+    content += f'weight: -{priority}\n'
+    content += 'images:\n'
+    content += '---\n'
+    if (node.content != ""):
+        content += '\n' + node.content
+    # unique id that will be used for naming file or folder
+    name = id_of_str(node.title)
+    if priority > 0: name = str(priority) + ' ' + name
     # create the corresponding file or folder
     if len(node.children) == 0:
-        # no children, create a file
-        # writes to file
-        filename = f"{priority} {node.title}.md" # TODO simplify name (minuscule, only first words)
-        file_path = folder / filename
-        write_file(file_path, content)
+        # no children, write to file
+        write_file(folder / f"{name}.md", content)
     else:
-        # children, create a folder with an index
-        # TODO create folder
-        sub_folder = folder / f"{priority} {node.title}"
-        # TODO create index file
-        filename = "_index.md"
-        file_path = sub_folder / filename
-        write_file(file_path, content)
+        # children, create a folder with an index file and subfiles
+        sub_folder = folder / name
+        if sub_folder.exists():
+            shutil.rmtree(sub_folder)
+        sub_folder.mkdir(parents=True)
+        # create index file
+        write_file(sub_folder / "_index.md", content)
         # create children
-        for child_priority, child in enumerate(node.children):
+        for child_priority, child in enumerate(node.children, start=1):
             create_hugo_rec(child, sub_folder, child_priority)
 
+# gets to actual root
+markdown = markdown.children[0]
 
+# creates folder
 create_hugo_rec(markdown, output_folder)

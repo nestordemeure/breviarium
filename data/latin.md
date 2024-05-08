@@ -971,23 +971,115 @@ Descriptionis cum nomine nunquam liberius agas, aut aliquid reprehensibile commi
 
 ### Insidias Eludere
 
+Cum amico litem simula, ut ille veram litem suspicetur, animum prodet, et ea volet uti commoditate; tum subito vinctis amici viribus inimico subsiste, et obsiste; valebit et contra latrones in via insidiantes, vel in aliis, ubi scis esse insidias aliquas; relinque te et progredere ubi insidiae contra te movebuntur, fuge, et eos induc in insidias.
+
+Et, si a potente structas, in verbis dissimula, ne in apertam viam erumpat, sed mediam viam in responsis quaere, ut nec in plagas incidas, nec te dolum advertisse ostendas.
+
+Si aliqui te inducunt ad aliquod factum, ut in eo laedaris, ostende, te id prono animo facturum, et ad illud te praepara, nisi sit difficultas in mediis comprehendendis; et interim a re ipsa aliud oppositum intende.
+
 ### Pecuniam Acquirere, Retinere
+
+Modica dona non contemnas, et dispendia adverte, nec in iis sis largus, ut partes panis, ciborum, circa equos avenas male abire non sinas.
+
+Cum bonis Oeconomis conferas, et ab iis industrias addiscas, cogita, quid ex agris vendi possit, quid plantari, elaborari, et pro eo opifices adhibe. Noveris totum tuum proventum, notos semper respice.
+
+Si expensas facturus es, praecogita prius, quibus id modis tantundem recuperare possis, ut nil decedat, ut si quis strenuis militibus statuit, e.g. quatuor millia scuta, dare.
+
+Prius indicet poenas pecuniarias pro aleatoribus, et similibus vitiis, ut ibi refundatur largitio.
+
+Res utensiles, quae usu pereunt, vel pretium perdunt, pretiosas non habe, sed praecise, ut tuo statui sufficiant, ut vasa argentea, in quibus magis opera, quam pretium aestimatur, quia si necessitas fuerit, parum pro iis redisti. Dispensatoris fallaciam sic deprehendes, si postquam dedit rationes veluti oblitus jusseris eum, ut post aliquot horas e memoria dicat eadem, dissonabit, si falsa sunt.
 
 ### Honorem Obtinere, Conferre
 
+Svade inprimis, necesse esse, honorem conferri, qui talis sit te ipsum per circumstantias describendo.
+
+Tum vero primum ab eo te excusa, veluti fueris in ejus possessione in hoc gradu, in quo es.
+
+Consiliis bonis et claris stude, et multa fac, quae in vulgus grata: constructiones publicorum aedificiorum, erga inopes, et ea quae per non aucta subitorum censa fieri possunt.
+
+Tuis talentis et condignitate ad quaecunque munia nil fide, quasi tibi necessario debeant conferri, ac nullus sit aeque idoneus, quia malunt indignis, quam talibus conferre: Sed ita age, atque si mera gratia Patroni obtinenda essent.
+
+Officiis praeveni, obsequia promitte.
+
+Intercessores adhibe; Occasiones serviendi non promitte vacuas: Te extenua, et palam indignum dic et gratias summas acturus.
+
+Si officium quod habes, potentem requirat, et nemo te sit potentior, ne a te transferri possit, omnes illius proventus in perpetuum dilargire, ut ad illud quisque debeat ferre vires, non invenire, et sic penes tuam domum manebit.
+
+Semper altissima appetere optimum est, ut si studeas, tantum stude, quantum potes, etiam spreta illa jactantia ingenii, quam aliqui docti in studiis volunt videri.
+
+Si virtutes petis eas in alto gradu, dignitates quam maximas potes assequi, unde, et in omnibus locis te securissime colloca.
+
+Administrationes bonorum non dentur perennes, sed ad triennium, ut qui bona auxerit; res pacatius gesserit, in eodem munere confirma, ne securitas socordiam pariat.
+
+Dum fortuna favet, ea utere, quia facile fugit.
+
+Dum es in amore, pete, quae potes; simula mansuetudinem, iram, praemia, honore praeveni.
+
 ### Petitioni Respondere
+
+Non statim nega, sed discursu facto; et si semel negasti, ne sis levis, non nisi ob graves causas concede; negaturus aliquantulum cogita, deinde dolorem finge, vel literas ad te venisse, vel dolore nunciatum, ad quod oportebit habere famulum infucatum, ut signo facto faciat, ostendat gestu et verbis, quod illi satisfacere non possis; lauda petitum ejus, et si persistat petendo, ad deliberandum assume, quomodo tuo affectui erga eum satisfacere possis; commenda famulo prius instituto, ut exequatur, docendo eum modu faciendi, instituendo, ut veluti sua curet; si ad alterum remittis, ne nihil petenti praestet, ostende illi modum, quomodo eum accedere possit.
+
+Plebis est ingenium impetu volare, mori, languere; unde si injusta petat, non statim nega, sed splendidis rationibus, et aliquibus gratiis differ, si vero aliquid gratum sibi desideret, ne morare; aut defixent, aut in contrarium ibunt. Sine odia alicujus tibi velut accepta, in hac ita non sunt falsi sicut in amore. Si alicui munus non potest negari, tale concede, quod sibi periculum infert, et non turbet homini exercitus administrationem specie honoris in aula retinendus est invenienda sunt munera honoraria, ut in munerando sumptibus parcat, ut olim apud Romanos Laudatio.
+
+Laurea Armilla etc. nec minus his speciebus ducentur animi virorum, quam muneribus. Habe statutum anni tempus aut saltem intra triennium circa famulos descriptum Catalogum, per volvas dum ex officiis aliquos dimoveas, aliquos altius attollas, munera distribuas, etiam alicui petitioni aurem praebeas. Promulga si quis per se ipsum rogabit concessurum, et negaturum illi, si per alios curet, in posterum omnia negentur.
 
 ### Affectus Quosvis Assumere
 
+Confice tibi exempla affectuum ex Poetis.
+
+Qualia habet *Palatium Eloquentiae*, et quibus indigeris, ea tamdiu age, donec combiberis.
+
+Nulli etiam amicissimo concrede te, id simulabis facere, et non minus vultum ad affectum fluxum, quam verba habeto; non pauciora ex facie leguntur.
+
+Ipsam tuam timiditatem victam habe, ut rei conscius non minus animose, ac in similibus agas.
+
 ### Convivari
+
+Ut tibi consulas ea plurima cura, quae servari possunt, ut saccharata vel ex cera figurata, fontes, montes, musica sponte sonans, item ea, quae exigunt pretium, tam tamen sunt, ut stemmata eorum, quos tractas, expressa sera pellibus indutae candelabra in mensa teneant, potus varie colorati, et iidem diverso odore, sapore veluti transvectitii invecti, item vina artificiosa, qualia *Arnoldus de Villanova* describit.
+
+Flores, coloratae lactucae, ova ingentia ex pluribus composita, et aromatibus condita, candelae ex glacie ardentes, ignes odoratos, montes evomentes, fontes respergentes nives, et fructus fictos odoratos, vel in ipsa arbuscula poma, mensa allata, quae omnia levi sumptu in tuo horto crescere possunt.
+
+Ipsa etiam oleta veluti peregrina coloribus, et imbuta saporibus proponas. Poma in lagenas, et botros, carnes variis modis paratas, ac raris, de quibus *Plurima et Apicius*, quia in mensa non quod laudabile, sed quod rarum aestimatur.
+
+Item cancros vivos mixtos coctis, carnes cum ossibus e farina factitias, pisces ex carnibus in formis ligneis expressos, suffusis syrupis loco jusculi. Rotula ex glacie facta, qua sponte concidat.
+
+Res aliquae, quae sponte colorem mutant, appareant, dispareant, caseos varie formatos, et temperatos, vasa etiam, in quibus feruntur, possunt e.g. fictitiis, gemmis fieri.
 
 ### Damna Vitare
 
+In vitiis minimis attende, factoresque sui statim tibi indicent, unde quid damnosum immineat, ut non expectetur necessitas, donec acciderit, et simul suggerant rationem illius occurrendi, observanda rerum emendarum et vendendarum ratio est periti circa ignota consulendi.
+
+Singulis septimanis villicus det rationem factorum etc., sit unus, qui omnibus in quietem datis domum perlustret, an omnia clausa, qui absint domo.
+
+Si fueris in aliquo officio, singula data et accepta, utcunque Dominus benevolus fuerit, candidissime in rationes referas.
+
 ### Agere Novum Quid
+
+Initio quatuor praecogita.
+
+Primum erit, num tibi utile, an magis damnosum.
+
+Secundo, an tibi dotes natura suppleant ad hoc.
+
+Tertio, an conveniat hoc tuo statui?
+
+Quarto, si sis in pretio ibi, ubi eligis.
 
 ### Stipulationem Non Perdere
 
+Si deponens aliquid cum aliquo certando de eventu alicujus rei, simul cum altero tantundem depone de contrario ejusdem rei eventu, et sic nil perdis.
+
+In contractibus tibi onerosis appone conditiones indeterminatas, quae latius et strictius possint explicari, v.g. dedita urbe omnia te servaturum, si nullus motus excitetur, non adde, publice, an privatim a tuis, vel aliis, si opus fuerit, et rei aequitas petat; pacta rejicies.
+
+In promissis, si hoc vel illud ad meam contentationem feceris, etc. facile erit ostendere defectum.
+
 ### Errorem Tegere
+
+Si contigerit verbo labi, aut quid inconsultum agere, finge te subito dixisse ad aliorum judicium explorandum, vel quasi aliud exprimendo dixisse, arride veluti obtento, aut dole veluti non obtento fine. Si aliquid ignorans erraveris, a nullo ita exquire ut te advertat nescire, errasse, idque praecogita quomodo veritatem quaereres, vel pete sensum alterius quid in tali casu faceret, tuum interim premendo ne advertaris nescire.
+
+Si oblitus es alicujus dicti (id non simulantibus evenit), cave ne contrarium casu dicas, unde praecipua capita quae dixeris annotasse expediet.
+
+Confundendo alios summe cautus esto, nam aut inscitiam tuam aut intentionem prodes, ideoque prius utrique provide.
 
 ### Odium Malis Conflare
 

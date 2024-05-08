@@ -107,7 +107,7 @@ class Opus(Model):
 
 def cut_until_answer_prefix(text, answer_prefix):
     # Find the index of the first occurrence of answer_prefix
-    index = text.find(answer_prefix)
+    index = text.rfind(answer_prefix)
     
     # If answer_prefix is found, cut the text up to and including the prefix
     if index != -1:
@@ -123,7 +123,7 @@ def cut_after_any_suffix(text, stop_sequences):
     
     # Iterate over each suffix in the list
     for suffix in stop_sequences:
-        index = text.find(suffix)
+        index = text.rfind(suffix)
         if index != -1 and index < min_index:
             # Update the minimum index if this suffix is found earlier in the text
             min_index = index

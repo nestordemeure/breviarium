@@ -17,4 +17,4 @@ You will need the API key in your environment. Tweak script variable to pick a m
   * <https://docs.anthropic.com/claude/reference/claude-on-amazon-bedrock>
 
 * Clean up:
-  * starting at `Invidiam Vitare`
+  * starting at `Odium Malis Conflare`

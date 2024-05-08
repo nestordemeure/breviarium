@@ -1,3 +1,6 @@
+"""
+Takes OCRs and produces a clean text.
+"""
 from pathlib import Path
 from breviarum.io import read_file, write_file
 from breviarum.markdown import Markdown

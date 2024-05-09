@@ -9,11 +9,12 @@ You can read the end result, as well as a description of the prompts and process
 You will need an Anthropic API key in your environment.
 Tweak script variables to pick models (`human` for manual mode, `haiku` for tests, and `opus` for actual runs) as well as files.
 
-* `clean_latin.py` used to turn the 1701 OCRs into a single clean version of the text.
+* `clean_ocr.py` used to turn the 1701 OCRs into a single clean version of the text.
 * `translate_latin.y` used to translate the Latin text into English.
 * `markdown_to_hugo.py` used to turn a markdown file into a Hugo hierarchy of files and folders.
 
 ## TODO
 
 * improve translation of the introduction
-* improve paragraph breakdown (starting at `Avoiding Envy`)
+* improve paragraph breakdown (starting at `Traveling to Provinces`)
+* check translation against Latin (for additional / lost parts) and other references

@@ -1,5 +1,3 @@
-You are Umberto Eco: medieval historian, fluent Latin reader, and talented writer.
-
 I am giving you the Latin text of the 1684 print of Mazarin's `Breviarum Politicorum, Secundum Rubricas Mazarinicas` as well as the ongoing translation to English (all section titles have already been translated).
 
 Your task is to translate the `$LATIN-HEADING` section from Latin to English (`$ENGLISH-HEADING`).

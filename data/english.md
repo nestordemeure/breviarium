@@ -240,100 +240,688 @@ Use Venus moderately in whatever state you remain, and do so according to the re
 
 ### Avoiding Envy
 
+Never act as a witness, for you will offend one side or the other.
+
+Speak of no one who is lowly or base, and if you scorn someone with a remark, continue the conversation as if it were nothing.
+
+In the presence of others, show no singular favor to anyone, for the rest will think themselves despised and begin to hate.
+
+Beware of sudden splendor, for it dazzles the eyes before they become accustomed to beholding it.
+
+Do not accuse those things which are pleasing to the common people, whether vices or customs.
+
+If you have the author of some odious deed, do not offer yourself to fresh hatred, nor do anything by which you may seem to approve of the deed, glory in it, or mock those injured. These greatly increase envy. It is better to be absent and pass over the deed in silence.
+
+Introduce nothing new in dress, appearance, or banquets.
+
+If you make laws, do not show distrust of virtue, but compel all to act uniformly.
+
+Give reasons for things to satisfy everyone, but only after the fact, lest you be hindered.
+
+Have it as a universal principle, but very justly, to speak neither well nor ill of anyone, no matter how much. Do not report good or bad deeds; perhaps there will be a friend of the third party to whom you relate it, and so you will offend. If you praise, perhaps the third party who hears will be less of a friend, and so he will become your enemy. It is better, however, to know much, to see and hear, and to find this out, but circumspectly; for it is offensive to know that something is being sought about oneself, hence it must be sought in such a way that you do not seem to be seeking.
+
+One must beware of a certain excessive generosity, for it seems that someone is being despised; as if you were to say that you have soldiers in a sack, you are not seeking them, etc.
+
+Do not boast that you will proceed more strictly and rigidly by law than your predecessors, for this alienates friends; even if you do this by right, propose only those intentions you know to be pleasing.
+
+Do not easily condemn what predecessors have established; they foresaw things you do not notice.
+
+Likewise, do not readily grant perpetual favors, for it may be necessary to change them later, and you will no longer be able to do so.
+
+Do not appear to bestow gifts carelessly, nor try to increase their worth so that they may be pleasing.
+
+Speculate what necessities someone is urged by, and when; and if you have benefited others, do not tell this to others; you will offend and seem to reproach them. And if you are forced to say it, say it was a debt, and that you do not need or wish to accept thanks for it.
+
+If something is given to you (even if very small), take care not to be ungrateful.
+
 ### Uncovering Secrets
+
+Even servants of low status should be engaged in conversation; overcome by kindness, especially if you grease their palms with gold, they will disclose everything (the same can be achieved through boys, but with risk).
+
+Servants should also be set against each other, so they will betray each other's secrets.
+
+But keep your word faithfully with all, lest they lose confidence; and do not immediately use knowledge without examination.
 
 ### Discerning the Intention Behind Someone's Words
 
+First, note their reasons and then see if they prove what the person says they are doing, or rather what they usually do and are suspected of.
+
+Also, observe whether they act more fervently or more remissly than usual. If not acting on their own behalf, or if they suddenly change their opinion with fervor, it will be a sign they have received bribes.
+
+If, after their reasons have been well refuted, they do not acquiesce, they are not acting in those ways.
+
+Likewise, if their arguments are too elaborate, subtle, far-fetched, and contrary to nature, or frivolous, and yet they pursue the cause fervently.
+
+If on different occasions, when promoting the same thing, they allege different reasons, neglecting the former ones, because we forget those things we do not speak from our own mind.
+
+Send someone to deal with him confidently in the name of friendship and to frankly inquire about the cause. Then he will betray everything else.
+
 ### Avoiding Offense
+
+If you have shown yourself more difficult or less free to someone in granting some request, take care not to show yourself liberal in a similar matter, however inferior or equal, within any period of time. Otherwise, you will either excite distrust toward yourself or hatred between them.
+
+Never increase severity toward those you govern unless you also increase favors at the same time, for you will either incur hatred or contempt. But if you increase both, you will mix love with fear.
+
+If you have dismissed someone from your house, court, or office, and others take it badly, spread the rumor and openly grieve that you at last noticed he inclined you to the public detriment of your subjects, and especially of those who complain of his downfall. Henceforth, their affairs will be in a better state. But to substantiate all this, do things that instill trust, such as if you removed a steward, take care that salaries are immediately paid, which had been held up on his account.
+
+Administer justice liberally in another's skin where your own loss is not inflicted, as if your Governor oppressed the subjects. Let the favor to be returned remain (if the public cause so demands), so that they may attribute to themselves the repetition of their goods, at least to oblige themselves to some burden of their own accord.
+
+If you wish to correct someone, deliberate with him about the remedies. He will have none more pleasing than those he himself discovers. Likewise, let him set his own punishment. In inquiring, do not act as an enemy. Dissemble when you can without harm to yourself and abstain from insults toward the well-born. Give him letters to a certain agent of yours to deliver, letters of recommendation for others. Secretly issue instructions containing his punishment.
+
+If you wish to lead someone back to the right path, put him in charge of correcting in others the very vice to which he himself is prone, e.g. a drunkard should exact punishment from drunkards.
+
+If someone humbles himself sufficiently and publicly, spare him, lest by despair you drive him to worse. Nor compel him to that which the guilty party will most refuse. Be content with a moderate vengeance. After a moderate punishment has been decreed, one should wait to see if perhaps a new life may arise.
+
+When you proceed to the guilty, do not show that you have cut off all avenues for them, so that no one may acquire wrath by hearing their crimes unheard. Show that you were born to clemency.
 
 ### Encouraging Others to Act
 
+To encourage someone to act, take responsibility for the losses they may incur and propose rewards. For example, before a battle, a commander should proclaim recompense for specific wounds, that he will cover their losses in goods and baggage; meanwhile, he should place a strong garrison in the camp, lest concern for it distract the soldiers' minds.
+
 ### Acquiring Prudence
+
+Maintain silence on most occasions and listen to the advice of others, carefully weighing it in your mind.
+
+Take care not to be carried away by the passion of love. Do not esteem your own words and deeds too highly. Do not occupy yourself with useless matters that will be of no future use. In short, do not entangle yourself in the affairs of others.
+
+Freely attribute to others the glory of accomplishments, even if you have brought them a great monument. It will return to you, and indeed with interest - that is, without envy. Beware of anger and revenge.
+
+When the virtues of others are recounted, listen willingly. Rarely marvel at rare things. Give advice sparingly. Do nothing simply to rival others. Avoid lawsuits, even sometimes at your own loss. Never show your precious or easily sought-after possessions to anyone.
+
+If someone incites you to do something, see that they offer themselves as a partner in the risk. If an exhortation, request, or similar matter is to be made, and some business is to be undertaken, first read and seek judgments and similar cases in histories, so that you may be informed.
+
+The rhetoricians should be reread from time to time; they suggest ways of stirring up envy, retorting, excusing, diminishing, etc. Ambiguity must be sought, so that from our statements it may indeed be made clear to both parties, yet nothing concluded; for necessity sometimes compels this. According to Nazianzus, Aristotle wrote his opinions using this art.
+
+Use this genre in books and in odious letters, counsel, forming reasons for both sides by way of discourse, but minimally declaring to which side you adhere or should adhere. Indeed, a digression will be made from this place, or amphibology, either by wishing, imploring, or declaring your affection through some rhetorical mode.
+
+Allow yourself to be admonished, even about false things, and do not excuse yourself, because no one will then admonish you, but rather demonstrate every affection for what is useful. Allow useless remarks to pass by; acknowledge some, even if they are false, so that you may appear flexible and not everywhere afflicted by error.
+
+Train yourself in this, to always be able to give reasons for both sides; to this end, read the modes of the rhetoricians and apologies. If you are unsure, do not argue unless you know you will certainly be the victor.
+
+If you will converse with some people where there is danger of being caught in a word, protest that you say many things in jest, indeed often trying contrary things, in some cases conniving; and for this reason, if something happens rather incautiously, you will be able to excuse that you protested beforehand that you sometimes say certain things in jest.
+
+If you are burdened by games, hunting, and lusts, and are carried away by passions, utterly forbid them for yourself, otherwise you will be about to commit many things incautiously.
+
+With infants, the elderly, the stubborn, and those of slippery memory, moreover with tyrants, act as much as possible in the presence of witnesses. Receive and request commands in writing. Do not readily give advice to more ferocious, impetuous men; they judge by the outcome.
+
+Where it is credible that you are being observed, speak very little; there is an easy lapse in many things. In all things, observe vices and virtues; so that if there is need, you may be able to turn to one side or the other: this will be an armory, useful for many things.
+
+Have shutters on the inside of the windows, and let them be black on the part they meet the windows, so that it cannot be discerned whether the window is closed or not.
 
 ### Acting Cautiously
 
+There are two parts to being a cautious man: *cautious trust*, so that while acting on guard in the presence of friends (since many friendships exist to deceive), trust no one unless you suspect them.
+
+The other is a certain *generosity*, by which we are unwilling to indiscriminately tell the truth to anyone or correct their errors and habits. A pretense of this is indeed preferred, but it is scarcely harmless.
+
+Entrust a secret to no one, because there is no one who cannot become an enemy after an hour. Do nothing when distracted by life's joys, or you will err or betray yourself.
+
+Do not assume that anyone will interpret your deed favorably; there are scarcely two such interpreters in the world. Entrust nothing to letters that you would not want read by a third party; in fact, put his praises in them, so that they may come into his hands.
+
+If you perceive someone wishing to extract knowledge of a matter from you and pretending to know it, do not correct him when he errs. Either dissemble the vices of others or excuse them; close off your own affections or assume their opposites.
+
+In however great a friendship, consider hatred; in fortune, adversity. If something adverse happens, it is not always to be concealed, lest by the very dissimulation it may be believed to have happened more truly.
+
+Act nothing for the sake of appearances, unless you are ready to give a reason for it, because people, not waiting for it, will condemn your deeds. Such is life now that certain virtues are condemned, not to mention doubtful ones.
+
+If inferiors and servants ask something of you, order them to leave it in writing for you, so that you may be able to inspect all the circumstances more closely. You, however, give responses only orally.
+
+If you will converse with some where there is danger of being caught at a word, protest that you say many things in jest, even trying contraries, conniving at some things. For this reason, if something happens rather incautiously, you will be able to excuse that you protested beforehand that you sometimes say certain things in jest.
+
+If you are pressured by games, hunting, and Venus and carried away by passions, forbid them to yourself altogether, otherwise you are about to commit many things incautiously.
+
+With infants, the elderly, the stubborn, and those of unstable memory, and also with tyrants, act as much as possible before witnesses. Receive and request orders in writing.
+
+Do not readily give advice to the more ferocious and impetuous; they judge by the outcome. Where it is believable that you are being observed, speak very little; there is an easy lapse in many things.
+
+In everything, observe vices and virtues, so that if there is need, you may be able to turn to one part or the other: this will be an armory useful for many things. Have shutters on the insides of windows, and let the part where they meet the windows be black, so that it cannot be discerned whether the window is closed or not.
+
 ### Getting Rid of an Ungrateful Guest
+
+Have a pre-arranged signal with a servant, so that when he receives a sign from you, he calls you away as if for urgent business, whispering in your ear or sending a messenger with letters, or announcing that harm has been done, or that there are disturbances among your subjects. Have a doctor forbid you from speaking or drinking, etc. Have a saddled horse brought, as if you are about to depart.
+
+Give oats to the horses, but first shaken with a wolf skin. Provide a stable, but where a wolf's carcass has been buried. Provide a bedroom, but in a bed made for this purpose with windows, and where it will rain, open them. The fireplace should be blocked so that it smokes; the furnace should be lit at first.
 
 ### Conversing with Others
 
+Know yourself, from what background you come.
+
+Some people's conversations are pleasing to no one at first, but gradually become sweeter, and their prudence does not immediately come forth as if from a vestibule.
+
+Others are immediately prudent and learned, but bring a longer delay, and shamefully fail either in judgment or in consequences.
+
+Therefore, temper your meetings in this way: If you are among the former, rarely engage in conversation, but at greater length; if among the latter, do so frequently, but briefly, where you are considered pleasing.
+
+Be a rare guest, lest you become commonplace; in your conversations, consume the material with which you know someone to be affected, praising it. With some discuss statues, with others weapons, poetry, etc.
+
+Do not deal with him while he is distracted by other business, because then he will pay you less attention.
+
+With the melancholic, be serious; with the choleric, be warlike and patient, if you are inferior.
+
+Do not affect gravity; with the learned or experienced in business, use few words and do not pile up many reasons, as on the contrary with the uneducated.
+
+Consider the time, whether it is unsuitable; those who prevail by faction or favor, by whatever means, strive to make them your friends, intent on every occasion, premeditating, for example, if someone should constrain you with a remark in some gathering, conceive in some way a sting for pretending, responding calmly with words, and certainly persuade yourself that you will show yourself outwardly such as you have formed yourself inwardly.
+
+If you must speak of a third party, let his name be unspoken, indeed the place, time, and all circumstances, lest perhaps the one passing by, if he should hear, may be able to guess of whom there is talk; things which are told with difficulty and are considered fictitious, even if they are most true, never utter again.
+
+Deal reverently with all, as if they were your superiors.
+
+Display sincerity in those things which, if divulged, will bring you no harm or praise, e.g. entrusted virtues, and not fictitious ones.
+
+Beware of conversing with those who show themselves venal and ready for any crime against you, because they will also be against you.
+
+Avoid the furious and the desperate, because to deal with them is a matter full of danger.
+
+With rulers, always be sparing of words; they prefer to be heard than to hear.
+
+Give the first seats to the elderly, submit to their admonitions, praise and revere them, for they readily accuse.
+
+Praise and venerate the boastful; among the uneducated, read their condition.
+
+Be rare with the talkative, who have everything in their mouth.
+
+Diligently praise what someone loves; censure what he hates. Acting to the contrary, even unwittingly, will offend.
+
+When you deal with individuals, act as if you had that one as a friend, and no others.
+
 ### Joking
+
+Include nothing obscene in your words or deeds (for this is the way of buffoons), and do not imitate the voices of birds or other animals. A joke should never contain truths that the other person would blush at, defects of nature or character, for they leave a bitter memory. Also, do not relate another's misfortunes, whether present or absent; these are to be heard, not told.
+
+For honest and pleasant conversation, read authors who relate events full of interest, and even poets, so that you may learn to mingle emotions.
+
+Never act too freely or commit anything reprehensible in another's presence, no matter how close the relationship.
 
 ### Avoiding Ambushes
 
+If you are pretending to have a quarrel with a friend, let him suspect it is a real quarrel, so he will reveal his true feelings and try to take advantage of the situation. Then suddenly join forces with your friend against the enemy and resist him. This will also work against robbers setting an ambush on the road or in other situations where you know there are ambushes set against you.
+
+Leave and proceed to where the ambushes will be set in motion against you, then flee and lead them into an ambush. If the ambush is set by a powerful man, dissemble in your words so you neither fall into his traps nor show that you noticed the deceit. Rather, seek a middle ground in your responses, so that you neither incur harm nor demonstrate awareness of his treachery.
+
+If some people are inducing you to take some action, so that you may be harmed in doing it, show that you will do it with eager spirit and prepare yourself for it - unless there is difficulty in grasping the means. Meanwhile, secretly plan the opposite.
+
 ### Acquiring and Retaining Money
+
+Do not despise small gifts and be attentive to losses. Do not be lavish with them, such as allowing pieces of bread, food, or oats for horses to go to waste.
+
+Confer with good economists and learn their methods. Consider what can be sold, planted, or produced from your lands, and employ craftsmen for that purpose. Know your entire income and always have an eye on your affairs.
+
+If you are going to incur expenses, first consider by what means you can recover just as much, so that nothing is lost. For example, if someone decides to give four thousand scudi to valiant soldiers, he should first announce monetary penalties for gamblers and similar vices, so that the expenditure may be refunded there.
+
+Do not have precious utensils that perish with use or lose their value, but only enough to suffice for your status, such as silver vessels, in which the workmanship is valued more than the material. For if there is necessity, little will be returned for them. You will detect the deceit of a steward in this way: after he has given an account, as if having forgotten, order him to recite the same things from memory after a few hours. If they are false, he will give inconsistent answers.
 
 ### Gaining and Conferring Honors
 
+First persuade that it is necessary to confer honor that is such as you yourself describe through the circumstances.
+
+Then first excuse yourself from it, as if you had been in possession of it in the same degree as you are now.
+
+Strive for good and clear counsel and do many things that are pleasing to the public, such as the construction of public buildings, toward the poor, and those things that can be done without increasing the sudden taxes.
+
+Do not rely on your talents and worthiness for any duties, as if they must necessarily be conferred on you, and as if there were no one else equally suitable. For they prefer to confer them on the unworthy rather than on such men. But act as if they were to be obtained simply by the grace of a patron.
+
+Anticipate with good offices and promise obedience.
+
+Bring in intercessors; do not promise empty occasions of serving. Diminish yourself and openly say you are unworthy and will give the greatest thanks.
+
+If you have an office that requires a powerful person, and there is no one more powerful than you, bestow all of its revenues in perpetuity, so that anyone must bring their strength to it, not find it, and thus it will remain with your house.
+
+It is always best to seek the highest things, so that if you study, study only as much as you can, even spurning that boasting of talent which some learned men wish to seem to have in their studies.
+
+If you seek virtues, seek them in a high degree; attain the greatest dignities you can, and thus place yourself most securely in all places.
+
 ### Responding to Requests
+
+Do not immediately refuse, but do so after some discussion; and if you have once refused, do not be fickle. Do not concede except for serious reasons. When about to refuse, ponder it for a while, then feign sorrow. Or have letters brought to you, or announce sad tidings, for which you should have a trusty servant prepared to make a sign, show by gesture and words that you cannot satisfy him.
+
+Praise what he asks and if he persists in asking, take time to deliberate how you can satisfy your affection toward him. Entrust it to a previously instructed servant to carry out, teaching him the way of doing it, arranging for him to take care of it as if it were his own. If you refer him to another, lest he grant nothing to the petitioner, show him the way in which he can approach him.
+
+The nature of the common people is to fly, die, or languish on impulse. Hence, if they ask for something unjust, do not refuse immediately, but put them off with splendid reasons and some favors. But if they desire something agreeable to themselves, do not delay; they will either be fixed or turn to the opposite. Allow the hatred of someone to be accepted by you, as it were; in this they are not as false as in love.
+
+If someone is going to confer an office that cannot be refused (and if to the least extent), grant one that brings danger to himself and does not disturb the administration of the army in the guise of honor, as the Romans once did by retaining men in the court with honorary duties. Also, do favors for the leaders of the enemy, preserving some correspondence with them, unless pressed by an inexcusable necessity.
+
+Proclaim a set time of the year, or at least within three years, for a written catalog concerning servants, through folding doors, while you remove some from their duties, raise others higher, distribute favors, and even lend an ear to some petition. Announce that if anyone asks through himself, you will grant it, but deny it to him if he arranges it through others. In the future, let everything be denied.
 
 ### Assuming Various Affections
 
+Compile for yourself examples of affections from the Poets, such as the *Palace of Eloquence* provides. Practice those you need until you have absorbed them.
+
+Entrust yourself to no one, even your closest friend. You will pretend to do so, but have no less command over your countenance than your words in displaying an affection; no less can be read from the face.  
+
+Master your own timidity, so that, conscious of a matter, you act no less boldly than in similar cases.
+
 ### Feasting
+
+To consult your own interests when feasting, focus on those things that can be preserved, such as candied fruits or wax figurines, fountains, mountains, self-playing music, items that demand some artistry, while still being relevant, such as bearing the coats of arms of those you entertain, expressed in wax, covering candelabras at the table, drinks of various colors and the same with different scents, flavors imported as if from afar, and artificial wines, such as *Arnoldus de Villanova* describes.
+
+Present flowers, colored lettuces, giant eggs composed of many and seasoned with spices, candles burning from ice, fragrant fires, vomiting mountains, fountains sprinkling snow, and fake fragrant fruits, or apples brought to the table on the very branch - all things which can grow in your garden at little expense.
+
+Even the pot-herbs should be presented as if exotic, imbued with colors and flavors. Mix fruits in bottles and clusters, meats prepared in various and rare ways, of which *Apicius* offers very many, because at the table it is not what is praiseworthy, but what is rare that is esteemed.
+
+Likewise, mix live crabs with cooked ones, counterfeit meats with bones made from flour, fish made from meats pressed in wooden molds, syrups poured in place of broth. Have a wheel made of ice, which falls apart on its own.
+
+Some things should appear that spontaneously change color, disappear, and reappear; cheeses variously formed and seasoned; even the vessels in which they are carried can be made, for instance, of fake gems.
 
 ### Avoiding Losses
 
+Pay attention to even the smallest losses, and have those responsible immediately report to you about anything harmful that may be imminent, so that the need to act is not delayed until after it has occurred. Also, let them suggest at the same time a way of averting it. The rates for buying and selling goods should be observed, and experts should be consulted about unknown matters.
+
+Each week, have the steward give an account of what has been done, and have one person, after everyone has retired, search the house to see if everything is locked and who is absent. If you hold any office, refer every expense and income, however benevolent the Master may have been, most candidly in the accounts.
+
 ### Acting in a Novel Way
+
+At the outset, contemplate four things:
+
+First, will it be useful to you, or more harmful?
+
+Second, does nature supply you with the gifts for this?
+
+Third, does it suit your status?  
+
+Fourth, are you valued there, where you choose?
 
 ### Not Losing a Bargain
 
+If you are contesting an outcome with someone by betting on it, at the same time have another person bet the same amount on the opposite outcome, and so you will lose nothing.
+
+In burdensome contracts, include indeterminate conditions that can be interpreted more broadly or narrowly, e.g. that upon the city's surrender you will preserve everything, if no uprising is incited - do not specify publicly or privately, by your men or others. If necessary and fairness demands, you will reject the agreements.
+
+In promises, say "if you do this or that to my satisfaction", etc. It will be easy to demonstrate a defect.
+
 ### Covering Mistakes
+
+If you happen to stumble in speech or act thoughtlessly, pretend you said it suddenly to test the judgment of others, or that in expressing one thing you said another. Smile as if your goal was achieved, or grieve as if it was not.
+
+If you have erred out of ignorance in some matter, do not inquire of anyone in such a way that they notice you are unaware or have erred. Also, premeditate how you would seek the truth, or ask another's opinion on what they would do in such a case, while concealing your own, lest you be noticed as ignorant.
+
+If you have forgotten something you said (which happens to those not feigning), take care not to say the opposite by chance, whence it will be expedient to have noted the main points you stated.
+
+Be most cautious in confounding others, for you will betray either your ignorance or intention. Therefore, provide for both beforehand.
+
+If you will have been condemned to punishment, whether justly or unjustly, always excuse him in the presence of others and speak well of him.
+
+Never promise anything in writing to anyone, especially women.
+
+Whether you are compelled by some stronger affection (if you can), rather avoid it, or at least adhere to it most cautiously.
+
+It is never a disadvantage to further secure your affairs, however firm they may be. After your action has passed, and over another's, reflect on what was lacking in it, when it could have been seized, when it could have been better instituted, etc.
 
 ### Stirring Up Hatred Against Wicked Men
 
+Praise the one you need to be motivated by favor in the presence of the one whose favor he enjoys, but in such a way that the praise may turn to the offense of his patron. Add that such things are commonly rumored, saying you are not expressing your own opinion, leaving the conclusion that he should look out for his own reputation, and that this very thing should be intimated - that his neighbor's reputation is in jeopardy. At the same time, he should be reassured to disregard rumors and let vain things grow old, yet let him feel the matter concerns him.
+
+Or praise the client as if sympathizing with his affections, with a plaintive voice, and propose them well exaggerated along with their consequences. Say he is outstanding but blemished by this vice, which conceal.
+
+Never threaten one you intend to harm, for he will take precautions. Instead, pretend you are unequal and unable, even if you wished.
+
+Draw him back into friendship with you, engage him in feasting, so as to render him unguarded, and have hidden witnesses before whom you say, so that he may blurt out something, either against the ruler, etc. This will provide material for an accusation.
+
+Exaggerate the deed of an enemy, what evils will follow unless he is punished.
+
+Meanwhile, to appear less motivated by passion, deprecate punishment, but ineffectively, and as if from a distance hatred must be cast. His character and deeds must be interpreted, and when the occasion allows, he must be driven into ruin with faltering steps.
+
+Never attack many at once, but form friendships with others in the meantime. Always secure your own affairs before attacking those of others, and do not indulge in revenge or neglect occasions for conducting your own business.
+
 ### Dissolving a Friendship
+
+When dissolving a friendship, never abruptly break it off, as if from hatred after receiving an injury. Instead, having reconciled and showing fervent love, gradually withdraw. So that it may gently dissolve completely, meet infrequently and, if occasion demands, briefly converse as if burdened by business.
+
+Persuade him to borrow things from a friend that he will likely damage, such as horses for a long journey or clothing for a feast, either at a time when he will need them himself or without specifying a return date. Thus, whether harm is done or not, the result will be the same. Or suggest that he ask for any other things without designating a time for their return, so that he may harm himself by the labor of reminding or returning them. Let him be ashamed to meet the other, and so the friendship will gradually cool.
+
+Let it be rumored that he lives by his friend's advice, can do nothing on his own - indeed, that his friend denies him his house, even his household. Point out his burdens, and so they will meet less often and drift apart. Or arrange for a friend to entrust him with a secret, which you meanwhile cause to become known to others. In this way, he will consider his friend's trustworthiness suspect.
 
 ### Praising Others
 
+Under the pretext of frankness, act as though you speak and act only according to your own judgment and for the public good, hating nothing more than flattery. The subject's mildness and clemency should also be excused as a debt of piety, so that his rigor may languish. Never utter praises which, while praising one person, openly disparage others, except perhaps where there is a crowd and many confused voices.
+
+Therefore, leave your friend's virtue unpraised and overlook his vices.
+
 ### Preventing Someone from Declining a Duty
+
+To their objection or excuse, say that you will satisfy their request when it becomes evident that you have not looked out for their best interests. Leave letters to be read after a certain day of your departure, meanwhile announcing his office to everyone.
+
+If he writes letters back to you, do not respond to them at all. If he deprecates orally, say that he is simply in that office for a short time and will soon be freed if it seems fit. Exaggerate his labors so that he can demonstrate his merits to repel the envy of others. Then say this office is conferred only on those who are to be promoted to greater things, whose virtue is perfect.
 
 ### Controlling Anger
 
+Do not be quick to anger at anyone, because very often you will find that the matter was reported maliciously, and you did not understand it. If in the meantime you do something out of anger, the harm will remain with you.
+
+If you are injured, it is best to dissemble, because quarreling breeds quarrels, and peace is lost. And even if you conquer the person, this will be harsher than being conquered, and meanwhile you will stir up more opposition against yourself.
+
+Respond to those who restrain you in the best way possible, sometimes speaking ironically or maliciously. Respond candidly to their words, not to their intention, and meanwhile pretend to be occupied with other cares.
+
+If someone accosts you on the road, not naming you indeed, but denouncing the deed of which you are suspected, seriously accuse the same deed and the wickedness of such men as if you were in no way conscious of it. Or pretend not to understand and respond about entirely different matters.
+
+But if he even names you, act as if he were not seriously rising up against you, but feigning anger. Then append jocular remarks that do not disparage him, but dispose him to cheerfulness. And after they have left off, show by lighter means how futilely those things, though excellently denounced, were exaggerated, and how trivial the cause is.
+
+If it happens that you are received by someone in an unfitting manner, dissemble and hide the enmity, and act in the same way as if you had been received honorably. Thus his rudeness will be a punishment to him and a source of confusion, and he will compensate for his error with kindness.
+
+If someone rails openly against new honors, defending their cause will suit your nobility. Bring forth the praises of ancient blood - let the reason be equal concerning other cases.
+
+If you are openly assailed with abuse, so that there is no place for dissimulation, have jocular responses ready at hand, or begin some little story, which will be relevant to the matter in any case, through which, however, a way may be prepared for other discussions to follow.
+
+Have some who, at a given signal, will offer letters, and when you have read them, say that something amusing has happened, to which he may be called away by chance to witness.
+
+Leave time for the enemy, so that he himself may realize the unworthiness of the deed, yet do not propose it to him, lest the occasion for anger seem to arise from your side. It is also customary for anger to arise if someone infallibly resolves to complete a task within a certain time, and meanwhile something occurs - beware of such resolves.
+
 ### Fleeing
+
+Aqua fortis should be carried with you, like burnt wine, with which to drench your clothes stuffed with straw and suspend them. The guard will believe you acted out of desperation and, neglecting his watch, will spread word to the others. Seize the opportunity.
+
+Feign illness, such as bloody stools by eating *red ochre*, alter your pulse by pressing near the elbow, induce pallor. Hence request that a doctor be summoned. Complain of being fatigued by insomnia. Request to be transferred to the guard's house and to dine with him that day. Ask for a sleeping draught, which you will offer your host in his drink.
+
+While preparing for escape, tell your companions you will flee by sword, so that if any of them are questioned by pursuers, they will dash their hopes of catching you. Leave a bloody sword on the road or clothing on a riverbank, as if you had thrown yourself into the waves. Or persuade your comrades to retreat to safety, and when you are alone, burn down the isolated house you are in, as if you had perished in the flames.
+
+Have a manageable horse, double its shoes affixed with nails, and bring durable provisions. Never inquire about only one route, but several at once, and in sight of someone, plan the escape you least intend. Likewise, when leaving cities and villages, first go into the fields, then change your clothing, cloak, and appearance, and return by the proposed route.
+
+If the pursuers are pressing close, leave behind a wounded horse. When it falls into their hands, they will suspect you have been killed. Leave your cap floating in a river or well, so that you may be believed drowned.
+
+Also, have a horse blanket with wide seams, whose color you can change at will, and a mask molded from hide, painted on both sides with different faces, so that you can assume them as you please.
 
 ### Punishing and Correcting
 
+Do not punish with your own hand, lest you acquire cruelty. If someone must be well punished, and a serious case is lacking, prepare it in this way:
+
+Punish a mild offense, which you could forgive, lightly. The offender will resent it and begin to complain and grumble. Punishing him again, he will complain again, until as if contumacious, he will give greater reason for a greater punishment.
+
+Young people are sometimes more inflamed by punishment; therefore, certain things should be permitted to them, but such things that satisfy their desires, neither incite them to other things (that is, they do not need anything else to obtain these, nor do they lead to similar things).
+
+If you have removed someone from your household, court, or office, and others take it badly, spread the rumor and openly grieve that you at last noticed he inclined you to the public detriment of your subjects, and especially of those who lament his downfall. Henceforth, their affairs will be in a better state. But to substantiate all this, do things that instill trust, such as if you removed a steward, immediately take care that salaries are paid, which had been held up on his account.
+
+Administer justice liberally in another's skin where your own loss is not inflicted, as if your Governor oppressed the subjects. Let the favor to be returned remain (if the public cause so demands), so that they may attribute to themselves the repetition of their goods, at least to oblige themselves to some burden of their own accord.
+
+If you wish to correct someone, deliberate with him about the remedies. He will have none more pleasing than those he himself discovers. Likewise, let him set his own punishment.
+
+In inquiring, do not act as an enemy. Dissemble when you can without harm to yourself and abstain from insults toward the well-born. Give him letters to a certain agent of yours to deliver, letters of recommendation for others. Secretly issue instructions containing his punishment.
+
+If you wish to lead someone back to the right path, put him in charge of correcting in others the very vice to which he himself is prone, e.g. a drunkard should exact punishment from drunkards.
+
+If someone humbles himself sufficiently and publicly, spare him, lest by despair you drive him to worse. Nor compel him to that which the guilty party will most refuse. Be content with a moderate vengeance.
+
+After a moderate punishment has been decreed, one should wait to see if perhaps a new life may arise. When you proceed to the guilty, do not show that you have cut off all avenues for them, so that no one may acquire wrath by hearing their crimes unheard. Show that you were born to clemency.
+
 ### Quelling a Sedition
+
+Never allow more than one to deal with you at a time, but let them choose one from among themselves. Philosophers inquire into the causes of an uprising; if it is due to usury, lend without interest yourself. Offer great rewards to whoever quells the sedition, suggests a way to resolve it, eliminates the ringleaders, or betrays them.
+
+If the people are fierce, they must above all be brought to virtue by good men; the fear of God and piety must be instilled, for these alone will soften them. The instigators of the factions must be accused with false rumors of seeking hidden private gain and dominion at the expense and bloodshed of the people, and that they will gain no advantage from it.
 
 ### Hearing and Speaking Self-Praise
 
+Arrange for the speech to incline toward subjects that are pleasing, describing yourself through the circumstances.
+
+Then first excuse yourself from it, as if you had been in possession of it at the same level as you are now.
+
+Be the last to praise yourself, and let the praise contain no comparisons or singularities. And even if the praises are true, they rarely find full credence.
+
+If someone praises you openly in the presence of a ruler, doubt whether he has secretly accused you.
+
+When you are praised the most, beware lest you be led into a trap.
+
+When all your actions are praised, and thanks are given for everything, and you are preferred to all others, hold all these things most suspect.
+
+Do not say all that you can do through boasting, for you will inform your adversary.
+
+Do not value your own words and deeds too highly.
+
+It is sometimes advantageous not to conceal your virtues too much, nor to blame long devotions, lest you seem irreverent.
+
+Even if you can obtain something in a harsher way, do not employ that method.
+
 ### Having Internal Peace
+
+Do not resolve that you will by all means accomplish something within a set time, because either you will meanwhile omit many unforeseen intervening matters, or if you are hindered, you will be disturbed. Persuade yourself that it is not likely your own people will avoid every error - plan nothing.
+
+Disregard the complaints of your subjects about you; keep a secret either not accepted as a secret or held.
+
+With men suspected of loquacity, deal no more than with customary formulas, such as "How are you?" etc.
+
+Promise your assistance in interceding to no one of your own accord; if it does not succeed, you will be disturbed.
+
+Do not personally oversee the work of craftsmen.
+
+Have no dealings with complaining, groaning women and the obstinate.
+
+If you are compelled to go to places that do not please you, refuse to conduct your business there; deny it and act there as if the places were destined for other uses.
 
 ### Disregarding Criticism
 
+Gather written lampoons about yourself and read them yourself, while also having them read by others. Laugh at them, for in this way the author will despair.
+
+Do not publicly display a lampoon written against you. Invent business if it must be displayed. Do not always cover up if something adverse happens to you, lest by the very dissimulation it may be believed to have happened more truly.
+
 ### Acquiring Dexterity in Acting
+
+When sympathizing with someone's suffering, console them, as the Rhetoricians say, through commonplaces, without touching on anything that may offend them.
+
+If someone is disparaged in your presence, be most cautious - neither praise nor condemn. Both are odious.
+
+Speak well of your superiors, even if you have been offended by them, and do not allow or dissemble when another speaks ill of them, even if it pleases you.
+
+You will detect the truth of those who accuse someone before you in this way: Listen to the accusers orally and note down the points, then order them to give these to you in writing. Say you are doing this so that the accusations may be read to the face of the accused. Compare and you will know the truth.
+
+Even if things go badly for some, do not ridicule them. Rather, strive to excuse, entreat, and help.
+
+Do not act in such a way toward those not subject to you that you may seem to be acting through jurisdiction.
 
 ### Averting Suspicion
 
+Read the titles *Gaining Favor*, *Avoiding Giving Offense*, *Acting Cautiously*. If you are suspected of having stained someone before the Prince, inscribe letters to him containing praises, and send them *so that they reach those who suspect you*.
+
+Or if you wish to vex them, allow letters inscribed within to be seized, so that they suspect various artifices that the writing could be read by water or fire. Or rather write only the first and *last* syllables of each sentence, and openly pray that you do not wish them to reach the Prince's hands, lest you seem to be a flatterer.
+
+If you must be removed from office, first for some time do not provide the necessary funds for it, so that he contracts such debts as will suffice for punishment when he is removed from office. These debts are not to be considered valid, so that the creditors themselves may exact them from him. Thus you have punished him with money without trouble to yourself.
+
+If someone enjoys the favor of the ruler, entrust to him a sum of money or something which the ruler most carefully locks away, or which most concerns his wife. Steal it from him at night (this is to be done in the manner of a joke). The ruler should be forewarned at the same time to be on guard against treachery and that the servant has been corrupted. All these things are to be premeditated.
+
+If it is feared that the injured party may stir up disturbances, as if you wish to deprive a general of his command, first arrange for him to be suddenly bound, and render that position so secretly that it does not appear to be happening. At last, hand over his army to an equal, give payment to the army from your own funds, lest they miss their lost general.
+
+If someone too famously disputes at table, asserting something false, order paper to be brought so that he may write his opinion, and subscribe to it, and dispute about it tomorrow. And if you notice that some proud man is seeking your office, for which he is unequal, as if you are a general (for this type is especially prone to rivalry), *provoke the enemy*, make everything difficult, while still providing well for yourself as to provisions for the fortress. Ask, as if distracted by another war, that he may succeed you, and do not give him an account of the war, or the places, or the enemy. Thus he will fall into difficulties, and do not hasten to his aid until he recognizes both himself and you.
+
+If it is expedient that some youths be utterly subverted, so that they may be softly treated against their will, they will be broken by singing, painting, sculpting. Let them have desperate servants as prefects, to whom nothing is of value in honesty, who are venal for everything, who follow the desires of youths, not govern them. The same holds for others, to whom you suggest such desperate servants, so that the languishing may stumble upon them. *Send sluggish senators to the sluggish Senator*. Through an unknown person, from his friend, send letters of response, and allow them to be lost as if through the bearer's sloth, so that they may be read by many, so that his affairs do not succeed. Impose many things to be done by him at once, so that he may obtain nothing. Persuade him to seek, to ask for many things.
+
+Kill his animals, in which he delights, by art, e.g. by assigning foods seasoned with pepper, saffron, so that the animal may be rendered rabid.
+
+Alter the horse which he is about to use with drugs, so that, upon receiving the rider, it may be rendered furious. Propose immense rewards, so that he may enter, for instance, to the lion, you will see him fall into an evidently dangerous matter.
+
 ### Overthrowing and Deposing Wicked Men
+
+If the one to be deposed currently enjoys the favor of a ruler, first deposit with him a sum of money, or something which the ruler guards most carefully, or which concerns his wife most. Remove it from him secretly by night (this should be done in the manner of a joke). At the same time, the ruler should be warned to beware of treachery, and that the servant has been corrupted. All these things must be planned in advance.
+
+If it is feared that the injured party may stir up disturbances, as when you wish to deprive a general of his office, first arrange for him to be suddenly bound, and do this so secretly that it does not appear to be happening. Finally, hand over his army to an equal, give payment to the army from your own funds, lest they miss their lost general.
+
+If someone disputes too forcefully at the table, asserting something false, order paper to be brought so that he may write down his opinion, sign it, and dispute it tomorrow. And if you notice some proud man seeking your office, for which he is unequal (as if you are a general, for this type is especially prone to rivalry), *provoke the enemy*, make everything difficult, while still providing well for yourself regarding provisions for the fortress.
+
+Ask, as if distracted by another war, that he may succeed you, and do not give him an account of the war, the places, or the enemy. Thus he will fall into difficulties, and do not hasten to his aid until he recognizes both himself and you.
+
+If it is expedient for some youths to be completely subverted, so that they may be treated gently against their will, they will be broken by singing, painting, sculpting. Let them have desperate servants as tutors, who value nothing in honesty, who are venal in everything, who indulge the desires of youths rather than govern them.
+
+The same holds for others, to whom you suggest such desperate servants, so that the languishing may stumble upon them. *Send sluggish senators to a sluggish Senator*. Through an unknown person, send responsive letters from his friend, and allow them to be lost as if through the bearer's sloth, so that they may be read by many and his affairs do not succeed.
+
+Impose many things to be done by him at once, so that he may accomplish nothing. Persuade him to seek and ask for many things. Kill his animals, in which he delights, by guile, e.g. by providing foods seasoned with pepper or saffron, so that the animal may be rendered rabid.
+
+Alter with drugs the horse which he is about to use, so that upon receiving the rider, it may be rendered furious. Propose immense rewards for him to enter, for instance, the lion's den - you will see him fall into an evidently dangerous situation.
 
 ### Traveling to Provinces
 
+Upon arriving in any region, first, let no accounts be kept, but whatever is worthy of note, whether good or bad, should be recorded in an unknown language, not the common one, lest if a native should notice, he may take offense.
+
+Second, examine all sacred things in places both public and private, such as temples inside, epitaphs, offerings, tombs of illustrious men, symbols of the dead, organs, columns, pulpits, etc., as well as fortresses, mountains, forests, valleys, rivers, and their nature, outpourings, sources, and the origin of their names.
+
+Third, note the constitution of the air, as that of Rome is not praised by newcomers, while that of Bologna and Padua is better, and the lengths of nights and days.
+
+Fourth, observe the location of cities, what part faces which direction of the world, the mines of each metal, hot springs, ships, ceremonies, bells, clocks, etc. These should be inspected cautiously.
+
+Towers, as in Germany the three most noble besides the others, in Vienna, Strasbourg, and Landsberg. The coats of arms and origins of cities, aqueducts, wonders, and sieges.
+
+Fifth, the rites of Academies in conferring degrees.
+
+Sixth, arts and artisans, armories, and in these, machines, marbles, palaces, modes of feasting, the capacity of the soil for various seeds.
+
+Seventh, the state of the Republic, the power of the Bishop, the custom in weddings and festivals; commerce, piety, wealth, pursuits - each to be inquired about from those experienced in them. Note especially those things useful to you, what chiefly delights that Nation, in what respect it can be conquered.
+
+How in every place, name, and form the manner of speaking is noted, how fruits and gardens are preserved, and caves and mines.
+
+Do not enter subterranean places prone to errors without being well-equipped with a flint, and place some candles in various spots. If you enter alone, follow Ariadne's advice and take a very long thread, so that you may be able to exit by following it. Because often the air in these caves is noxious, bring perfumes and ointments, and well-fortify yourself before entering.
+
+Praise the nation among whom you live, and blame the one this nation reviles.
+
 ### Not Desiring Vain Things
+
+When dealing with a serious matter of great importance, concede the frivolous path to others, such as applause, glory, etc. If an enemy wishes to surrender a city, offer the most honorable conditions: let him recognize he is not conquered, but doing a favor; let him depart with banners unfurled, and let nothing vain that a victor could wish for be lacking to him, provided that he yields the lands, hands over the captives, and leaves behind the gold and fortifications - and this when the sun sets.
+
+The same applies to matters that are valued for the subtlety or variety of the work, such as flowers, etc. Allow others to have such things as a reward, not you.
+
+Never premise admonitions so that you may suffer some harm in the present from this, as if by chance he should vow to show himself grateful to you in return. Words, and no more, are worth only as much as you should expend on words. Forgetting such things at once, your own loss always remains with you.
+
+Let others have glory and renown without you; seek power alone for yourself.
+
+If you are promoted to something splendid, take care also to promote one whom you fear may stir up trouble, but let him enjoy the glory of the office, not the fruit.
 
 ### Arguing and Correcting
 
+That is a suitable time when the subject expects nothing but praise and comes to give thanks. Then reprove him. This is not a clever mode of arguing.
+
+Also praise even the smallest deeds, for thus diligence grows. It is best to admonish through a friend of his, in confidence and secretly.
+
+If someone is entangled in illicit loves and you wish to free him, bury him in tumultuous business. Suborn some to criticize his words or deeds, report them to you, bear false witness, and approve none of his actions.
+
+See, moreover, with whom he deals; cut them off. No less should companions of the same kind be associated with him in this - men with men, women with women, because the opposite sex has proven harmful.
+
+Companions should be assigned who, if not by virtues, at least labor under contrary vices. This one fierce, that one smooth; these ardent, those relaxed.
+
 ### Simulating Affections
+
+You will pretend to display affections for an extended time if they are commonly seen in public, but eventually people will oppose it. Therefore, it is better to abstain from the light and entice others who truly have such affections to do the same.
+
+It will be best for you to be distracted by serious matters in the meantime, so that you may forget even the very affection you wish to elicit. Thus, no one, however much they may observe you, will gather wrath and joy from you.
 
 ### Avoiding Lending Money
 
+Order a servant, who is handing over the items, to provide a receipt in which everything is described, to be signed as if he were taking up his own cause without your knowledge. Therefore, if you cannot avoid this situation, it may be expedient to proclaim yourself a debtor, or to simultaneously request to borrow something equivalent in return, pretending that you are in need, or that you indeed do not have an abundance of the money your friend is requesting, but that you can find it, and indeed without interest, provided that he offers collateral, or if he has things to be divided, their price will increase in the summer, if he deposits something with you.
+
 ### Arriving at the Truth
+
+To obtain another's true judgment about your affairs, act as if someone else were delivering your speech, or read your own deed and refer to it as pertaining to another. Thus inquire about their judgment: people form different judgments, and humanity among friends is different. Therefore, trust if you are modestly praised.
+
+Attributing some praise is humane; ascribing no praise, inquiring curiously about the matter, approving nothing about the deed, is inhumane.
 
 ### Accusing
 
+Be the last to accuse, and do not bring a lawsuit against one whom you know to be more favored by the judge than you, unless you have first noticed the judge's mind turning to your cause.
+
+If you have brought a lawsuit, or one has been brought against you, even if your cause is most just, act as if it were extremely bad. Approach and influence the judges with gifts; approach your adversary through mediators who may meet with him. Seek to premeditate exactly and at leisure those things which can be objected to you, what may be answered - yet keep all things most secret.
+
+By no means be induced to show your rights or privileges to anyone, for you will give them something to notice and exploit.
+
+Also recognize the nature of the one by whom you are accused - fierce or ignorant - so that you may know how to control yourself. If fierce, choose a time when he is in a fervor; if ignorant, one must act slowly. Care must also be taken that the accused in no way knows that he has been accused, and in what cause, but that the accusation may come upon him suddenly, which disturbs even those well-practiced in their own cause.
+
+Also choose those who may promote your side, it matters little of what rank or appearance the men are, provided they are dear to the judge. And involve them in danger, showing that their case is at stake, so that they may persuade themselves that they cannot acquiesce except at their own extreme peril.
+
+Moreover, act so that all the accusations may be carried out, not in the manner of a cause or lawsuit, but of friendship or secret admonition. Mix in more atrocious things from the judge's own vices, which, because they are true, will also be believed about the defendant. Let the judge himself beware, so that he may notice his own reputation, honor, and life are in jeopardy.
+
+In the presence of the judge, show all mercy toward the defendant, that you are moved only by public evils, perhaps to accuse his fortune, that you must denounce the case of an otherwise rightful friend.
+
 ### Being Accused
+
+If you notice that you have been accused by someone, it must be concealed. Do not suddenly correct yourself in the matter about which you were denounced, lest the informer boast that his accusation was favorably received by the one to whom he reported it, and that his accusation was gratefully accepted.
+
+Indeed, call him an enemy and informer when given the opportunity, saying that such men are desired, as traitors are usually desired, but never loved. And from this, one is accustomed to argue that if he portrays others in my presence, he does the same with me in the presence of others. Indeed, less prudence and harmony are present in those who are not allies, but critics of others.
+
+If he admits such men as useful to himself, he will nevertheless bear the disposition of his soul toward such men in due time. If the one who denounced you spoke the worst about you in the presence of another, wishing to turn you away from him, speak the best about a third party, with whom you are to be engaged, in the presence of this same one.
+
+At the beginning of the dispute, with the accuser himself, show him as an accomplice, or let the judgment be conducted in his presence, especially in those matters which are pleasing, such as formerly depositing with the judges things to be revealed in the military year.
+
+If you are accused of many things, do not deny everything, lest you lose credibility. Acknowledge some things, even if false, so that there may be no opinion that you are flexible and not everywhere afflicted by error.
+
+Often it will help, if you know that you have been denounced to your superior, that you do not clear yourself if he does not demand it. You will stir him more, you will incite him, but by initially avoiding it to the utmost or doing the opposite.
 
 ### Visiting Provinces
 
+Upon arriving in any region, first, let no accounts be kept, but whatever is worthy of note, whether good or bad, should be recorded in an unknown language, not the common one, lest if a native should notice, he may take offense.
+
+Second, examine all sacred things in places both public and private, such as temples inside, epitaphs, offerings, tombs of illustrious men, symbols of the dead, organs, columns, pulpits, etc., as well as fortresses, mountains, forests, valleys, rivers, and their nature, outpourings, sources, and the origin of their names.
+
+Third, note the constitution of the air, as that of Rome is not praised by newcomers, while that of Bologna and Padua is better, and the lengths of nights and days.
+
+Fourth, observe the location of cities, what part faces which direction of the world, the mines of each metal, hot springs, ships, ceremonies, bells, clocks, etc. These should be inspected cautiously. Towers, as in Germany the three most noble besides the others, in Vienna, Strasbourg, and Landsberg. The coats of arms and origins of cities, aqueducts, wonders, and sieges.
+
+Fifth, the rites of Academies in conferring degrees.
+
+Sixth, arts and artisans, armories, and in these, machines, marbles, palaces, modes of feasting, the capacity of the soil for various seeds.
+
+Seventh, the state of the Republic, the power of the Bishop, the custom in weddings and festivals; commerce, piety, wealth, pursuits - each to be inquired about from those experienced in them. Note especially those things useful to you, what chiefly delights that Nation, in what respect it can be conquered.
+
+How in every place, name, and form the manner of speaking is noted, how fruits and gardens are preserved, and caves and mines.
+
+Do not enter subterranean places prone to errors without being well-equipped with a flint, and place some candles in various spots. If you enter alone, follow Ariadne's advice and take a very long thread, so that you may be able to exit by following it. Because often the air in these caves is noxious, bring perfumes and ointments, and well-fortify yourself before entering.
+
+Praise the nation among whom you live, and blame the one this nation reviles.
+
 ### Reading Speculative Books
+
+When reading an assertion, consider what it teaches, how many points it makes, what individual words are used and in what order, what can be inferred from it, and how the assertion is proven - by reducing the arguments to dialectical form and anticipating responses. Are the premises sufficiently firm? How can the minor premise be confirmed and what instances can be brought forth? With what thesis does it agree or seem to conflict?
+
+What objections could be raised against it? How could the art's text, paragraphs, and scripture be explained? What does the opposing view assert, in how many points does it disagree, how does it prove each one, from what principle, what is the objection, form, and response to each part? Apply this and judge where something is lacking, what the adversaries could deny, and what they could retort against it in turn.
+
+Consider the very objections the author reads and how they could be otherwise resolved and advanced. How could some difficulty be more clearly posed and in what words, and what does it consist of? Do not immediately apply the conclusion to particulars, as natural philosophers apply physical causes to fire, trees, or angels, or as theologians apply, for example, what they say about the sacraments in general to the other sacraments.
+
+Do not be content to have read it once, but on different occasions read the same thing. Often what the intellect could not grasp with much labor before will occur to you spontaneously later. And if someone explains it to you, first reread it yourself, so that you may acquire the ability to argue through each place, as the dialecticians call it, and for and against each assertion.
+
+Finally, ask what discourse could be of use in a discussion with physicians or scholars based on this speculation.
 
 ## Axioms
 
+1. Treat any friend as if he may one day become your enemy.
+2. It is dangerous in a community if one person becomes too powerful.
+3. When you desire something, let no one notice your intentions until you have obtained it.
+4. Be aware of many evils so that you may prevent them.
+5. Matters that can be resolved through peace or calm should not be entrusted to war or dispute.
+6. It is better to suffer a small loss than to risk a cause in doubt with the hope of great gain.
+7. Being too sharp in action is precarious.
+8. The middle path is better than extremes.
+9. Know all things, reveal nothing; deal gently with all, yet act with almost no one too openly or candidly.
+10. It is fortunate to remain neutral between factions.
+11. Hold all in some suspicion and do not be persuaded that you will be treated better than others.
+12. If you do not follow the side where the majority stands, do not censure it.
+13. Whatever your passions sway you towards, regard with suspicion.
+14. Examine giving gifts and feasting as if they were hostile plans.
+15. Admitting a secret is more difficult than holding captive an enemy plotting against your life.
+
 ## Summary
+
+Keep these five things in mind:
+
+1. **Simulate.**
+2. **Dissimulate.**  
+3. **Trust No One.**
+4. **Praise All.**
+5. **Be Mindful of Your Actions.**
 
 #### Simulate, Dissimulate
 
+Show yourself a friend to all and converse even with those you dislike, so that you may also learn caution from them.
+
+Restrain your anger in every possible way, for that alone will bring you more ill repute than many virtues will bring commendation.
+
+Always strive to choose the easier path, in order to more readily obey the majority, because taking the more difficult course brings with it more disadvantages. When faced with a difficult action, choose the easier of the two.
+
+Always take care that no one knows what you think about a matter, what you know, what you want, what you care about, or what you avoid.
+
+It is not wise to conceal your virtues too much, nor to blame lengthy sacred rites, lest you seem irreverent.
+
+Even if you can obtain something in a harsher way, do not employ that method.
+
 #### Trust no One
+
+When he praises you, believe that he mocks you; do not entrust any secret, for you are often despised; do not praise or disparage yourself; others lie in wait for you, to seize upon your words; do not show liberty in your manners, from which you will be judged; if someone disparages and vexes you, consider it a test of your virtue; they feign friendship, but they are not friends.
 
 #### Praise All
 
+Speak well of everyone, so that if a third party hears of it, he will know and report back to the person you praised.
+
+Always speak well of your superiors, for it serves the peace. Praise also the food and clothing you receive from another.
+
 #### Be Mindful of your Actions
+
+Consider what you say. Could it be taken in a better sense? If so, it certainly will be - perhaps someone is watching or listening whom you do not see.

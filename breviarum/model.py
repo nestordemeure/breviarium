@@ -12,29 +12,28 @@ class Throttler:
     """Keeps tokens per minute to the given bounds"""
     def __init__(self, tokenPerMinute:int):
         self.tokenPerMinute: int = tokenPerMinute
-        self.last_start_time: float = time.time()
+        self.last_stop_time: float = time.time()
         self.last_token_usage: int = 0
     
     def start(self):
         """Waits until we are back to 0 TPM"""
         # computes wait time
         time_to_wait = 60 * (self.last_token_usage / self.tokenPerMinute)
-        time_waited = time.time() - self.last_start_time
+        time_waited = time.time() - self.last_stop_time
         actual_time_to_wait = max(0, time_to_wait - time_waited)
-        # display and wait
+        # displays wait information
         if actual_time_to_wait > 60: 
             minutes_to_waits, seconds_to_wait = divmod(int(actual_time_to_wait), 60)
             print(F"Waiting {minutes_to_waits}min{seconds_to_wait}.")
         elif actual_time_to_wait > 1: 
             print(F"Waiting {int(actual_time_to_wait)} seconds.")
+        # wait until we are ready to process the tokens
         time.sleep(actual_time_to_wait)
-        # records this starting time
-        self.last_token_usage = 0
-        self.last_start_time = time.time()
 
     def stop(self, usage:Usage):
         """Records usage for the next call"""
         self.last_token_usage = usage.input_tokens + usage.output_tokens
+        self.last_stop_time = time.time()
 
 #----------------------------------------------------------------------------------------
 # MODEL

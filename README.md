@@ -16,4 +16,5 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 ## TODO
 
 * translate text
-* improve translation introduction / intermediate passages
+* improve translation of the introduction
+* improve paragraph breakdown (starting at `Avoiding Envy`)

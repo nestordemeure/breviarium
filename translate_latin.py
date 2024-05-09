@@ -7,7 +7,7 @@ from breviarum.markdown import Markdown
 from breviarum.model import Human, Haiku, Opus
 
 # model used
-model = Human()
+model = Opus()
 
 #----------------------------------------------------------------------------------------
 # LOADING DATA

@@ -12,8 +12,6 @@ Voti autem illius facilius compos evades, (Lector benevole) si illustre hoc exem
 
 > *Quod tibi fieri non vis, alteri ne feceris, Estote prudentes sicut Serpentes, et simplices sicut Columbae.*
 
-Quod praeterea de Conciliatione Animorum adjunximus Artificium, undiquaque inculpatae, et ex limpidissimis fontibus a celeberrimo Artifice deductae doctrinae Politicae, omne fert punctum.
-
 Hoc nostro labore fruere, et Vale.
 
 ## Fundamentum
@@ -1191,5 +1189,3 @@ De superioribus semper bene loquere, quia paci servit, eos quorum gratia eges, l
 #### Vide Quid Agas
 
 Quid loquaris. Potestne hoc in meliorem partem trahi? Si potest, certo trahetur, forte aspicit quispiam, aut audit, quem tu non vides.
-
-## Finis

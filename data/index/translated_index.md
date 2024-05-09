@@ -131,5 +131,3 @@
 #### Praise All
 
 #### Be Mindful of your Actions
-
-## The End

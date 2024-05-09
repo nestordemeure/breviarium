@@ -52,18 +52,17 @@ def clean_up_ocr(output_file:Path) -> str:
     nb_headings = len(root)
     current_heading = 0
     # load the latin recurcively
-    def clean_up_ocr_rec(section:Markdown, next_title=None):
+    def clean_up_ocr_rec(section:Markdown, next_title='the end'):
         # displays progress
         nonlocal current_heading
         current_heading += 1
         print(f"[{current_heading}/{nb_headings}] Processing '{section.title}'.")
         # load the next title
-        if len(section.children) > 0:
-            next_title = section.children[0].title
+        next_titles = [child.title for child in section.children] + [next_title]
         # load the latin
-        if (section.level > 1) and (len(section.content) == 0) and (next_title is not None):
+        if (section.level > 1) and (len(section.content) == 0):
             # builds the latin extraction prompt for the heading
-            prompt = build_prompt(section.title, next_title)
+            prompt = build_prompt(section.title, next_titles[0])
             # queries the model
             latin = model.chat(prompt, documents=[ocr1, ocr2], answer_prefix='<response>', stop_sequences=['</response>'])
             # display and returns
@@ -72,11 +71,8 @@ def clean_up_ocr(output_file:Path) -> str:
         # save the results so far
         write_file(output_file, root.__str__())
         # process the children
-        if len(section.children) > 0:
-            titles = [child.title for child in section.children]
-            next_titles = titles[1:] + [next_title]
-            for child, next_child_title in zip(section.children, next_titles):
-                clean_up_ocr_rec(child, next_child_title)
+        for child, next_child_title in zip(section.children, next_titles[1:]):
+            clean_up_ocr_rec(child, next_child_title)
     clean_up_ocr_rec(root)
     # return
     return root.__str__()

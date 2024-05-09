@@ -15,5 +15,5 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 ## TODO
 
-* is the sentence on the art of winning hearts in the original introduction?
 * translate text
+* improve translation introduction / intermediate passages

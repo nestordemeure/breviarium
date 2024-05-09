@@ -131,5 +131,3 @@
 #### Omnia Lauda
 
 #### Vide Quid Agas
-
-## Finis

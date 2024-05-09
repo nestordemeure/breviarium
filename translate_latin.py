@@ -53,34 +53,32 @@ def translate(latin:str, english_index:str, output_file:Path):
     # process recurcively
     nb_headings = len(latin_root)
     current_heading = 0
-    def translate_rec(latin_node:Markdown, english_node:Markdown, next_title=None):
-        # displays progress
+    def translate_rec(latin_node:Markdown, english_node:Markdown, next_title='the end'):
+        nonlocal output
         nonlocal current_heading
+        # displays progress
         current_heading += 1
         print(f"[{current_heading}/{nb_headings}] Processing '{latin_node.title}' / '{english_node.title}'.")
         # load the next title
-        if len(latin_node.children) > 0:
-            next_title = latin_node.children[0].title
+        next_titles = [child.title for child in latin_node.children] + [next_title]
         # does the translation
-        if (latin_node.level > 1) and (len(english_node.content) == 0) and (next_title is not None):
+        if (latin_node.level > 1) and (len(english_node.content) == 0):
             # builds the latin extraction prompt for the heading
-            prompt = build_prompt(latin_node.title, english_node.title, next_title)
+            prompt = build_prompt(latin_node.title, english_node.title, next_titles[0])
             # queries the model
             translation = model.chat(prompt, documents=[latin, output], answer_prefix='<response>', stop_sequences=['</response>'])
             # display and returns
             print(f"\n{translation}\n")
             english_node.content = translation
         # save the results so far
-        write_file(output_file, english_root.__str__())
+        output = english_root.__str__()
+        write_file(output_file, output)
         # process the children
-        if len(latin_node.children) > 0:
-            titles = [child.title for child in latin_node.children]
-            next_titles = titles[1:] + [next_title]
-            for i in range(len(titles)):
-                latin_child = latin_node.children[i]
-                english_child = english_node.children[i]
-                next_child_title = next_titles[i]
-                translate_rec(latin_child, english_child, next_child_title)
+        for i in range(len(latin_node.children)):
+            latin_child = latin_node.children[i]
+            english_child = english_node.children[i]
+            next_child_title = next_titles[i+1]
+            translate_rec(latin_child, english_child, next_child_title)
         return None
     # run the function
     translate_rec(latin_root, english_root)

@@ -2,17 +2,17 @@
 
 ## A Word from the Publisher
 
-Weighed down by the most serious affairs, I had delayed sending this Political treatise, which an Italian Prince had sent me to publish, to the printers. Now, by order of the same Most Excellent Prince, I am making it public. The dignity of the material, and the name of His Eminence Cardinal Mazarin, according to whose model and standard of life the things proposed here are especially arranged and composed, will add no slight weight to the political rules that are commonly proposed. For no one is unaware of how the Most Eminent Prince was immersed in the most serious storms, and all but overwhelmed.
+I had been delaying the publication of this Political treatise, sent to me by an Italian Prince, due to being overwhelmed with the most pressing matters. Now, under the orders of that same Excellent Prince, I am making it public. The importance of the subject, and the name of Cardinal Mazarin, whose life serves as the model and standard for the ideas presented here, will add significant weight to the commonly proposed political rules. Everyone is aware of the serious storms the Eminent Prince faced and nearly succumbed to.
 
-But it is not so readily apparent to everyone by what arts he overcame those various tides of adverse fortune, by which he seemed bound to be overwhelmed, by swimming through them, and arrived most happily at the port of safety; what great things he applied in the administration of a most powerful Kingdom, distracted by various factions, in those most perilous and difficult times; and emerged from very many and various difficulties with increased glory; and, what is no slight thing for his glory, imbued the mind of *Louis XIV*, easily the Greatest of all the Kings of France, with those precepts of ruling, by which, upon taking the helm, he greatly expanded the borders of France far and wide, and raised it to the highest peak of dignity and power, before he took his seat at the helm. It is difficult to excerpt, but this Treatise will relieve you of that burden.
+However, it is not so obvious to everyone the skills he used to overcome those various tides of misfortune, which seemed certain to overwhelm him, and how he navigated through them to reach a safe harbor. He achieved great things in managing a powerful Kingdom torn apart by factions during those dangerous and challenging times, and emerged from numerous difficulties with increased glory. Notably, he instilled in the mind of *Louis XIV*, easily the greatest of all French Kings, the principles of ruling that allowed him to vastly expand France's borders and raise it to the height of dignity and power upon taking the throne. Extracting these lessons is difficult, but this Treatise will spare you that task.
 
-And since there is hardly any complete and perfected system of Political precepts, since the particular circumstances which greatly vary the general rules are infinite, therefore no easier or more felicitous method can be handed down than if we make that discipline, which is supported only by general precepts, practical or active by adapting those general rules to those particular circumstances on which they depend.
+As there is hardly any complete and perfected system of Political precepts, since the particular circumstances that greatly vary the general rules are infinite, no simpler or more fortunate method can be provided than to make the discipline, supported only by general precepts, practical or active by adapting those general rules to the particular circumstances on which they depend.
 
-But you will more easily achieve that aim, (kind Reader,) if you strive to keep before your eyes this illustrious example, according to whose prototype, as it were, of a political leader and standard-bearer, today's Politicians attempt to conform themselves and adapt their rules by their own prudence: However, I would wish you to conduct yourself in such a way that you may indeed have a clear understanding of the reasons and norms which Political men are accustomed to use, yet not so that you may deceive, but so that you may not be deceived, by joining both of these norms of the highest prudence, which both that general rule of equity and justice, and the precept of the Gospel prescribe:
+But you will more easily achieve that goal, dear Reader, if you strive to keep this illustrious example before your eyes, according to whose model today's Politicians attempt to conform and adapt their rules using their own wisdom. However, I wish for you to conduct yourself in a way that allows you to clearly understand the reasoning and norms that Political men typically use, not to deceive others, but to avoid being deceived yourself, by combining the two norms of the highest prudence prescribed by the general rule of fairness and justice, and the teaching of the Gospel:
 
-> *Do not do to another what you would not want done to you, Be wise as Serpents, and simple as Doves.*
+> *Do not do to others what you would not want done to you, Be wise as Serpents, and innocent as Doves.*
 
-Enjoy this labor of ours, and farewell.
+Enjoy this work of ours, and farewell.
 
 ## Fundamentals
 
@@ -809,7 +809,9 @@ When he praises you, believe that he mocks you; do not entrust any secret, for y
 
 Speak well of everyone, so that if a third party hears of it, he will know and report back to the person you praised.
 
-Always speak well of your superiors, for it serves the peace. Praise also the food and clothing you receive from another.
+Always speak well of your superiors, for it serves the peace.
+
+Praise also the food and clothing you receive from another.
 
 #### Be Mindful of your Actions
 

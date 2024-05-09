@@ -15,6 +15,7 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 ## TODO
 
-* improve translation of the introduction
 * improve paragraph breakdown (starting at `Traveling to Provinces`)
 * check translation against Latin (for additional / lost parts) and other references
+
+Good prompt to freshen up the translation: `Can you simplify the formulations to make it easier to read for a contemporary reader?`

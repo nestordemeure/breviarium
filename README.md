@@ -1,20 +1,19 @@
 # Breviarium
 
-Translating the Breviarium Politicorum using Claude (API or manually).
+This is a personal, one-off, repository containing the code used to translate Mazarin's `Breviarium Politicorum` from 17th century Latin to English using Claude (API or manually).
+
+You can read the end result, as well as a description of the prompts and process, [on my blog](https://nestordemeure.github.io/writing/translations/).
 
 ## Usage
 
-You will need the API key in your environment. Tweak script variable to pick a model (`haiku` for tests and `opus` for actual runs).
+You will need an Anthropic API key in your environment.
+Tweak script variables to pick models (`human` for manual mode, `haiku` for tests, and `opus` for actual runs) as well as files.
 
-* `clean_latin.py` can be used to turn the 1701 OCRs into a single clean version of the text.
+* `clean_latin.py` used to turn the 1701 OCRs into a single clean version of the text.
+* `translate_latin.y` used to translate the Latin text into English.
+* `markdown_to_hugo.py` used to turn a markdown file into a Hugo hierarchy of files and folders.
 
 ## TODO
 
-* switch to AWS Bedrock for higher limits (?):
-  this would be as expensive as using Anthropic while raising limitations
-  a bit more complex but building some AWS experience
-  * <https://aws.amazon.com/fr/bedrock/claude/>
-  * <https://docs.anthropic.com/claude/reference/claude-on-amazon-bedrock>
-
-* Clean up:
-  * starting at `Odium Malis Conflare`
+* Write translation code.
+* translate text

@@ -41,13 +41,13 @@ def remove_stop_words(text_list):
         "same", "so", "than", "too", "very", "s", "t", "can", "will", "just", "don",
         "should", "now"]
     latin_stop_words = [
-    "a", "ab", "ac", "ad", "at", "atque", "aut", "autem", "cum", "de", "dum", "e", "ex",
-    "et", "etiam", "enim", "ergo", "est", "et", "hic", "haec", "hoc", "id", "ille",
-    "illa", "illud", "in", "inter", "ipsa", "ipso", "ita", "me", "mihi",
-    "nec", "necque", "neque", "nisi", "non", "nos", "noster", "nostri", "nostra", 
-    "nostrum", "quam", "quae", "qui", "quibus", "quid", "quidem", "quo", "quod",
-    "quos", "sed", "si", "sic", "sunt", "sum", "tamen", "tibi", "tu", "tuum", "tua",
-    "tuo", "te", "ut", "ubi", "vel", "vero"]
+        "a", "ab", "ac", "ad", "at", "atque", "aut", "autem", "cum", "de", "dum", "e", "ex",
+        "et", "etiam", "enim", "ergo", "est", "et", "hic", "haec", "hoc", "id", "ille",
+        "illa", "illud", "in", "inter", "ipsum", "ipsa", "ipso", "ita", "me", "mihi",
+        "nec", "necque", "neque", "nisi", "non", "nos", "noster", "nostri", "nostra", 
+        "nostrum", "quam", "quae", "qui", "quibus", "quid", "quidem", "quo", "quod",
+        "quos", "sed", "si", "sic", "sunt", "sum", "tamen", "tibi", "tu", "tuum", "tua",
+        "tuo", "te", "ut", "ubi", "vel", "vero"]
     stop_words = set(english_stop_words + latin_stop_words)
 
     # Filter the list to exclude any words that are in the stop words set
@@ -64,7 +64,7 @@ def id_of_str(title:str):
 
     # remove stop words
     words_filtered = remove_stop_words(words)
-    if len(words_filtered) > 0:
+    if (len(words_filtered) > 0) and (len(words) > 2):
         words = words_filtered
 
     if len(words) < 1:
@@ -88,37 +88,50 @@ def id_of_str(title:str):
 # PROCESSING THE FILE
 
 def create_hugo_rec(node: Markdown, folder: Path, priority:int=0):
+    # splits node's children
+    file_children = [child for child in node.children if (child.level > 3)] # printed in the same file
+    rec_children = [child for child in node.children if (child.level <= 3)] # printed in a new file
     # content to be printed to file
     content = '---\n'
     content += f'title: "{node.title}"\n'
     content += 'draft: false\n'
     content += 'comments: false\n'
-    content += f'weight: -{priority}\n'
+    content += f'weight: {-priority}\n'
     content += 'images:\n'
     content += '---\n'
     if (node.content != ""):
         content += '\n' + node.content
+    for child in file_children:
+        content += '\n\n' + child.__str__()
     # unique id that will be used for naming file or folder
     name = id_of_str(node.title)
     if priority > 0: name = str(priority) + ' ' + name
     # create the corresponding file or folder
-    if len(node.children) == 0:
+    if (len(rec_children) == 0):
         # no children, write to file
         write_file(folder / f"{name}.md", content)
     else:
         # children, create a folder with an index file and subfiles
         sub_folder = folder / name
-        if sub_folder.exists():
-            shutil.rmtree(sub_folder)
         sub_folder.mkdir(parents=True)
         # create index file
         write_file(sub_folder / "_index.md", content)
         # create children
-        for child_priority, child in enumerate(node.children, start=1):
+        for child_priority, child in enumerate(rec_children, start=1):
             create_hugo_rec(child, sub_folder, child_priority)
 
-# gets to actual root
+#----------------------------------------------------------------------------------------
+# MAIN
+
+# creates a dedicated output folder
+# purging any previous folder by the same name
+output_folder = output_folder / input_file.stem
+if output_folder.exists():
+    shutil.rmtree(output_folder)
+output_folder.mkdir(parents=True)
+
+# gets to the title heading
 markdown = markdown.children[0]
 
-# creates folder
+# creates the hugo files
 create_hugo_rec(markdown, output_folder)

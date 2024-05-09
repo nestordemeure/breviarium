@@ -1083,74 +1083,664 @@ Confundendo alios summe cautus esto, nam aut inscitiam tuam aut intentionem prod
 
 ### Odium Malis Conflare
 
+Lauda eum, quem opus gratiā moveri apud eum, cujus gratiā pollet, sed ut laus in offensam Patroni cedat, addendo talia communi rumore ferri, non tuum sensum te dicere, relinquendo Apodosin, quod ille suae famae debeat consulere, et hoc ipsum intimandum quòd proximi fama periclitetur, simul firmandus, ut contemnat rumores, et vana sinat senescere, sentiat tamen ille, rem suam agi.
+
+Vel lauda Clientem veluti compatiens ejus affectus, voce flexā, benè exaggeratos propone eorumque sequelas, dic eximium esse, sed ab hoc vitio deturpari, quod tace.
+
+Nunquam minare, cui nociturus es, hic enim praecavebit, sed finge te imparem, nec posse, et si velles.
+
+Retrahe eum tecum in amicitiam, adhibe commessationibus, ut incustoditum reddas, et occultos habe testes, coram quibus dic, ut aliquid proloquatur, vel in Principem etc, et erit materia delationis.
+
+Factum hostis exaggera, quod mala sequentur, nisi puniatur.
+
+Interim quo minus affectui tribuere videaris, deprecare poenam, sed inefficaciter, ac longè jacienda sunt odia, mores, et facta interpretando, et ubi occasio tulerit, debilitatis passibus in casum impellendus.
+
+Nunquam plures sunt oppugnandi, sed cum aliis interim amicitia contrahenda.
+
+Semper tuas res priùs stabili, quàm alienas aggredere, nec vindictae indulge, nec occasiones tuarum rerum agendarum negligas.
+
 ### Amicitiam Solvere
+
+Cum nemine veluti uno ictu amicitiam scindas, nec acceptâ injuriâ veluti odio; sed reconciliatus ac ferventi quasi amore sensim dissuces, aut ut dulciter penitus solvatur subinde tu congrediaris, et si occasio urgeat, quasi per negotia breviter alloquere, mensae adhibe, ut non solùm nunc videaris amicus, quando eum ejecisti. Si de alicujus Patroni benevolentia confidere praesumat, intellige Patronum amicum, cui rei maximè faveat, quâ afficiatur tenerrimè, quam nullatenus daturus, persuade dicendo, ut eam petat, et ubi repulsam tulerit, quod tam exigua res ei negata, quasi aliud agendo exaggera.
+
+Svade, ut ab amico res petat mutuò, quos probabiliter destructurus, ut equos pro longa via, vestes pro convivio, vel eo tempore, quo ipse indigebit; sive ergo cedat laesio, sive non, perinde erit.
+
+Vel quascunq; alias res non designato tempore redditionis, ut sic se monendo, laborandove laedat, pudeat eum occurrere alteri, et sic amicitia sensim frigescet.
+
+Spargatur, eum amici consiliis vivere, suis nihil posse, imò amicum domum ei negare, etiam familiae, onera indica, sic rariùs convenient et dissolventur; vel effice amico, ut concredat secretum, quod interea fac aliis innotescere, pluribus sic fidem suspectam habebit amici.
 
 ### Laudare Alios
 
+Specie libertatis id age, te non nisi tuo judicio, ac publico bono id loqui et agere, nil magis odisse quam adulationem: Lenitas etiam ejus ac clementia excusanda, esse debitum pietatis, ut rigor languefcat; Nunquam ea apprecare, quae quidem, dum unum laudas, alios palam perstringunt, nisi forte ubi turba, ubi plurimae voces confusae.
+
+Quare virtutem amici illaudatam relinque, vitia dissimula.
+
 ### Ne Se Alter ab Officio Excuset
+
+Petitioni, seu excusationi dic ejus satisfacturum, quando meliori ejus bono te te non consuluisse apparuerit. Literas relinque, quae post certum diem tui discessus legantur, interim omnibus officium ejus denunties.
+
+Si rescripserit ad te literas, nil ad eas responde.
+
+Si oretenus deprecetur, dic, eum esse simpliciter in eo solum ad breve tempus, brevi liberandum, si videbitur, labores cumulari; ut possit ostendere merita ad invidiam alienam retudendam, tum hoc officium solis conferri, qui ad majora promovendi, quorum virtus perfecta.
 
 ### Iram Tenere
 
+Irasci nulli properes, quia saepissime deprehendes, rem sinistre delatam, te non intellexisse.
+
+Si quid interim ex ira facies, tibi damnum manebit.
+
+Si laedaris, optimum dissimulare, quia lis litem generat, et pax amittitur, et licet vinces ipsum, hoc erit durius, quam vincere, et interim plura contra te excitabis.
+
+Restringentibus quod optimum responde, interdum quod ironice aut maligne loquuntur, tu candide ad verba, non ad eorum mentem responde, et interea te aliis curis occupatum simula.
+
+Si te in via quis aggrediatur, non nominando quidem, sed factum, de quo illi suspectus es, exagitando, tu idem factum serio accusa, et hominum talium nequitiam veluti nullo modo conscius esses, vel, simula te non intelligere, et omnia alia responde.
+
+Si vero etiam te nominet, ita age, ac si non serio contra te, sed iram fingendo insurgeret, tum dicta jocosa appone, quae illum non perstringunt, ad hilaritatem componant, vel te simul cum illo increpes, ac si esset aliquis tertius, et plura tu, quam ille carperes, et postquam deseruerint, levioribus modis ea excellenter exagitata, ostende, quam causa futilis sit.
+
+Si contigerit, te citra conveniens accipi ab aliquo, dissimula, et inimicitiam absconde, et eodem modo age, ac si honorifice esses acceptus.
+
+Sic illi poenae erit illius inurbanitas, et confusioni, et errorem beneficentia compensabit.
+
+Nobilitas tua causabitur nova, si quispiam in honores novos debacchetur, illius partes bene tuere, veteris sanguinis laudes prome, par esto ratio de aliis casibus.
+
+Si convitio aperte peteris, ut locus dissimulationis non sit, jocosa responsa habe in promptu, vel narratiunculam, quae ad rem faciet utcunque ordire, per quam tamen paretur via profecturis aliis sermonibus.
+
+Habe in hos casus, qui signo dato literas offerant, cum legeris, dic aliquid lepidi contigisse, ad quod fortuito spectandum evocetur.
+
+Relinque inimico tempus, ut ipse indignitatem facti advertat, non tamen illi proponas, ne quasi ex tua parte occasio irae soleat esse, ut si quis infallibiliter intra certum tempus destinet negotium absolvere, et interim aliquid occurrat, a talibus propositis cave.
+
 ### Fugere
+
+Aqua fortis tibi, veluti vinum adustum feratur, qua compotes, riga vestem tuam, stramine reple, ac suspende, custos te credat desperatione actum, ac neglecta custodia in alios evulgabit, fruere occasione: morbum simula, ut sedes sanguineas, *rubrica* edendo, pulsus alteratos prope cubitum tangendo, pallorem edendo, hinc pete, ut Medicus vocetur, te insomniis fatigari queraris, petes in domum custodis transferri, et secum die velle coenare, pete tibi soporifera, quae in potu hospiti propinabis. Dum fugam paras coram tuis, dic gladio te fugam sumpturum, ut si quis eorum ab insequentibus interrogaretur, spe eos dejiciat ab insequendo: cruentum gladium abjicies in via vel vestem in ripa fluminum relinque, quasi te in undas abjeceris, vel persuade sociis, ut se in tutiora recipiant, ac ubi solus eris, domum, in qua solus, concrema, veluti te ipsum exussisses; equum habe tractabilem, soleas duplicabis clavis affixas, commestibilia duratura. Nunquam de una via interroga, sed de pluribus simul, et spectante aliquo, fugam concipe, quam minime intendis; item ex civitatibus, pagis, egrediendo primum in campos, mutato habitu, pallio, visu, propositam viam regredere, si instant, qui insequuntur, dimitte equum vulneratum, et ubi in eorum manus devenerit, suspicionem facient te occisum, sine in flumine aut puteo pileum natare, ut credaris submersus esse.
+
+Item habe tegumen equi, seu suturas amplas, quarum colorem ubi volueris, mutare possis, larvam ex membrana expressam, ex utraque parte pictam diversis faciebus, ut illas pro lubitu assumere possis.
 
 ### Punire, Corrigere
 
+Manu tua ne crudelitatem contrahas, caedere cave, si quam oporteat bene puniri, et casus gravis desit, sic parabitur.
+
+Prolem, et quam condonare possis, aut soleas, leviter puni, ille indigne feret, queri, ac murmurare incipiet, iterum puniendus, iterum queretur, dum veluti contumax, gravis noxae reus dabit majora poenae majoris.
+
+Juvenes aliquando poena magis accenduntur, permittenda itaque illis quaedam, sed talia, quae cupidines expleant, non ad alia accendant, hoc est, non indigeant alia ad haec obtinenda, nec ad similia trahant.
+
+Si aliquem e domo tua, aula officio deposueris, idque alios male habeat, sparge et palam dole, tandem te advertisse, ab eo te inclinari solitum in damna subditorum publica, et eorum, qui casum ejus obtendunt, abhinc res suas meliori loco fore; sed ut quoque possis sufficere omnibus, ad haec confirmanda fac ea, quae fidem faciant, ut si dispensatorem amovisti, per eum stetisse, quo minus solverentur stipendia, et statim cura solvi.
+
+Justitiam administra in aliena pelle liberaliter, ubi tuum damnum non infertur, ut si tuus Gubernator subditos presserit, gratia referenda maneat, (si causa publica sic exigit) ut res repetendas sibi adscribant, saltem ex sponte ad aliquod onus se obligandi.
+
+Si velis corrigere aliquem, cum eo ipso de remediis delibera, gratiora non habebit, quam ipse invenerit, item ipse sibi poenam statuet.
+
+Esto in inquirendo non inimicus, dissimula cum potes sine tuo damno, et contumeliis erga ingenuos abstine; da illi literas ad certum tuum factorem perferendas commendatitias alias; Occulte prome, quae ejus poenam contineant.
+
+Si aliquem vis ad meliorem frugem reducere, pone illum in officio, ut illum errorem corrigat in aliis, quo ipse laborat. v. g. Ebriosus ab ebriosis poenam exigat.
+
+Si aliquis se satis humiliet, et palam, parce, ne desperatione agas in pejora, nec ad id coge, quod maxime reus recusaturus, mediocri vindictae esto contentus.
+
+Post decretam poenam mediocrem expectari debet, si forte nova vita oriatur.
+
+Ubi ad reos progrederis, non ostendas te ad eos viam abstulisse, ut nullus non auditis sceleribus iram acquirat, ostende, te natum quidem ad clementiam.
+
 ### Seditionem Componere
+
+Nunquam plures, ut tecum agant, admitte, sed unum e medio sui eligant. Philosophi petunt, ex quibus causis fiat motus; si ob usuras, ipse accommoda sine usuris. Propone magna praemia, qui seditionem composuerit, modum componendae seditionis suggesserit, autores sustulerit, prodiderit. Si sit ferox populus, ante omnia per viros bonos ad virtutem componendus; timor Dei et pietas inducenda; haec sola emollient. Inventores factionum falsis rumoribus infimulandi, quod occultum privatum bonum dominationemque illorum malo et sanguine quaerant, nihil inde commodi reportaturos.
 
 ### Laudes Proprias Audire, Dicere
 
+Providendum, ne vel in comparationem vergant, vel singulares, et si verae, quia raro satiae fidem inveniunt.
+
+Si quis palam te laudat coram Principe, dubita, ne te clam accusaverit.
+
+Cum maxime laudaris, adverte, ne in caveam ducaris.
+
+Ubi omnia tua laudantur, vel pro omnibus gratiae aguntur, et omnibus ante positus es, suspectissima omnia habe.
+
+Ne per jactantiam totum quod potes dicas, quia sic adversarium informabis.
+
+Si velis gloriam tuam libellis, quales sint, qui panegyricos continent, divulgare, tali libello id age, qui facile ab omnibus coematur, et in variis mundi partibus aestimetur.
+
+Ideoque authores talium praenoscendi, et tuum nomen laudesque interferant; plus enim haec te divulgabunt, quam ingens volumen, quod nullus empturus aut lecturus.
+
 ### Pacem Internam Habere
+
+Nec destina tibi, nec in eo laudem pone, ut intra determinatum tempus omnino aliquid peragas, quia vel multa interim omittes intercurrentia non praevisa, vel si impedieris, turbaberis. Persuade tibi, non esse probabile, ut a tuis error aliquis non committatur, nil destinetur.
+
+Querelas tuorum de te contemne; secretum vel non accepta ut secretum, vel tene.
+
+Aliena deposita vita; cum suspectis hominibus de garrulitate non plus age, quam usitatis formulis, ut sunt: quomodo valeat &c.
+
+Ultro nulli operam ad intercedendum promitte; si non succedat, turbaberis.
+
+Per te ipsum res apud artifices fieri non cura.
+
+Cum querulis gementibus foeminis, et contumacibus, nullum habe negotium.
+
+Si cogaris ad ea loca abire, quae tibi non placent, recusa ferre tua negotia; nega et in illis age, uti aliis usibus essent destinata.
 
 ### Oblocutiones Contemnere
 
+Laudes, et ludibria, adulationes, scommata, nullibi magis fallax genus humanum: pasquillas contrahe scriptas, et ipse lege, et legi cura, ride, sic enim desperabit Autor.
+
+Pasquillum contra te in publicum non prode, negotia finge, si tamen prodendum est Pasquillum, domi saepius legas, et ad eum ridere discas, affectus accommodatos assumere, imaginare te interim illud irridere, objicique fingas, et ad ea responsa praemeditare congrua assumpto affectu.
+
+Non semper obtegendum, si quid adversi accidat, ne ipsa dissimulatione credatur verius accidisse.
+
 ### Dexteritatem in Agendo Acquirere
+
+Cum indolendum alicui, quod patiatur, solare, ut ajunt Rhetores, per locos communes, non attingendo, ne ea occasione laedas.
+
+Si coram te quispiam vituperatur, cautissimus esto, nec lauda, nec damna, utrumque odiosum.
+
+De superioribus tuis, etsi ab illis sis offensus, bene loquaris, nec fatere, aut dissimula alterum loqui, etsi tibi placeat.
+
+Veritatem eorum, qui coram te aliquid accusant, deprehendes: audi accusatores tuos oretenus, et puncta adnota, deinde jube tibi ea scripto dare, dic id te agere, ut in faciem accusanti legantur; confer, et veritatem cognosces.
 
 ### Suspicionem Avertere
 
+Lege titulos *Gratiam Comparare*, *Offensam Vitare*, *Caute Agere*, si suspectus es, aliquos accusatores te maculasse coram Principe, inscribe literis ad eundem, quibus laudes contineantur, mitte eas, *ut ad suspicantes deveniant*.
+
+Vel si eos vexare velis, inscriptas intus literas capi permitte, varia artificia suspicabantur, ad aquam vel ignem legi posse; vel potius solum scribe, primas et *ultimas* syllabas cujusque sententiae, et aperte deprecare, te non velle ad Principis manus eas pervenire, ne adulator esse videaris.
+
 ### Malos Subvertere, Deponere
+
+Si deponendus sit quispiam ab officio, prius illi non subministranda per aliquod tempus pro necessariis pecunia, ut debita talia contrahat, qualia suffectura in poenam, dum ab officio removetur, debita non rata habenda, ut ipsi creditores ab eo exigant; Sic tu sine molestia eum pecunia punivisti.
+
+Si quis Domini potiatur gratia, depone illi pecuniae summam, vel rem, quam Dominus accuratissime claudit, vel quae uxorem maxime concernit, noctu ei aufer (idque conficiendum per modum joci) res, et simul praemonendus Dominus, ut attendat sibi insidias, et corruptum esse famulum, quae omnia praemeditanda.
+
+Si timetur, ne laesus turbas concitet, ut si velis Ducem exercitus officio privari, prius eum ex abrupto vinciri procura, illumque gradum ita occulte redde, ne id appareat; et tandem exercitum ejus pari trade, da solutionem exercitui ex tuo, ne amissum desideret Ducem.
+
+Si aliquis famose nimis in mensa v. g. disputet, falsum asserat, jube chartam afferri, ut suam opinionem scribat, eidem subscribat, cras de ea litiget, et si quem fastuosum advertas tuum ambire officium, cui sit impar, ut si sis Dux belli, nam in hoc genus maxime cadit aemulatio, *Hostem exaspera*, difficilia omnia redde, tibi tamen quoad castellum commeatum optime provide, pete velut alio bello districtus, ut ille tibi succedat, nec illi rationem belli, aut locorum, aut hostis redde, sic in augustias incidet, nec propera ad succurrendum, donec se et te cognoverit.
+
+Si expediat aliquos juvenes mollissime subverti, ut effeminate tractentur ingenia invita, canendo, pingendo, sculpendo, frangentur; Praefectos servos habeat, quibus nil pensi in honesto, ad omnia venales sint, cupidines juvenum sequantur non regant, idem est de aliis, quibus servos tales suggere desperatos, ut in illos impingant languidi, *segni Senatori senatores mitte*, per ignotum quempiam ab amico ejus literas responsorias, et illas velut ignavia ferentis amittere sine, ut a pluribus legantur, ut negotia ejus non succedant, multa agenda ei simul impone, ut nihil obtineat, multa petenda, quaerenda svade.
+
+Animalia illius, quibus oblectatur, arte interfice v. g. cibis piperatis, crocatis configna, ut rabidus reddatur.
+
+Eqvum, quo usurus, medicamenta altera, ut accepto sessore furiosus reddatur, ingentia praemia appone, ut ad leonem v. g. ingrediatur, in rem evidenter periculosam incidere videbis.
 
 ### Peregrinari
 
+Nulli pecuniam tuam patefac, imò semper modicissimam pecuniam accusa, si quaereris ab aliis, quorum non interest unde venias, quantum potes, illude, nulli concrede, versus quam partem eas, semper aliquos, versus quam partem itur, roga, et a diversis diversa.
+
+Cave, ne rixantibus te aggreges, solent enim rixas inire, ut si eas intres, te spolient tua diripiant, imò quibuscunque scommatis petitus, dissimula.
+
+Cave etiam illis credere, qui splendide, et velut alti sanguinis ornati, nisi aliunde tales noveris esse, saepe enim fures sunt larvati.
+
+Lectum non ingredere, nisi immediate ante cum lumine circumquaque perlustres, similiter cibos; Non adhibeas famulos hospitis ad obsequia circa te, ne tuos saccos hoc accessu lustrent.
+
+Librum tecum semper aliquem refer, ut tempus fallas, tutos socios habeto, et ut praecurrant potius quam sequantur.
+
+In locis lubricis, montanis, ferramenta utiliter applicantur, summis pedibus inceditur.
+
+In sermone paucus esto, ne etiam in multiloquio in tuam pecuniam aut vitam pecces. Boves tutius equis incedunt per montana.
+
 ### Vana Non Appetere
+
+Cum agitur de re seria, et magni momenti, viam ludicram aliis concede, ut: applausum, gloriam, etc. v.g. Vult urbem hostis reddere, honestissimas conditiones fer: agnoscat se non esse victum, sed gratiam praestare; abeat vexillis expansis, nil ipsi quoad inania desit, vel quod victor optare possit, dummodo terris cedat, captivos tradat, et aurum, munitionesque relinquat, et id cum Sol occidit.
+
+Idem est de rebus, quae operis subtilitate, varietate, uti flores etc., talia alios in praemium habere sine, non te.
+
+Nullis opus praemissis monere, ut ab isto aliquod damnum in praesens habeas, ut si forte se tibi gratum voveat reserviturum; voces, et non ultra valent, et in quas non plus par est impendere, quam quod voces sunt, talium statim oblivisci, tuum damnum tibi semper manet.
+
+Gloriam et nomen habere sine aliis, tu solam potentiam quaere.
+
+Si ad aliquid splendidum promovearis, etiam cum promoveri cura, quem metuis, ne turbas moveat, sed de munere gloriam, non fructum capiat.
 
 ### Arguere, Emendare
 
+Aptum illud tempus est, quando subditus nihil aliud quam laudem expectans venit ad gratulandum, tu reprehende; Modus hic ingeniosus arguendi non est.
+
+Etiam minima facta lauda, sic diligentia crescit; optimum est, per amicum illius in confidentia, & secreta monere.
+
+Si quis illicitis amoribus implicitus, eumque velis liberum, eum negotiis tumultuosis obrue; suborna, qui dicta vel facta carpant, ad te deferant, falso testentur, et nullum factum ejus approba.
+
+Vide insuper cum quibus agat, eos rescinde, non minus in eo genere exempli adjungantur, viri viris, foeminae foeminis, quia diversus sexus nocuit.
+
+Attribuendi socii, qui si non virtutibus, saltem contrariis vitiis laborant, hic ferus, ille blandus, illi ardentes, isti remissi.
+
 ### Affectus Simulare
+
+Affectus simulabis, salsi cultus si diutius sint in publico, tandem adversatur; unde praestat abstinere luce, et alios, qui vere tales affectus habent, pellicere ad idem. Optimum erit te interea seriis distrahi, ut ipsiusmet affectus, quem vellere vis, obliviscaris, sic nemo, utcunque te speculetur, iram et laetitiam ex te colliget.
 
 ### Mutuum Cave
 
+Jube, ut famulus, qui res dat, syngrapham praebeat, in quâ omnia descripta, subscribendum, quasi suam causam te nescio agens. Ideoque si hunc casum evitare nequeas, expediat te praedicare debitorem, vel aliquid aequivalens simul mutuo petere; fingendo, te egere, vel te quidem non abundare pecuniâ, quam amicus petit, posse tamen invenire, et quidem sine foenore, dummodo pignus praebeat, vel si res habeat dividendas aestatione pretium acquirere, si aliquid apud te deponat.
+
 ### Veritatem Assequi
+
+Ut verum aliorum judicium de tuis rebus acquiras, age ut orationem tuam alter dicat ut suam, vel ipse lege factum tuum, et illud refer ad alium pertinere, et sic de eo judicium perquire: aliud judicium, aliud humanitas in amicis, igitur fide si modeste laudaris.
+
+Laudis aliquid tribuere, humanitas est: nihil laudis adscribere, de negotio curiose disquirere, nil de facto approbare, inhumanum est.
 
 ### Accusare
 
+Ultimus esto ad accusandum; et litem non moveas illi, quem scis gratiorem esse judici, quàm te, nisi prius animum in tua causa adverti.
+
+Si litem movisti, aut tibi mota, etiamsi tua causa sit æquissima, ita age, ac si extremè mala esset, conveni, et præveni Judices muneribus; aggredere adversarium per mediatores, qui eum conveniant, quære præmeditare exactè, et per otium ea, quæ tibi objici possunt, quæ responderi, omnia tamen secretissima habeto.
+
+Nulla ratione adducaris, ut tua jura, aut privilegia alicui ostendas, quia dabis, quid advertant, et explicent.
+
+Ingenium agnosce ejus, à quo accusaris, ferox, an ignarus, ut tibi moderari scias; si ferox, tempus selige, quo illo in fervore; si ignarus, lentè agendum est; curandum etiam, ne ullo modo delatus sciat, se accusatum, et in qua causa, sed ut illi subitò accidat accusatio, quod etiam exercitatos in sua causa turbat.
+
+Delige etiam, qui tuas partes promoveant, parum refert, cujus notæ, aut formæ homines, dummodo Judici chari, illosque involve periculo, ostendendo, illorum rem agi, ut persuadeant sibi, se non posse acquiescere, nisi extremo suo discrimine; agas insuper, ut cuncta accusationes, non in modum causæ, aut litis, sed amicitiæ, aut secretæ commonitionis peragantur, immiscenda atrociora ex ipsius Judicis vitiis, quæ quia vera, etiã in reo credentur, ipse etiam Judex, ut advertat suam famam, et honorem, et vitam in discrimine. Corã Judice omnem misericordiam adversus reum ostende, solum te malis publicis moveri, suam fortè accusare, quod jure aliàs amici casum debeas incusare.
+
 ### Accusatum Esse
+
+Tegendum si ab aliquo te accusatum advertas, necfubito, in quo delatus es, te corrige, ne se delatorpratexisse adverrat, suam delationem abeo, cui detulit, grate habitam; imò dic eum, datå opportunitate, hostem, delatorem, se eos optare, utfolent proditores optari, nunquam tamen amari,. Et hincfolere argumentari, si cora me alios depingit, ita me coram aliis; imò minus iisprudentiae, concordiae inesse, alioru non socios, sed carptores judicare, si ut utiles sibi admittat, laturum tamensuo tempore animi erga tales affectum. Quite detulit, adi, consule, quid sit inhac delatione agendum, veluti ab intimo amicopete.
+
+Qui coram altero de te, volendo te ab illo avertere, pessima locutus, coram hoc eodem, optima de tertio, cum quo committeris, loquere, initio litis cum ipsum accusatorem ostende complicem, veljudicium coram agi, maximè in iis, quae gratasunt, ut accusatorem olim anno militiæ judicibus deponenda; si de pluribus arguaris, ne omnianegandofidemperda, aliqua, etsifalsa, agnosce, ut desit opinio, te flexilem, errore non ubique affici. Sapejuvabit, sisciveris, tead Dominum delatum, si ille non exigat, te nonpurges, magis commovebis, te incitabis, sed initium illudsummè vitando, aut contrarium agendo.
 
 ### Provincias Adire
 
+Primò ne ullæ habeantur memoriæ, sed quidquid notatu dignum, sive ex bono, sive probro, ignota lingua, non communi, ne si indigena advertat, offendatur.
+
+Secundo viam in locis tam publicis, quàm privatis, tam sacris, quàm profanis, lustra omnia sacra, ut sunt Templa intus, Epitaphia, Anathemata, sepulchra virorum illustrium, Symbola mortuorum, Organa, Columnas, Cathedras, &c. Arces, Montes, Silvas, Valles, Flumina, & eorum naturam, effusionem, ortus, nominum originem.
+
+Tertiò aëris constitutionem, ut Romanus advenis non laudatur, melior Bononiensis, & Patavinus, noctium, & dierum. Quartò situm Urbium, quæ pars ei mundi plaga obversa, fodinas metallorum singulorum, Thermas, Naves, Ceremonias, Campanas, Horlogia &c. Hæc cautè inspicienda.
+
+Turres, uti in Germania tres cæteris nobilissimæ, Vienna, Argentorati, Landsburga. Stemmata Urbium, & origines, aquæductus, miracula, oppugnationes.
+
+Quintò Academiæ ritus in gradibus conferendis.
+
+Sextò Artificia & Artifices, Armamentaria, & in his machinæ, marmora, palatia, modi convivandi, quorum seminum capax terra.
+
+Septimò status Reipublicæ, Episcopi potestas, quis modus in nuptiis, bacchanalibus; mercatura, pietas, divitiæ, studia, singula ab expertis eorum exquirenda; Ea maxime notanda, quæ tibi utilia, quibus illa Natio maximè oblectetur, quâ parte possit vinci.
+
+Quomodo in omni loco, nomine & figura notetur modus loquendi, fructus servandi, & hortos, specus, fodinas.
+
+Locos subterraneos erroribus obnoxios lustrandos sine ignitabulo benè instructos non ingrediaris, & aliquas candelas variis in locis pone, & si solus intras, Ariadnes consilio utere, funiculum accipe longissimum, ut per illum dirigendum exire possis; Quia sæpè nocivus aër in his antris, habe odores, & unguenta, & ante ingressum te benè præmuni.
+
+Eam gentem, apud quam degis, lauda, quam hæc insectatur, reprehende.
+
 ### Libros Speculativos Legere
+
+Qua sit assertio, quid doceat, quot puncta, quot singulae voces positae, et quidem quo ordine, quid inde inferri possit, quomodo assertum probetur, quibus argumentis ad formam Dialecticam reducendo, et responsum praecogitandum, satisne firma major, quomodo minor confirmari, et quae instantiae afferri possint, cum qua Thesi consonet, aut pugnare videatur.
+
+Quid contra objici, quomodo textus artis, et §.§. et scriptura explicari.
+
+Quid adversa sententia afferat, in quot punctis contrarietur, quomodo singula probet, ex quo principio, objectionem, formam, responsum singulis membris applica, et judica ubi quid desit, et quid Adversarii negare, et quid contra retorquere possint.
+
+Ipsae objectiones, quas legit, et quomodo aliter solvi possint, et promoveri, quomodo aliqua difficultas clarius, et quibus verbis ponenda, et in quo consistat, conclusionem non statim ad particulam applica, ut constitutiones physicas de causis ad ignem, arborem, Angelum. Theologi v.g. de Sacramentis in communi ad caetera Sacramenta.
+
+Non esto contentus semel perlegisse, sed diversis vicibus idem, saepe non sponte occurret intellectui, quod multo labore ante habere non potuit, et si quis tibi explicat, prius ipse relegas, ut copiam argumentandi acquiras per singulos locos, ut vocant Dialectici, ductus, assertionem, et contra illam assertionem, aut pro illa; quaere ultimo, quali discursu in colloquio Medicorum, aut Doctorum usui servire possit ea speculatio.
 
 ## Axiomata
 
+1. Cum quocunque amico ita agas, acsi futurus esset inimicus.
+2. Periculosum in communitate est, si unus sit nimium potens.
+3. Cùm aliquid curas, nemo te curare advertat, priusquam fueris in possessione.
+4. Multa mala scito, quò prohibere possis.
+5. Quae possunt componi pace, aut quiete, bello, aut liti non committenda.
+6. Melius est parvum damnum accipere quàm spe magni lucri causam in dubium adducere.
+7. Acrem esse nimis in agendo, lubricum est.
+8. Melius medium, quàm praecipitia.
+9. Omnia scias, nil prodas; cum omnibus suaviter, cum nemine ferè effusè, seu nimis candide agas.
+10. Inter factiones medium esse beatum est.
+11. Omnes aliquantulum suspectos habe, & non sis persuasus, te melius habendum, quàm alios.
+12. In qua parte plures sunt, eam si non sequaris, non vitupera.
+13. Quo te affectus abripit, id suspectum habe.
+14. Ad donandum & convivandum, tamquam hostile consilium discute.
+15. Secretum difficilius, quàm hostem captivum tuo jugulo insidiaturum admitte.
+
 ## Operis Compendium
 
-### Simula, Dissimula
+Haec quinque prae oculis habe, nempe:
 
-### Nulli Crede
+1. **Simula.**
+2. **Dissimula.**
+3. **Nulli Crede.**
+4. **Omnia Lauda.**
+5. **Vide Quid Agas.**
 
-### Omnia Lauda
+#### Simula, Dissimula
 
-### Vide Quid Agas
+Omnium te ostende amicum, cum illis conversare, a quibus abhorres, ut sic cautelam quoque discas.
+
+Iram omni possibili modo preme: plus una illa te diffamabit, quam multae virtutes commendabunt.
+
+Semper faciliora eligere coneris, ut facilius obedire majori parti, quia plura secum trahit incommoda, et cum difficilis actio occurrit, de duobus elige faciliorem.
+
+Semper hoc cura, ut nullus sciat, quid de hac re judices, quid scias, quid velis, quid cures, quid fugias.
+
+Virtutes non expedit nimis abscondere, nec sacra longiora incusare, ne videaris indevotus.
+
+Etiamsi aliquid duriori modo possis obtinere, eum non adhibe.
+
+#### Nulli Crede
+
+Dum te laudat, persuade, quod illudat; non concrede ullum secretum, quia saepe es despectus; non lauda te, nec vitupera; insidiantur tibi alii, ut te carpant, non ostende libertatem in moribus, unde judicaberis; si quis vituperet, et vexet, puta quod tuam virtutem probet; simulant et amicos, non sunt.
+
+#### Omnia Lauda
+
+De omnibus bene aut non male loquaris, ut sciat tertius, et cum auscultatorio ad ipsum deferet.
+
+De superioribus semper bene loquere, quia paci servit, eos quorum gratia eges, lauda item victum et amictum, quem ab alio habes.
+
+#### Vide Quid Agas
+
+Quid loquaris. Potestne hoc in meliorem partem trahi? Si potest, certo trahetur, forte aspicit quispiam, aut audit, quem tu non vides.
 
 ## De Conciliatione Animorum
 
 ### Caput I
 
+#### §.1
+
+Ita natura comparatum esse videmus, ut prima de re qualibet conceptio in utramque partem admodum valeat; ex quo intelligi facile potest, quantam vim ipse quoque aspectus obtineat in commovendis disponendisque hominum animis.
+
+Unde etiam fit, ut arctissimarum conjunctionum ut plurimum haec sit origo.
+
+Etenim facies honesta et dignitas formae, indolis quoque haud vulgaris certissimum habetur indicium, et in favorem sui ignotos pariter ac ignorantes attrahit.
+
+Indeque frequens commendatio eorum, qui vel virtute insignes, vel fortuna conspicui fuerunt; adeo ut *Suetonius in vita Claudii c. 30*. operae pretium putet, commemorare, quod *Claudio* quiescenti potissimum seu dormienti talis auctoritas dignitasque formae adfuerit.
+
+Cui quantum sit tribuendum paulo quidem mollius, pulchre tamen *Isocrates* tradit *in Laudibus Helenae*: Multa, *inquit*, sunt, quibus plus honoris, quam vel fortitudine, vel justitia, vel sapientia praeditis, habeatur; Eorum autem, quae pulchritudine destituuntur, nihil diligi; sed contemni potius omnia, quae hujus boni expertia sunt, et virtutem eo potissimum celebrari, quod omnium actionum pulcherrima sit, reperiemus.
+
+Quantum autem pulchritudo antecellat omnibus rebus, e nostris affectionibus erga formosos potest intelligi; nam caeteris rebus, quarum usus aliquis nobis esse potest, tanti potiri volumus, animo vero propensiore ulterius haud progredimur; at pulchrorum amor natura nobis est insitus.
+
+*Iis etiam, qui vel sapientia, vel alia quapiam facultate praecellant, invidemus, nisi nos quotidianis beneficiis alliciant, et sui amorem quasi extorqueant: formosis autem a primo statim aspectu benevolentia conjungimur, et solos eos colendo non defatigamur, sed libentius eis inservimus, quam aliis imperamus.*
+
+Jam si qui alteri cuipiam excellentiae obnoxii sunt, eos insectamur et adulatores nominamus: *servos autem pulchritudinis elegantes et industrios existimamus*.
+
+#### §.2
+
+Et quanquam naturae partes in decore corporis ac morum praecipuae sunt; arte tamen curaque et assuetudine corrigi saepe ac mitigari, quae asperiora sunt, possunt; certe vis insita promovetur ulterius.
+
+Quapropter ut ex venusto interdum corpore quae veniunt, indecora ingrataque sunt omnia, si turpitudine morum indulgentia naturae deformetur; sic ubi eadem difficilior has dotes parcius contulit, nescio, qua Venere quove Gratiarum benigno sidere cuncta saepissime nihilominus arrident.
+
+Neque vero ad venustatem aliquam muliebrem aptari convenit; quippe removendum censemus omnem viro non dignum ornatum; adhibendaque munditia non odiosa neque exquisita nimis: tantum quae fugiat agrestem et inhumanam negligentiam; itemque in gestu motuque cavendum, ne quid odiose inepteque fiat. *Cic. 1. Offic.*
+
+#### §.3
+
+Attamen cum circa mores non eadem omnibus placeant, ac alibi liberius, alibi restrictius vivatur, optimum sane fuerit, ut quoad licet, eos imitemur, inter quos degimus.
+
+Quidni? cum Stoici quoque id jubeant; Ita enim ad *Lucilium* suum *Seneca Ep. 5.* Illud te, inquit, *admoneo, ne eorum more, qui non proficere sed conspici cupiunt, facias aliqua, quae in habitu tuo aut genere vitae notabilia sint. Asperum cultum, et intonsum caput, et negligentiorem barbam, et indictum argento odium, et cubile humi positum, et quicquid aliud ambitione perversa via sequitur, devita. Satis ipsum nomen Philosophiae, etiamsi modeste tractetur, invidiosum est; quid si nos hominum consuetudini coeperimus excerpere? Intus omnia dissimilia sint; frons nostra populo conveniat.* Mire hoc *Alcibiadem* observasse refert *Corn. Nep. in vita ipsius:* Nimirum cum *Athenis* splendidissima civitate natus esset, omnes eum Athenienses splendore ac dignitate vitae superasse: postquam inde expulsus *Thebas* venerit, adeo studiis eorum inserviisse, ut nemo eum labore corporisque viribus posset aequiparare.
+
+Eundem apud *Lacedaemonios*, quorum moribus summa virtus in patientia ponebatur, sic duritiae se dedisse, ut parsimonia victus atque cultus omnes Lacedaemonios vinceret.
+
+Fuisse apud *Thracas*, homines vinolentos rebusque venereis deditos, hos quoque in his rebus antecessisse, venisse ad *Persas*, apud quos summa laus esset, fortiter venari, luxuriose vivere: horum sic imitatum consuetudinem, ut illi ipsi eum in his maxime admirarentur; *quibus rebus effecisse, ut apud quoscunque esset, poneretur princeps, habereturque carissimus*.
+
+#### §.4
+
+Praecipue vero summis aeque ac infimis caros efficit servata ubique modestia; haec condimentum est omnium virtutum; haec DEO et hominibus grata; haec eos etiam placabiles reddit, qui virtutem ipsam exscindere parant.
+
+Vix unquam aliquis ita excelluit, ut vinceret secum viventium invidiam; ab hac tutos immunesque servat modestia.
+
+Ignavi ac perditi homines turpitudinem suam exprobrari sibi credunt, si verae laudis et gloriae compotes cernant alios; hi licet iniquissimi, facessere tamen coguntur, ubi causam obtrectandi omnem subducit modestia.
+
+Denique ad quoscunque scopulos ipsa saepe virtus impingit ac frangitur, hos praevertere ac declinare prudens moderatio novit.
+
+Haec quam necessaria temporibus illis, *quibus sinistra erga eminentes interpretatio, nec minus periculum ex magna fama, quam ex mala? Tac. in Agric. c. 5. quibus Nobilitas, opes, omissi gestique honores pro crimine et ob virtutes certissimum exitium. Idem 1. H. 2. 4.*
+
+Nam quid aliud *Romae* sub primis Imperatoribus tot illustres viros perdidit, quam quod memoriam ac desiderium avitae libertatis paulo immodestius retinere viderentur? *Boccal. Cent. 2. Rel. 33.*
+
+Qui vero inoffensa tot Tyrannorum malitia *inter abruptam contumaciam et deforme obsequium* medio quodam itinere evaserunt, hos sola protexit vitae modestia: his impune fuit, et pace et bello maximos gessisse Magistratus.
+
+Ita *referente Tacito 4. Ann. c. 10. L. Piso* Pontifex in maxima claritudine fato obiit *nullius servilis sententiae sponte auctor, et quoties necessitas ingrueret, sapienter moderans.*
+
+Aetas ad octogesimum annum processit, praecipua ex eo gloria, quod Praefectus urbi continuam potestatem et insolentia parendi graviorem mire temperavit.
+
+Et de socero suo *Julio Agricola* idem *in vita ipsius: Domitiani*, inquit, *natura praeceps in iram, et quo obscurior, eo revocabilior, moderatione tamen prudentiaque Agricolae leniebatur, quia non contumacia, neque inani jactatione libertatis famam fatumque provocabat.*
+
+#### §.5
+
+Constat igitur, posse etiam sub malis Principibus magnos viros esse, obsequiumque ac modestiam, si industria ac vigor adsint, eo laudis excedere, quo plerique per abrupta sed in nullum Reipublicae usum ambitiosa morte inclaruerunt. *Ibid c. 42. §. 7.* Itaque factum *Thraseae* haud probare videtur *Tacitus*, quem priores adulationes silentio vel brevi assensu transmittere solitum, cum de *Agrippina* matre *Neronis* tanquam jure occisa referretur, Senatu exisse memorat, ac *sibi*, inquit, *causam periculi fecit, caeteris libertatis initium non praebuit. Idem 14. Ann. c. 12. v. 5.*
+
+Nec *Clyti* quidem ac *Callisthenis* caedem tam crudelitati *Alexandri*, quam ipsorum morositati ac intempestivis objurgationibus imputaverim; et ad omnes pertinere puto, quod contra *Helvidium Priscum Marcellus Eprius Romae* quondam in Senatu differuit: Aequaretur sane constantia, fortitudine *Catonibus et Brutis Helvidius*; se unum esse ex illo Senatu, qui simul servierit: Suadere etiam *Prisco*, ne supra Principem scanderet, ne *Vespasianum* Senem Triumphalem, juvenum liberorum Patrem praeceptis coerceret; *Quomodo pessimis imperatoribus sine fine dominatione, ita quamvis egregiis modum libertatis placere. Tac. 4. Hist. c. 8.*
+
+#### §.6
+
+Quapropter nulla gravior pestis omnis benevoli affectus excogitari potest, quam vultus ambitiosus et arrogans, et imperii, gloriae, honoris, nimis immoderata cupido; quae tamen mala in maximis animis splendidissimisque ingeniis plerumque existunt. *Cic. 1. Offic.*
+
+Nec quisquam fere eorum, qui in Republica versantur, quos vincat, sed a quibus vincatur aspicit, et illis non tam jucundum est, multos post se videre, quam grave, aliquem ante se; *Habet hoc vitium omnis ambitio; non respicit. Sen. Ep. 73.*
+
+Sed et successu rerum plurimi inflantur, et *abidos facit nimia felicitas nec tam temperatae cupiditates sunt unquam, ut in eo, quod contigit, desinant; gradus a magnis ad majora fit, et spes improbissimas complectuntur insperata assecuti Id. de Clem. l. 1. c. 1.*
+
+Hunc animi morbum utcunque tegas, semper translucet; quod cum in Principe quodam magni nominis superioris seculi deprehendisset *Thuanus lib. 11. Hist. Sub insigni (subjicit) comitate magna latebat ambitio*.
+
+Scilicet difficile est in eodem habitu persistere, si non naturalis ista sit bonitas, sed ad tempus sumpta.
+
+Ficta cito in naturam suam recidunt, nec simulatum potest quicquam esse diuturnum; quibus autem veritas subest, quaeque ex solido constant, tempore ipso in majus meliusque procedunt.
+
+Nec offensas solum ciet invisosque reddit hoc supra omnes eminendi studium, talisque contemptor aliorum animus, sed et sibi ipsi plerumque exitium invenit, utpote qui stare nescit, *non aliter, quam in praeceps dejecta pondera, quibus eundi finis est jacuisse. Sen. Ep. 94.*
+
+Proinde comprimendi sunt nimii spiritus, ne vel sublimi cogitatione, vel fortunae blandimentis elati, avidi magis gloriae quam capaces reddamur.
+
+Si quis enim personam inducit, quae vires ipsius superat, tum hanc indecore geret, tum eam quam sustinere posset, negliget *Epictet. in Enchird. c. 59.* atque ita aliis gravis, sibi noxius erit.
+
+Rerum autem humanarum vicissitudinem quis ignorat? Ut non imprudentes solum, sed et miseros merito reputemus, qui ad quosvis fortunae status tument, eique se totos committunt.
+
+Melius haec cuncta perpendens et prosperis et adversis suis edoctus *Seneca*.
+
+Nunquam ego fortunae, *inquit*, credidi, etiamsi videretur pacem agere: omnia illa, quae in me indulgentissime conferebat: Pecuniam, honores, gloriam eo loco posui, unde posset ea sine motu meo repetere. *Consol. ad Helv. c. 5.*
+
+#### §.7
+
+Aeque ab honestis motibus aliena est *petulantia ac incontinentia* circa necessitates illas, queis naturae desideriis obtemperamus, circaque affectus motusque animi componendos.
+
+Solem autem e mundo tollere videtur, qui pudorem ex vita humana, quo ceu repagulo quodam remoto omnium libidinum effusa sequitur licentia.
+
+Hinc et quod facere turpe non est, modo occulte, id dicere obscoenum habetur: Cujus quidem rei praecipuam ipsa natura rationem habuisse videtur, quae figuram corporis nostri, in qua est species honesta, in promptu posuit; quae autem partes corporis ad naturae necessitatem datae aspectum essent deformem habiturae atque turpem, eas contexit atque abdidit.
+
+Hanc naturae tam diligentem fabricam imitata est hominum verecundia; quae enim illa occultavit, eadem omnes, qui sana mente sunt, removent ab oculis, ipsique necessitati dant operam, ut quam occultissime pareant; quarumque partium corporis usus sunt necessarii, eas neque partes, neque usus earum suis nominibus appellant; itaque nec aperta actio rerum illarum *petulantia* vacat, nec oratio *obscoenitate Cic. l. 1. Offic.*
+
+Tenendus igitur hic modus tum in his, quae haud obscure notata jam sunt, tum in reliquis omnibus, quae ab ipsa oculorum auriumque comprobatione abhorrere videntur, quaeque a nobis removere solemus, ut verecunde occulteque id fiat, neque aliter, ac necesse est: Nam hebetis ingenii signum est, ait *Epictet. in Enchirid. c. 63.* hisce diutius immorari, quae facienda sunt quidem, sed obiter.
+
+Denique nec ob gulae desideria verecundiae ac modestiae fines decet excedere, cui negare quaedam satius omnino fuerit, quam speciem incivilitatis praebere.
+
+Atque haec molesta his esse potissimum solent, cum quibus quotidie vivendi aliqua nos ratio conjunxit; quos quo magis observari contineri in officio convenit, si tranquilli esse domi velimus, eo cavendum diligentius, *ne ob fastidium* illiberalioris convictus animi ipsorum abalienentur.
+
+#### §.8
+
+Restat ut dicamus, quomodo decorum hoc circa *affectus* quoque temperandos teneri debeat, qui si quid aliud, ipsam prope humanitatem sede sua exturbant, hominesque in belluas quodammodo convertunt.
+
+Qua in re maximo ni fallor impetu ingruunt *iracundia et inconsultus amor*; quibus obnoxii, qui sunt, his nihil ineptius, nihil intolerabilius, cum sibi ipsi interea magnifici ac egregii videantur, mirificeque placeant.
+
+Videndum igitur, ut imperio rationis, si extingui non possit, ast saltem cohibeatur effrenis illa rabies, ut quam minime de statu suo mentem dimoveat.
+
+Non tempero mihi, quin huc transcribam insignem plane locum *Ciceronis* ad *Quintum* Fratrem *Lib. 1. Ep. 1.* qui etsi prolixior est, comparatio tamen utilitatis veniam, ut spero, merebitur.
+
+Exposuerat autem ibidem *Cicero* pro summo et ingenio suo et usu rerum prudentissime, quas artes nosse debeat, qui cum laude praeesse Reip. velit; postmodum ita pergit: Quae supra scripta sunt, non ut te instituerem scripsi, (neque enim tua prudentia cujusquam praecepta desiderat) sed me in scribendo commemoratio tuae virtutis delectavit.
+
+Unum est, quod tibi ego praecipere non desinam, neque te patiar, quantum in me erit, *cum exceptione laudari*.
+
+Omnes qui isthinc veniunt, ita de tua virtute, integritate, humanitate commemorant, *ut in tuis summis laudibus excipiant unam iracundiam: Quod vitium cum in hac privata quotidianaque vita levis esse animi ac infirmi videtur, tum vero nihil est tam deforme, quam ad summum imperium etiam acerbitatem naturae adjungere*.
+
+Sic ad nos omnes fere deferunt, *nihil, cum absit iracundia, te fieri posse jucundius*.
+
+Sed cum te alicujus improbitas perversitasque commoverit, sic te animo incitari, ut ab omnibus tua desideretur humanitas.
+
+Neque ego hoc nunc contendo, quod fortasse cum in omni natura, tum jam in nostra aetate, difficile est, mutare animum, et si quid est penitus insitum, id subito evellere; Sed te illud admoneo, ut si hoc plane vitare non potes, quod ante occupatur animus ab iracundia, quam providere ratio potuit, ne occuparetur.
+
+*Te ante compares, quotidieque meditere, resistendum esse iracundiae: cumque ea maxime animum moveat, tum tibi esse diligentissime linguam continendam*; quae quidem mihi virtus non interdum minor videtur, quam omnino non irasci; nam illud non solum est gravitatis, sed nonnunquam etiam lentitudinis: *Moderari vero et animo et orationi, cum sis iratus, aut etiam tacere, et tenere in sua potestate motum animi et dolorem, etsi non est perfectae sapientiae, tamen est non mediocris ingenii.*
+
+De reliquis affectibus, ne nimis longi simus, dicere jam supersedemus; nam et in sequentibus haec sparsim tradentur, et a doctissimis hominibus pertractata sunt nimis.
+
+Quanquam *ut recte censet Seneca *Ep. 94. Ista qui diligentissime monent, ipsi saepe facere non possunt. Irascendus non esse Magister iracundissimus disputat.*
+
+*Outre cela la pluspart des preceptes qu'on nous a laissez, & qu'on a reduits en forme de Science sont des choses si abstraites, que si la nature, ou l'experience ne donnent l'art de les appliquer, elles reussisent pernicieuses ou vaines.*
+
+*Bien souvent au lieu de faire un habil homme.*
+
+*Elles ne font qu'un Pedant: Elles communiquent la presumption, & non pas la sagesse: Elles esgarent, au lieu de monstrer un chemin plus court; & pour une malscure reformation, qu'elles promettent elles confondent & alterent tout par la nouveauté qu'elles introduisent. Silhon en son Ministre d'Estat Livre 1. Disc. 2.*
+
 ### Caput II
+
+#### §. 1
+
+Nulla autem res magis honesta inducit, dubiosque et in pravum inclinantes revocat ad rectum, quam bonorum virorum conversatio; paulatim enim descendit in pectora, et vim praeceptorum obtinet, frequenter audiri, aspici frequenter. Occursus, mehercules, ipse sapientium juvat, et est aliquid, quod ex magno viro vel tacente proficias, Seneca *Ep. 94*. Huc introducimur ea, quam praecedenti capite exposuimus, aptitudine morum: modo dispiciendum: Qualis esse conversatio nostra debeat, ut adipiscamur ac retineamus cum honore ac fide charitatem, ubi tria hominum genera nobis praeprimis occurrunt; vel enim cum superioribus nos fortuna committit; vel aequalibus miscemur; vel infra conditionem nostram positos communione aliqua vitae complectimur.
+
+#### §. 2
+
+Priores illos nulla re magis, quam prudenti obsequio devinxeris, quod medium sit inter adulationem et nimiam libertatem. Utrobique turpiter plerumque ac perniciose peccatur; pauciores tamen reperias, qui obniti potentioribus audeant, cum infructuosum hoc sit, nec periculis vacuum. Id enim in summa fortuna praecipuum habetur, nulli obnoxium vivere, et liberrimo arbitratu cuncta dispensare. Sensit hoc Favorinus Philosophus, qui quum verbum ejus quoddam ab Adriano reprehensum esset, atque ille cessisset, arguentibus amicis, quod male cederet Adriano de verbo, quod idonei autores usurpassent, risum jucundissimum movit, Ait enim, Non recte suadetis, familiares, qui non patimini, me illum doctiorem omnibus credere, qui habet triginta legiones, Spart. *in vita Hadriani* c. 15. Proinde indignum se haut quicquam committunt viri docti, ubi, cum res postulat, aliquid de gravitate sua remittunt, sive necessitas cogat, seu insignis aliqua occasio id suadeat; quaedam enim licet abjecta ac servilia videantur primo intuitu, tamen verius rem aestimantibus censebuntur non personae, sed tempori data; veluti Diogenes cuidam interroganti: Qui fieret, quod Philosophi Divites sectarentur, non Divites Philosophos? respondit: Hoc ideo fieri, quod Philosophi quibus rebus indigeant, probe intelligant, Divites non item. Franc. Baco *L. 1. de Augm. Scient.*
+
+#### §. 3
+
+Saepius adhuc impingitur incauta familiaritate cum sublimioris fortunae hominibus: qui licet remisso supercilio ipsimet provocare ac elicere soleant promiscuam saepe licentiam, tenerrimi tamen ad omnia sunt sensus, nec suae aliorumque conditionis unquam obliviscuntur. Repetat, qui volet, ex omni Historia casus illorum, qui, cum in summo gradu illustris amicitiae consisterent, repente deserti ac in praeceps sunt dati; non alia magis frequens causa reperietur, quam abusus iste ac nimia fiducia concessae libertatis. Mihi ex Tacito prudentissimo harum rerum indagatore unicum Attici Vestini Consulis exemplum adduxisse sufficiat: Neronis odium (inquit ille *15. Annal. c. 68.*) adversus Vestinum ex intima sodalitate coeperat, dum hic ignaviam Principis penitus cognitam despicit, ille ferociam amici metuit saepe asperis facetiis illusus; quae ubi multum ex vero traxere, acrem sui memoriam relinquunt. Ex eadem intemperantia jactantia quoque et imputatio meritorum promanat. Atqui obligari beneficio nolunt, qui se locupletes, honoratiores et beatos putant; quin et beneficium se dedisse arbitrantur, cum ipsi quamvis aliquod magnum acceperint. Patrocinio vero se usos, et Clientes appellari mortis instar putant, Cic. *2 Offic.* Destrui quippe per haec fortunam suam, ac se impares compensando merito credunt. Nam beneficia eo usque laeta sunt dum videntur exsolvi posse: ubi multum antevenere, pro gratia odium redditur. Tac. *4. Annal. c. 18.* ac fere semper graviorum facinorum ministri quasi exprobrantes adspiciuntur. Id. *14. c. 62.* Imo plura saepe peccantur, dum demeremur, quam dum offendimus. Id. *5. Annal. c. 21.*
+
+#### §. 4
+
+Alterum, quo ab honesto obsequio disceditur, est adulatio, malum, quo nihil frequentius ac aeque noxium, sed quod aegre intelligitur, rarissime punitur. Ea enim sceleratissimi cujusque caecitas est, ut indignus ne maximis quidem laudibus, quae ipsi tribuuntur, videri velit. Boccalinus *Cent. 2. Rel. 57.* Haec semper magnae fortunae comes et in aulis praecipue familiaris est; quod licet ita notum sit omnibus, ut testimoniis non indigeat, grave tamen non erit, Senecae hic luminari sententiam: Monstrabo tibi, inquit, *l. 6. de Benef. c. 30.* cujus rei inopia laborent magna fastigia, quid omnia possidentibus desit: Scilicet ille, qui verum dicat, et hominem inter mentientes stupentem, ipsaque consuetudine pro rectis blanda audiendi ad ignorantiam veri perductum, vindicet a consensu concentuque falsorum. Non vides, quemadmodum illos in praeceps agat extincta libertas, et fides in obsequium servile submissa, dum nemo ex animi sui sententia suadet dissuadetque, sed adulandi certamen est, et unum amicorum omnium officium, una contentio, quis blandissime fallat? Et sane difficile est ac rarum, ut non eo omnes inclinent, quo Principem ferri sentiunt, aut eos, qui primum in aula locum obtinent. *Cela pourtant n'est pas extraordinaire dans le monde, et il n'arrive que trop souvent, que ceux qui approchent la Persone des Princes n'estudient pas tant à estre les Ministres de leur dignité que les instrumens de leurs passions: qu'ils sont plutost leurs Corrupteurs, que leurs conseilers: qu'ils employent le vice, quand la vertu leur est inutile pour s'avancer, et qu'ils ne treuvent rien de lasche, ni de deshonneste, de ce qui peut remplir leur äbition, ou asseurer leur fortune. Et bien que le chemin qu'ils tiennent mene à des precipices, et qu'il y ait des exemples de ceux qui s'y sont perdus encor frais et sensibles; cela ne fait pas impression sur leur esprit: le mal-heur des autres ne les touche point, et ils ont si bonne opinion d'eux mesme qu'ils s'imaginent, qu'ils auront plus d'adresse ou plus de fortune pour s'en garentir.* Silhon *au Liv. 1. Disc. 4. du Ministre d'Estat.*
+
+#### §. 5
+
+Periculosa omnino haec quoque via; deprehensi namque non solum gratia excidunt, sed et omnium mortalium abjectissimi habentur, tanquam qui ulla arte honesta rectisque studiis humo sese tollere non posse confidant, sed suo cum dedecore, aliorum pernicie, irrepere animis potentium conentur; certe alienum prorsus ab ingenua indole hoc vitium, et si qui erectioris excellentisque animi sunt, ipsimet abominantur fallax hoc hominum genus, facileque discernunt, num quis lingua ab affectibus libera, an ad gratiam et praeter animi mentem composito sermone utatur. Non tulit hoc Tiberius cautus in pleraque gubernatione Princeps; itaque nec *Patris Patriæ* toties delatum vocabulum adsumpsit, nec in acta sua jurari passus est, acerbeque increpuit eos, qui *divinas* ejus *occupationes* ipsumque *Dominum* dixerant. Tac. *1. Annal. 72. 3. Annal. 87.* Nec Cornelii Dolabellae absurda adulatio gratior ipsi fuit; Is cum absente Tiberio Patres vota pro reditu ejus supplicationesque decrevissent, quo caeteros anteiret, censuit: ut ovans e Campania Urbem introiret; Etenim secutae Caesaris literae, quibus se non tam vacuum gloria praedicabat, ut post tot ferocissimas Gentes perdomitas, tot receptos in juventa aut spretos triumphos, jam Senior peregrinationis suburbanae inane praemium peteret. Id *13. Ann. c. 47.* Ceterum tempora illa adeo infecta et adulatione sordida fuere, ut non modo Primores civitatis, quibus claritudo sua obsequiis protegenda erat, sed omnes Consulares, magna pars eorum, qui praetura functi, multique etiam Pedarii Senatores certatim exsurgerent, foedaque et nimia censerent. Memoria proditur, Tiberium, quoties curia egrederetur, Graecis verbis in hunc modum eloqui solitum: O homines ad servitutem paratos! Scilicet, inquit Tacitus, etiam illum, qui publicam libertatem nollet, tam projectae servientium patientiae taedebat, ibid. c. 65.
+
+#### §. 6
+
+Anceps igitur et lubricum cum his versari, qui nec libertatem ferre queunt, et adulationem oderunt; Attamen nec exempla obsequii moderati desunt, et ad quam formam exigendum hoc sit, non ita difficulter constitui potest. Duos autem duntaxat instar omnium producemus, qui nobis hic praeeant; Hephaestionem Alexandri, et Manium Lepidum Tiberii amicitia prosperime usos; Quorum ille omnium amicorum longe charissimus erat Regi, cum ipso pariter educatus, secretorum omnium arbiter; Libertatis quoque in admonendo eo non alius jus habebat, quod tamen ita usurpabat, ut magis a Rege permissum, quam vindicatum ab eo videretur. Curt. *l. 3. c. 9.* Idem institutum Lepidus quoque secutus est. Vir Taciti judicio gravis ac sapiens temporibus illis; nam pleraque a saevis adulationibus aliorum in melius flexit; neque tamen temperamenti egebat, cum aequabili auctoritate et gratia apud Tiberium viguerit. Tac. *4. Ann. c. 20.* Quapropter noscendum ante omnia imperium ejus, quem demereri ac pronum nobis efficere studemus, nec si necessitas absit, vel nisi ratio officii aliud a nobis exigat, quicquam aut dicamus aut faciamus, quo offensas provocemus; adeo ut et injurias Superiorum, nisi honeste fieri possit, interdum perferre, et defectus ac vitia ipsorum dissimulare pre conditione temporum prudentiae esse, asserere haut dubitem, quippe qua potissimum arte se sibi Augustum conciliasse et viam ad imperium praestruxisse, Tiberius apud Boccalinum gloriatur, *Cent. 2. Rel. 33.* Rara autem temporum felicitas, ubi sentire, quae velis, et quae sentias, dicere licet. Tac. *1. H. 1.*
+
+#### §. 7
+
+Aliquanto expeditior ratio constat aequalium inter se vitae consortio, a quibus et assentandi necessitas abest, et liberior tum seria tum ludicra exercendi licentia competit. Cum his non solum illa universalis hominum societas nos conjungit, sed et amicitiae optime constituuntur, quae sunt maxime constantes. Prima autem hic cautio est, ut delectum quendam instituamus eorum, qui sint admittendi, et quorum conversationem tanquam noxiam fugere debeamus. *Inimica est multorum conversatio*, inquit Seneca *Ep. 7.* *Nemo non aliquod nobis vitium aut commendat, aut imprimit, aut nescientibus allinit; utique quo major est populus, cui commiscemur, hoc periculi plus est.* Ceterum uti non semper haec nostri sunt arbitrii, ita praeprimis cum his versari debemus, qui nos meliores facturi sunt, et a quibus aliqua commendatio ingenii ac virtutis ad nos pervenire potest. Itaque aliquis vir bonus nobis eligendus ac semper ante oculos habendus, ut sic tanquam illo spectante vivamus, et omnia tanquam illo vidente faciamus. Aliquem habeat animus, quem vereatur, cujus auctoritate etiam secretum suum sanctius faciat, Senec. *Ep. 11.* Praeterea hic quoque facillime in optimam partem cognoscuntur, qui se ad claros et sapientes viros bene consulentes Reipublicae conferunt, quibuscum si frequentes sunt, opinionem afferunt populo, eorum fore se similes, quos sibi delegerunt ad imitandum, Cic. *2. Offic.* Sed quoniam ipsa ratio hujus vitae, ipsaque natura actionum humanarum ejusmodi separationem haut semper concedit, opera danda est, ut ita instructi simus, ne offendamus, aut quos non decet, aut quos non expedit; utque si omnes amicos habere non licet, inimicum tamen culpa nostra neminem habeamus; Diverso siquidem respectu observandi sunt omnes, quidam ut prosint, quidam ne noceant.
+
+#### §. 8
+
+Ingens momentum huc affert comitas affabilitasque sermonis, nec quisquam fere ita efferati ingenii est, quin se oratione benigna allici blandeque appellando deliniri patiatur; imo experientia cognitum est, quosdam ex spe novissima ad vitam quasi revocatos, ubi vel diluendi criminis vel obtestandae gratiae copia ipsis data. Nimirum *humanitatis dulcedo etiam in efferata Barbarorum ingenia penetrat, verbosque et truces hostium mollit oculos, ac victoriae insolentissimos spiritus flectit. Nec illi difficile et arduum est, inter arma contraria, inter districtos cominus mucrones placidum iter reperire. Vincit ira, prosternit odium, hostilemque sanguinem hostilibus lacrymis miscet.* Val. Max. *l. 5. Exempl. Memorab. c. 1. Exempl. exter. 6.* Inclinari in hanc partem praeprimis coepit aetas haec nostra, adeo ut in mores abiisse, ut alia exotica, hae quoque blanditiae videantur; quo factum, ut evulgato hoc arcano plus assensus quam fidei ipsis tribuatur, ac speciem adhuc aliquam retineant, vim fere omnem amiserint. Proinde isthaec cautio diligenter custodienda, ut serena fronte candidi affectus indicium profiteamur, subdolae vero ac tectae fallaciae notam evitemus. Hujusmodi characterem egregio cuidam Principi adversarum partium Famianus Strada attribuit, quem tamen eo nomine vituperare haut potuit, quin una etiam laudaret. Ita enim de eo scribit *Lib. 2. de Bello Belgico Dec. 1.* *Captandæ eorum gratiæ, quibuscum semel loqueretur, artifex sane mirus fuit: adeo ex vero ad omnium mores suos conformabat, seque alienis momentis circumagebat; non quod ad ista descenderet officiorum aucupia, et vocabula imaginaria servitutis, quibus hodie se homines honorifice ludificant; Sed quod obsequii dignationisque nec modicus nec praelargus, ita verba callide temperaret, ut facile crederes, eum plura factis reservare; Ex quo major et gravitatis ejus opinio, et dictorum fides.* In sermone porro requiritur, ut exquisito judicio linguâ utamur: ut vox clara sit ac suavis, sale ac facetiis condita, minimeque pertinax oratio; quo quidem Catulos quondam Romae inter Oratores excelluisse Cicero memorat *Lib. 1. Offic.* *Sonus*, inquit, *erat dulcis, litterae neque expressae, neque oppressae, ne aut obscurum esset, aut nimis putidum, sine contentione vox, nec languens, nec canora.*
+
+#### §. 9
+
+Tria autem hic fugienda sunt fere: Primo ne disceptationibus ac contentionibus dediti nimis simus, quod qui faciunt, insociabiles putantur, ipsaque consuetudine contradicendi auctoritatem imminuunt. Intellexit hoc C. Cassius, in cujus oratione quadam apud Tac. *14. Annal. c. 43.* haec verba leguntur: *Quicquid in nobis auctoritatis est, crebris contradictionibus destruendum non existimabam, ut maneret integrum, si quando Respublica consiliis eguisset.* Agricola quoque ne famam quidem, cui etiam saepe boni indulgent, ostentanda virtute aut per artem quaesivit, procul ab aemulatione adversus collegas, procul a contentione adversus procuratores, et vincere inglorium, et atteri sordidum arbitrabatur. Idem *in Agric. c. 9.* A litibus igitur quantum licet abstineamus, multaque multis de jure nostro concedere ne dubitemus; id quod non modo liberale, sed interdum etiam fructuosum putatur. *Superbi illi, qui, ut ita dicam, ex omni occasione triumphum quaerunt*, et sententiae quamvis parum probabili nimis pertinaciter adhaerent. Familiare hoc vitium adolescentibus esse Plinius conqueritur *Lib. 8. Ep. 23.* *Quotusquisque*, inquit, *vel aetati alterius, vel auctoritati ut minor cedit? Statim sapiunt, statim sciunt omnia; neminem verentur, imitantur neminem, atque ipsi sibi exempla sunt; Sed non Avitus (cujus enim ibi mortem deplorat) cujus haec praecipua prudentia, quod alios prudentiores arbitrabatur; haec praecipua eruditio, quod discere volebat.* Deinde providendum, ne sermo vitium aliquod indicet inesse moribus, quod maxime tum solet evenire, cum studiose de absentibus detrahendi causa, aut per ridiculum, aut severe, maledice, contumelioseque dicitur, Cic. *1. Offic.* Quilibet enim eandem acerbitatem in se timet, qua adversus alios quempiam ferri animadvertit. Denique hac moderatione semper utendum, ne tanquam in possessionem loquendi venerimus, a sermone communi alios excludamus; neve vel hilaritatem interpellemus austeritate, vel quod Cato Ciceroni objecisse dicitur, jocosa seriis intempestive admisceamus.
+
+#### §. 10
+
+Longum foret eodem modo cuncta, quae huc pertinent, pertractare: In cumulum autem congessit pleraque Simo Terentianus, qui ita de Pamphilo suo praedicat in *Andria Act. 1. Scen. 1.*
+
+*Sic vita erat: Facile omnes perferre ac pati,  
+Cum quibus erat cunque una, iis sese dedere,  
+Eorum obsequi studiis, adversus nemini,  
+Nunquam praeponens se aliis. Ita facillime  
+Sine invidia invenias laudem, et amicos pares.*
+
+Ceterum in hac quoque conjunctione nosse ingenia oportet, si non omnium, eorum certe, qui circa nos sunt frequentiores; et ut aquas haut cognitas, antequam nos iis committimus, tentare prius solemus; ita explorandi quoque sunt animi mortalium, quorum abditi plerumque sunt sensus. *Alii enim ad iracundiam sunt proniores; alios suspicio exstimulat, hi graviter advertunt, quae non censeas:* Idem *Heaut. 3. 3. 9.* Proinde exulcerandi non sunt: raro enim coalescit iterum rupta semel amicitia.
+
+#### §. 11
+
+Maxime vero in omni vitae consortio vitanda morositas, jactantia, et prava aemulatio. Sunt, qui ad suum ingenium omnes exigunt, et carpere amicos suos, judicium vocant immemores aeque multos esse, quos ea, quibus ipsi ducuntur, mirificeque delectantur, partim ut inepta, partim ut molestissima offendant; *Demus igitur alienis oblectationibus veniam, ut nostris vicissim impetremus;* Plin. *Lib. 9. Ep. 17.* Hos autem quis ferat, qui omnium libidinum servi sic aliorum vitiis irascuntur, quasi invideant, et acerrime traducunt, quos maxime imitantur? cum eos etiam, qui non indigent venia ullius, nihil magis quam lenitas deceat, nec quisquam facile sit, cui tam valde innocentia sua placeat, ut constare in conspectu clementiam palam humanis erroribus gaudeat, Sen. *1. de Clem. cap. 1.* Sed profecto pauci adhuc extitere, quorum virtutes nullo vitiorum confinio laederentur. Propterea ceteris ita ignoscamus, tanquam ipsi quotidie peccemus, ita peccatis abstineamus, tanquam nemini ignoscamus, ac nobis implacabiles simus, exorabiles istis etiam, qui dare veniam nisi sibi nesciunt, Plin. *lib. 9. Ep. 19.* Etenim tunc praecipua mansuetudinis laus est, cum irae causa justissima est.
+
+#### §. 12
+
+Ad jactantiam venio, quae gravis esse equissimis etiam auribus solet; quanquam nihil aeque multos ceteroquin haut improbos teneat, quando etiam *Sapientibus (si Tacito credimus l. 4. H. c. 6. vers. 1.) appetentia famæ et cupido gloriae novissima exuitur*. Omnes enim, qui magnum aliquod memorandumque fecerunt, non modo venia, verum etiam laude dignissimos se judicant, si immortalitatem, quam meruere, sectantur, victurique nominis famam supremis etiam titulis prorogare nituntur, tumque potissimum jactantiores se visum iri haut verentur, cum de se aliorum judicia proferunt. Plin. *l. 6. Ep. 23.* *Scilicet trahimur omnes laudis studio, et optimus quisque maxime gloria ducitur. Illi ipsi Philosophi, etiam in illis libellis, quos de contemnenda gloria scripserunt, nomen suum inscribunt, et in eo ipso, in quo praedicationem nobilitatemque despiciunt, praedicari se ac nominari volunt.* Cic. *Orat. pro Arch.* Sed ne hi quidem facile invidiam effugerint; nam cum ipsi honestati, tum aliquanto magis gloriae ejus praedicationique invidetur, atque ea demum recte facta minus detorquent ac carpunt homines, quae in obscuritate et silentio reponuntur, nimirum, postquam plerique facere laudanda desierunt, laudari quoque ineptum putant. Hinc factum, ut, cum Aristides per Ostracismum Athenis pelleretur, quidam interrogatus, quare ipse etiam subscriberet? responderit: *Se ignorare Aristidem, sed sibi non placere, quod tam cupide elaborasset, ut praeter caeteros justus appellaretur.* Corn. Nep. *in vita Aristid. c. 1.* Quod igitur alienae quoque laudes parum aequis auribus accipi solent, *quam difficile est obtinere, ne molesta videatur oratio de se aut de suis differentis? Ii namque, qui benefacta sua verbis adornant, non ideo praedicare, quia fecerint, sed ut praedicarent, fecisse creduntur; sic quod magnificum referente alio fuisset, ipso, qui gesserat, recensente evanescit: Homines enim cum rem destruere non possunt, jactationem ejus incessunt; ita si silenda feceris, factum ipsum: si laudanda, quod non sileas, ipse culparis.* Plin. *l. 1. Ep. 8.* Prudens hac de re extat Epicteti consilium in *Enchirid. c. 53.* *In familiaribus*, inquit, *congressibus absit facinorum aut periculorum tuorum prolixa et immodica commemoratio: nec enim ut tibi jucundum est tuorum certaminum meminisse, sic et aliis suave est, ea, quae tibi acciderunt, audire.* Quocirca si offensas vitare volumus, linguam contineri oportet, ne nimii simus commemorandis, quae gessimus, utque tanta in praedicando sit verecundia, quanta ex facto gloria speratur. Supervacua hic omnis praematura sollicitudo; memoria namque nostri durabit, si vita meruimus; nec unquam in tantum convalescet nequitia, nunquam sic contra virtutes conjurabitur, ut non invidi quoque ac inviti aliquando ingentibus meritis parem gratiam referant; certe *suum cuique decus posteritas rependet.* Tac. *4. Annal. cap. 35. §. 3.*
+
+#### §. 13
+
+Haut minori incommodo obnoxium est perversum illud aemulandi studium, quo plerique mortalium quemquam ante juxtaque se aequo animo tolerare nesciunt. Nihil tam pronum ad simultates magisque benevolentiae adversum, quam isthaec malignitas; *Ea maxime nascitur ex conjunctione, alitur aequalitate, exardescit invidia, cujus finis est odium.* Plin. *Paneg. cap. 84.* Neutiquam vero hoc loco indigitatur honesta illa aemulatio, quae instigat animum, ut optima quaeque ad imitandum sibi proponat, sed quae cum ambitione conjuncta premendo alium se super omnes efferre instituit. Hanc in Brutidio Nigro ita depingit Tacitus *3. Annal. c. 39.* *Brutidium*, inquit, *artibus honestis copiosum, et si rectum iter pergeret, ad clarissima quaeque iturum, festinatio exstimulabat, dum aequales, dein superiores, postremo suasmet ipse spes anteire parat; quod multos etiam bonos pessumdedit, qui spretis, quae tarda cum securitate, praematura vel cum exitio properant.* Hac animi impotentia affecti qui sunt, se ipsos ceu lenta quadam tabe conficiunt, dum successus aliorum prohibere conantur, ac prae livore omne studium amplificandae fortunae suae vel abjiciunt, vel frustra consumunt, non est enim, quod credas, *quenquam fieri aliena infelicitate felicem.* Sen. *Ep. 94.* Avertendo itaque huic malo haec sola sit inter aequales concertatio, *Se invicem anteponendo;* Tac. *in Agric. c. 3.* ac beatiores quidem qui sunt, omni modo provideant, ne quam suspicionem contemptus ceteris praebeant; hi vero dolere non debent, se ab aliis ingenio, divitiis, aliisque fortunae dotibus superari, utque in unum aliquem hautquaquam collata sunt omnia, sic jure conqueri nemo potest, quin sibi quoque contigerit aliqua vitae statio, quae cum sorte ipsius conveniat, dummodo animum intendat, ac semet ipsum haut deserat. Multum praeterea et fiduciae adjicere, et sollicitudinis detrahere potest morum ac fortunae in claris viris recognita mutatio, sive nostros status, sive proximorum ingenia contemplemur. Nam cum aliorum fortunas spectando, ex conditione abjecta emersisse claritatem videamus, quid oberit, quin et ipsi meliora de nobis semper cogitemus? Memores: *stultum esse, perpetuae infelicitatis se praedamnare spemque, quae etiam incerta recte fovetur, interdum certam in desperationem convertere.* Valer. Max. *libr. 6. Exempl. Memor. c. 9. pr.*
+
+#### §. 14
+
+Tertius hominum ordo juxta distributionem, quam supra fecimus, est inferiorum. Ut enim linea consanguinitatis alia est ascendentium, alia eorum, qui sunt ex latere, alia vero descendentium; Sic triplici hac serie universum genus humanum quodammodo cohaeret. Porro, sicuti quos supra conditionem nostram fortuna publica evexit, obsequio ac reverentia: quos juxta nos constituit, aequabilitate conciliandos diximus; ita postremi illi benignitate quam optime alliciuntur, ut ad utilitates nostras studia ipsorum inclinent. Et quoniam de animi moderatione affabilitateque sermonis, queis multitudinis quoque amor vehementer commovetur, abunde jam dictum, ad alia nunc progrediemur. *Rerum autem omnium nec aptius est quicquam ad opes tuendas, quam diligi, nec alienius, quam timeri: Malus enim est custos diuturnitatis metus, contraque benevolentia fidelis est vel ad perpetuitatem.* Cic. *2. de Offic.* *Male vim suam potestas aliorum contumeliis experitur: male terrore veneratio acquiritur: longeque valentior est amor ad obtinendum quod velis, quam timor; nam timor abit, si recedas; manet amor, ac sic, ut ille in odium, hic in reverentiam vertatur.* Plin. *l. 8. Ep. ult.* Et verissime Ennius: *Quem metuunt, oderunt; quem quisque odit, periisse expetit.* Denique qui se metui volunt, a quibus metuuntur, eosdem metuant ipsi necesse est, Cic. ibid. Verum enim vero quae foret haec vita? aut potius, quanta haec foret miseria? *Non mille perire melius, quam in sua civitate sine armatorum praesidio non posse vivere?* Idem *Philip. 2. in fin.* *Non sibi vitam tanti, si armis regenda foret*, ipse Tiberius fatetur apud Tacitum *6. Ann. 3.* et Darius: *Sero se perire, si salvum esse sui milites nollent.* Curt. *l. 5. c. 11.* Scipio autem Africanus: *Equidem*, inquit, *si totum exercitum meum mortem mihi optasse crederem, hic statim ante oculos vestros morerer, nec me vita juvaret invisa civibus et militibus meis.* Liv. *l. 28. c. 27.* Itaque *charitate et benevolentia civium septum oportet esse, non armis: nullum fere est ist hoc praesidium; hac arx inaccessa, hoc inexpugnabile munimentum est, munimento non egere.* Plin. *in Paneg. cap. 46.*
+
+#### §. 15
+
+Apparet igitur, quam utilis, imo necessaria sit etiam eorum, qui infra nos sunt, propensio; nam ab eo, quod placeas hominibus, actionum fere efficacia est. Eam parari benignitate diximus, id est, humanitate, indulgentia, ac beneficentia; quanquam de hac cum latius se extendat, paulo inferius. Hac via *Titus Vespasianus adeptus est, ut amor ac deliciae generis humani vocaretur.* Sueton. *in Tito, in pr.* certantibus in eum quo vixit omnium studiis; quanquam non temere quis tam adverso rumore magisque invitis omnibus transierit ad Principatum, suspectis in eo, praeter saevitiam, luxuria quoque, libidine ac rapacitate, ut propalam alium Neronem et opinarentur, et praedicarent; quae tamen ipsi fama pro bono cessit, conversaque est in maximas laudes, neque ullo vitio reperto, et contra virtutibus summis. Suet. ibid. c. 6. §. 7. Idem cum sub Patris Vespasiani auspiciis adhuc militaret, *comitate ac alloquiis officia provocavit, plerumque in opere, in agmine, gregario militi mixtus, incorrupto tamen Ducis honore.* Tac. *5. H. 1.* Quae ipsa Alexandri quoque militibus gratissima fuerunt, videlicet, *Exercitatio corporis inter ipsos, cultus habitusque paululum a privato abhorrens.* Curt. *l. 3. c. 6.* Nec Augusti diversa in his fuit sententia, qui *civile rebatur misceri voluptatibus vulgi.* Tac. *1. Annal. 54.* Has quoque virtutes inter praecipua Trajani sui Encomia Plinius refert in *Paneg. c. 21.* *Nomen*, inquit, *illud, quod alii statim primo Principatus die ut Imperatoris et Caesaris receperunt, tu usque eo distulisti, donec tu quoque, beneficiorum tuorum parcissimus aestimator, jam te mereri fatereris. Itaque soli omnium contigit tibi, ut Pater Patriae esses, antequam fieres: Eras enim in animis, in judiciis nostris, nec publicae pietatis interest, qui vocarere, nisi quod ingrata videbatur, si te Imperatorem potius vocaret et Caesarem, cum Patrem experiretur; quod quidem nomen qua benignitate, qua indulgentia exerces! Ut cum civibus tuis quasi cum liberis parens vivis! par omnibus, et hoc tantum ceteris major, quo melior.* Videlicet: *Cui nihil ad augendum fastigium superest, hic uno modo crescere potest, si se ipse submittat, securus magnitudinis suae.* Ibid. c. 7. In universo autem ex Senecae praecepto *Ep. 47.* *sic cum inferiore vivas, quemadmodum tecum superiorem velles vivere.*
+
+#### §. 16
+
+In privata quoque Familia ordinanda haut expedit reverentiam sola severitate tueri, quippe quae assiduitate perdit auctoritatem, et nostri rerumque nostrarum parum studiosos efficit. Proinde videndum, ne vel facilitas auctoritatem, vel amorem rigor diminuat; semperque malimus invenisse bonos, quam fecisse, contenti, *omnia scire, non omnia exsequi.* Tac. *in Agr.* *Grave est enim conscientias hominum irritare, qui si latere se putent, facile mutantur in melius; sin deprehensos se sentiant, malum malo pellunt.* Franc. Baco *de Augm. Scient. c. 2. Parab. 4.* *Proprium quippe humani ingenii est, odisse quem laeseris.* Tac. *in Agric.* Ac licet abs re quidem non sit, quod *mitium dominorum apud servos ipsa consuetudine metus exolescat.* Plin. *l. 1. Ep. 4.* amissa tamen ob saevitiam charitate, mille poenarum indagine prohiberi nequeunt fraudes, interdum etiam caedes, a Familia perpetratae. Ita Romae ex veteri more, si quis a servis suis interfectus esset, omnem Familiam, quae sub eodem tecto mansisset, ad mortem agi oportebat. Tac. *14. c. 42.* Id imperante Nerone exasperatum, ut ii quoque, qui Testamento manumissi, inter servos supplicia penderent, Idem *13. Annal. c. 32.* quo ultioni juxta ac securitati provisum videbatur; Verum haut multo post Praefectum Urbis Pedanium Secundum servus ipsius interfecit, Idem *14. Ann. 48.* Et licet ob hoc flagitium, quod Dominum haut protexissent, quadringenti alii ex S. C. trucidati essent, ea tamen severitas nequidquam obstitit, quo minus mox sub Trajano Caesare Largius Macedo vir Praetorius eodem scelere perimeretur. Plin. *l. 3. Ep. 14.* Rara hic moderatio, domumque suam coercere plerisque haut minus arduum est, quam Provinciam regere. Ibid. c. 19. ac insignes saepe viri partam in publico gloriam domi perdiderunt, vel dum occupati sunt nimis, vel assiduitatis fastidio domesticos negligunt, qui quidem optime in officio continentur, si intelligant, et fidem ipsis haberi, et industriae ac probitatis ipsorum testes ac remuneratores nos esse.
+
+#### §. 17
+
+Idem de sanguine conjunctis judicium, quos pietate ac benevolentia prosequi utile ac honorificum, odisse vero ac insectari cum damno et dedecore conjunctum. *Acerrima insuper ferme proximorum sunt odia.* Tac. *1. H. c. 70. vers. 4.* ac veluti si lignum frangas, raro fideliter denuo coeunt eorum animi, qui semel dissidere coeperunt. Ea de re Titi monitum mitissimae ejus naturae conveniens, quo Patrem Vespasianum precabatur, ut se filio Domiciano placabilem praestaret, in hanc sententiam apud Tac. legitur *lib. 4. H. c. 53.* *Non legiones, non classes perinde firma imperii munimenta, quam numerum liberorum; nam amicos tempore, fortuna, cupidini bus aliquando aut erroribus imminui, transferri, desinere: Suum cuique sanguinem indiscretum, sed maxime Principibus, quorum prosperis et alii fruantur, adversa ad junctissimos pertineant.* Nec inter posthumas Pomponii Attici laudes postremum obtinet locum, quod is in funere matris suae vere gloriari potuit: *Se nunquam cum ea in gratiam rediisse; nunquam cum sorore fuisse in simultate; quod est signum, aut nullam unquam inter eos querimoniam intercessisse, aut hunc ea fuisse in suos indulgentia, ut quos amare debuerat, irasci eis nefas duceret.* Corn. Nep. *in vita ejus cap. 18.*
 
 ### Caput III
 
+#### §. 1
+
+Transeo ad contemplationem virtutum illarum, quae animi mansuetudinem ac facilitatem praeseferunt.  Qua tamen in parte prope reliquum est nihil, quam ut de beneficentia ac liberalitate dicamus: quae enim praeterea huc pertinent, superius jam sunt tradita, nec alieno, ut arbitror, loco; Etenim esse modestum, lenem, beneficum, non minus morum conversationisque temperamentum concernit, quam facere ad hoc tertium nostrae Dissertationis membrum videri possit. Itaque sicut illustribus exemplis dictisque priora illa deduximus, pari ratione eidem viae insistentibus de exercitio harum quoque virtutum addere quaedam animus est. *Duos autem acquirendarum virtutum moralium esse modos, meditationem videlicet ac exercitium*, ita Silhon eleganter exprimit au mesme lieu Disc. 4. "La Prudence", dit-il, "et les autres vertus Morales et Politiques ne naissent point avec nous et ne viennent pas d'elles mesmes. Il les faut acquerir avec la Meditation et Exercice, et par consequent avec le temps et des annees. Et bien que nous en ayons les principes dans l'ame, et les semences en nostre raison, elles demeurent steriles, si elles ne sont cultivees, et si nous ne prenons de la peine a les conserver, elles s'estouffent dans les semences du mal, qui sont en nos sens, et on la corruption de nostre nature."
+
+#### §. 2
+
+Proinde exemplo Attici, quem paulo ante laudavimus, ita Principum Philosophorum praecepta habeamus percepta, ut illis ad vitam agendam, non ad ostentionem utamur. Corn. Nep. ibid. vers. 3. Plerique ex hoc genere, uti Secundus Carinas apud Tac. 15. c. 45. vers. 3. Graeca doctrina ore tenus sunt exerciti, animum bonis artibus non induunt; ut facete non minus quam apposite in Relationibus suis ex Parnasso Cent. 1. Rel. 77. Boccalinus confinxerit: Cum aliquando Momi fenestram in omnibus pectoribus aperiri Apollo jussisset, et vero, ne ex improviso improbitas quorundam detegeretur, cunctis prius purgationem penetralium cordis permisisset, animadversum a curiosis: Per plateam Philosophis Platonicis, Peripateticis ac caeteris Moralibus habitatam, toto illo octiduo, quod huic rei indultum erat, non alium fuisse faetorem, ac si omnes per Urbem Cloacae egererentur. Etsi igitur opinione quoque et fama, ac speciebus virtutum similibus animi commoventur, tamen, ut ante diximus, ejusmodi fuco quaesitus color haut diuturnus esse solet.  Cui consequens esse reor, quod illis virtutibus plurimum credatur, quae ex facto plurimum constant, nec verbis magnifice, opera ac re ipsa inanes sunt. Talem cum esse beneficentia ipsum vocabulu ejus satis indigitet, dubiu esse non potest, quin hac validissime obstringatur, quae est ad tranquille beateque vivendum aptissima, *charitas*; adeo ut, etiamsi res forte non suppeditet, voluntas tamen benefica benevolentiam saepe conciliet. Saepe etiam parvis rebus opportunitas pretium addit; quemadmodum Antverpiae deditionem Alexandro Farnesio, Belgii Praefecto, exigua ipsius munificentia maturasse creditur; Ita autem se res habuit: Matronae Nobili ad curationem morbi, quo periculose laborabat, opus erat asinino lacte, quod in Urbe haberi cum nunquam posset, obtulit se juvenis intrepide ausurus ex agro Suburbano, quamvis ab hostibus teneretur, jumentum abducere, ducebatque, quum captus ab Hispanis ad Alexandrum deportatus est. Alexander, re uti erat, audita postquam juvenem praeter opinionem benigne habuit, ac pietatem ejus ultro laudavit, jussit illico jumentum perdicibus capisque Brugensibus atque id genus avibus onerari. Tum ea juveni tradens ad aegrotam perferenda mandavit: multam ei salutem officiose suo nomine diceret, testareturque: Se non modo illi sanitatis ac virium recuperationem, sed Senatui populoque universo prospera omnia et salutaria ex animo cupere ac precari. Quae insperata comitas incredibilem ei civium benevolentiam conciliavit, ut brevi post certis conditionibus ejus sese arbitrio permitterent. Fam. Strada de Bello Belg. Dec. 1. lib. 7.
+
+#### §. 3
+
+In juvandis autem hominibus aut mores ipsorum aut fortuna spectari solet; ubi honesta quidem est omnium oratio: Se in collocandis beneficiis mores hominum non fortunam sequi. Sed quis est tandem, inquit Cic. 2. Offic. qui inopis et optimi viri causa non anteponat in opera danda gratiam fortunati et potentis? A quo enim expeditior et celerior remuneratio fore videtur, in eum fere est voluntas nostra propensior. Ego vero cum eode melius apud bonos, qua apud fortunatos beneficium collocari puto; Hi enim ex debito fieri, quicquid in eos confertur, censent, vel etiam a se vicissim aut postulari, aut expectari aliquid suspicantur, dumque, ut jam dictum, obligari nolunt, eximiis saepe meritis odium ac offensionem reponunt. At vero ille tenuis, cum quicquid factum sit, se spectatum non fortunam putet, non modo illi, qui est meritus, sed etiam illis a quibus expectat (eget enim multis) gratum se videri studet, neque verbis auget munus suum, si quo forte fungitur, sed eam extenuat. Videndum quoque illud est, quod si opulentum fortunatumque adjuveris, in illo uno aut forte in liberis ejus manet gratia; Sin autem inopem, probum tamen et modestum, omnes non improbi humiles (quae magna in populo multitudo est) praesidium sibi paratum vident. Danda aute onninno est opera, ut omni generi satisfacere possimus; Sed si res in contentionem veniet, nimirum Themistocles est auctor adhibendus, qui cum consuleretur: Utrum bone viro pauperi, an minus probato diviti filiam collocaret? "Ego vero", inquit, "malo virum, qui pecunia egeat, quam pecuniam, quae viro." Quod si opulentior etiam bonus vir est, ne impediant divitiae, quominus juvetur, modo ne adjuvent, sitque omne judicium, non quam locuples, sed qualis quisque sit. Cic. 2. Offic. Atque sic animatos esse oportet tum erga singulos, tum universos, ipsamque adeo Rempublicam; ita tamen singulis consulamus, ut ea res prosit, aut certe non obsit Reipublicae. Peregrinos vero, etiamsi in multis jura civitatis excludunt, admittit tamen humanitas, sanctaque et inviolabilia sunt semper penes cultiores populos jura hospitii, quae in dissidio quoque publicorum foederum sunt, qui servanda putent. Ita enim Titus Quintius Crispinus Romanus, Badio Campano, ad singulare certamen ipsum provocanti respondit: Nec sibi, nec illi hostes deesse, in quibus virtutem ostendant; Se ab eo, etiamsi acie occurrat, declinaturum, ne hospitali caede dextram violet (Aeger enim Badius Romae apud Crispinum ante defectionem Campanam liberaliter comiterque curatus fuerat.) Lib. l. 25. c. 18. Est hoc decorum patere domos hominum illustrium illustribus hospitibus; est ornamento Reipublicae ac vehementer utile, per hospites apud externos populos valere opibus et gratia. Cic. ibid.
+
+#### §. 4
+
+In toto autem hoc genere habenda est rei familiaris ratio, quam dilabi sinere Cic. ibid. flagitiosum vocat. Multi sane studio magnificentiae prolabuntur, ut Roma teste Tacito 3. Ann. c. 55. dites olim familiae nobilium aut claritudine insignes, dum plebem, socios, regna colere et coli adhuc licitum, et ut quisque opibus, domo, ornatu, speciosus, per nomen et clientelas illustrior habebatur. Patrimonio enim se ipsos qui spoliant, paulatim etiam favore hominum excidunt, aut in animis ipsorum speciem magis quam vim pristini affectus retinent; idque, quia satietas capit aut illos cum omnia tribuerunt, aut hos, cum jam nihil reliquum est, quod cupiant. Idem 3. Ann. c. 30. vers. 7. Quisquis igitur in pretio haberi semper desiderat, hunc ita operam suam collocare necesse est, ne inutilem se in posterum reddat, sed ut perpetuo ejus indigeant homines, eoque frui possint; Bocc. Cent. 1. Relat. 24. Etenim plerorumque animi arctius tenentur beneficio vel uno accipiendo, quam acceptis multis, quibus nonnulli ceu floribus utuntur, tam diu gratis, dum adhuc sunt recentes.
+
+#### §. 5
+
+Deinceps eorum quoque iniquitas est coercenda, qui cum multa acceperint, injuriae loco ducunt, plura adhuc accipere potuisse, penes quos ita comparatum est, ut, quicquid infra votum venit, beneficii nomen amittat: imo, ut antiquiora beneficia subvertas, nisi illa posterioribus cumules; nam quamlibet saepe obligatis si quid unum neges, hoc solum meminerunt, quod negatum est. Plin. lib. 3. Ep. 4. Arte nimirum hic opus est, qua scite negemus, ne repulsa temere quenquam offendamus. Hanc prudenti Principi tam necessariam Henricus Cajetanus Cardinalis adseveravit, ut regnandi imperium adsereret, qui negare nesciat. Boter. in Apopht. P. 1. c. 1. citat. Forsin. in Not: ad Tac. Lib. 11. Ann. c. 25. et lib. 12. c. 46.
+
+#### §. 6
+
+Ut igitur pleraque re aspera verbis molliuntur, ita hic quoque ejusmodi delinimento locus est; quod fit, vel excusatione, quare id quod feceris necesse fuerit, nec aliter facere potueris; vel sola urbanitate blandi sermonis; quale est illud Plinii libr. 7. Ep. 14. ad Corelliam: "Invicem ego et rogo et exigo, ut non solum quid te, verum etiam quid me deceat, aspicias, patiarisque me in hoc uno tibi eode animo repugnare, quo in omnibus obsequi soleo." Quibusdam placuit in alieni arbitrium rejicere, quae ipsi concedere nolebant; tale responsum Pannonicae legiones tumultuose multa post excessum Augusti flagitantes a Tiberio tulerunt: Praecipuam ipsi fortissimarum legionum curam, quibuscum plurima bella toleravisset: ubi primum a luctu requiesceret animus, acturum apud Patres de postulatis eorum: misisse interim filium (Drusum) ut sine cunctatione concederet, quae statim tribui possent; caetera Senatui servanda, que neque gratia neque severitatis experte haberi par esset. Tac. 1. Ann. cap. 25. Idem Henricus IV. Galliae Rex deprecantibus pro capite Bironii amicis respondit, ac juvare periclitantem in Senatu jussit. Thuan. Libr. Histor. 128.
+
+#### §. 7
+
+Porro alii, quae petuntur, velle se simulant, at mox ingratas ac difficiles conditiones proponendo negotium eludunt.  Sic non ita pridem ab ingenti promisso non nemo se exsolvisse dicitur, addito: Fidem datam adimpletu iri, si in quoru gratiam id fieret; haut quicquam amplius petituri essent. Et in Gallia Henricus III. cum a Confoederatis coactus Edicta in Protestantium gratiam facta invitus rescidisset, ardorem in id bellum Catholicorum sistendum ratus, gravitatem sumptuum cunctis Ordinibus proposuit, convocatisque in Luparam aliquot Proceribus, ad Achillem Harlaeum Senatus Praesidem conversus: "Laudo", inquit, "tuam laudo Collegarum tuorum pietatem, qui et consilium de revocando Edicto comprobarunt, et ad Religionis causam constituendam tam fortiter me hortatisunt; sed velim sciant, bellum sine pecunia geri non posse, et clausas mihi aures ad illorum querelas fore, cum de Honorariis suis, quamdiu bellum durabit, suppressis, apud me expostulabunt.  Idem tu, Mercatorum Praefecte, (fuit tum temporis Nicolaus Hector Perusius) civibus renuncia, tantam laetitiam in revocatione Edicti testati sunt, opus esse mihi ad hoc bellum ducentis aureorum millibus, quae ab ipsis exigi volo: nam initiis mitioribus in singulos menses belli sumptus ad quadringenta aureorum millia excurrere comperi." Tum subirato vultu ad Ludovicum Cardinalem Guisium conversa Oratione: "In primum", inquit, "mensem curabi, ut eo mea et privatorum pecunia stipendia procederent; tuum est videre, ut in caeteros, quotquot erunt, menses ex sacro patrimonio pecunia subministretur. Sacro Ordine praecipuo impulsore hoc sanctum bellum susceptum est: Sacri belli sumptus Sacer Ordo luat." Thuan. Libr. Histor. 81. Par frustrandi desideria ratio est, ad aliam spem trahere iniqua aut intuta precantes, et alia quam quae petuntur offerre. Interdum etiam expedit, negare aut protrahere admissionem eorum, quos ingrata nobis et effectu difficilia postulaturos conjicimus. Omnium tamen notissima recusare volentium ars est, remdistulisse, quae sine periculo negari non potest. Forsin. in Not. ad Tac. l. 12. Annal. cap. 46.
+
+#### §. 8
+
+Sed quoniam haec ad versutiam calliditatem que inclinant, non nisi necessitate urgente utendum iis reor, praecipue si cum honesto viro alicui negotium intercedat; Cui quidem candide id quod res est, haut tamen inciviliter, aperuisse satius erit. Neque enim nisi iniquissimus esse velit, irasci poterit, si quod cum periculo damnove vel suo vel alieno conjunctum sit, haut semper obtineat. Quidam enim ea efflagitare non raro solent, quae tanquam noxia paulo post ipsi repudiant. Quod cum advertisset Plinius in Octavio Rufo, ita eidem rescripsit: "Tenebo hoc temperamentum, ut ex duobus, quorum alterutrum petis, eligam id potius, in quo non solum studio tuo, verum etiam judicio satisfaciam. Neque enim tantopere mihi considerandum est, quid sit optimum in praesentia velis, quam quid semper sis probaturus." Lib. 1. Ep. 7.
+
+#### §. 9
+
+Saepe etiam ipsimet beneficii quamvis amplissimi gratiam obscuramus, dum, quia fructus exinde spe immatura praeconceptos haut statim capimus, vel ingratitudinem aliis exprobrare, vel quae benefecimus importune objectare solemus.  Ut non abs re vir acutissimi ingenii Boccalinus Cent. 1. Relat. 29 adfirmet: Beneficentiae studium non nisi magnanimae indolis esse, cui grave non sit plurimorum beneficiorum jacturam fecisse, utpote quae abunde compensetur, si post multa incassum aut male impensa saltem unum aliquod bene collocetur.  Avaris autem hominibus spargendo huic semini animum haut suppetere, quoniam antequam ferant, stulta cogitatione jam messem praecipiant. *Odiosum sane genus hominum officia exprobrantium*; quae meminisse debet is, in quem collata sunt, non commemorare, qui contulit. Cic. de Amic. Neque paritás officiorum semper erigenda, aut exigue nimis et exiliter ad calculos res vocanda, ut par sit ratio acceptorum et datorum. Perit enim gratia si reposcatur. Plin. lib. 1. Ep. 13. Verum haec beneficii inter duos lex est: Alter statim oblivisci debet dati, alter accepti nunquam. Lacerat animum ac premit frequens meritorum commemoratio. Seneca de Benefic. libr. 2. c. 10. Equidem haut diffiteor, molestissimum esse, non modo fructum nullum ob benefacta sentire, sed et malo saepe affici; Quemadmodum Thuanus Libr. H. 94. fatale hoc Galliae Regi Henrico III, et in ejus fortuna prorsus miserandum fuisse, observatum meminit, quod, cum ingentibus beneficiis plerosque affecisset, ii tamen beneficiorum immemores in adversa fortuna aut ipsum turpiter deseruerint, aut etiam beneficium maleficio rependerint.  Id vel exinde patet, quod, cum sive vitae institutione, sive natura ita affectus fuerit erga Monachorum Ordines, ut horum aspectu toto animo gestiret et gaudio exsiliret, ac hujusmodi hominibus quovis loco, quavis hora ad Regem aditus pateret, a Jacobo tamen Clemente Dominicano, cultro per imum ventrem adacto, immani scelere occisus est. Idem libr. 96.  Caeterum a nimia commemoratione oportet abstineas, nisi ipse destruere ubique velis vim beneficentiae tuae, quam ut jucundiorem debitor gratus, ita clariorem ingratus facit. Plin. in Paneg. cap. 45. Optime autem pulcerrimae rei fructus ex conscientia petitur; licet enim omnia benefacta in luce se collocari velint, nullum tamen virtuti theatru conscientià majus est. Cic. 2. Tuscul. Quaest. in fin.
+
+#### §. 10
+
+Magnam beneficentia partem constituit liberalitas, nisi quod haec ut plurimum largitionibus exercetur, illa insuper operam facto voce, consilio exhibendam complectitur; Itaque etiam natura sua angustioribus limitibus circumscribitur, ne vel immodice largiamur, vel passim omnibus. Ambitio, et jactantia, et effusio, et quidvis potius, quam liberalitas existimanda est cui ratio non constat. Plin. in Paneg. cap. 38. Quocirca ita temperanda est, ne nimia profusione inarescat. Idem libr. 2. Ep. 4. nec impetu ad illam sed consilio trahamur; Subita enim largitionis comes est paenitentia. Ide libr. 1. Ep. 8. Quamobrem nec ita claudenda est res familiaris, ut eam benignitas aperire non possit; nec ita reseranda, ut pateat omnibus. Modus adhibeatur, isque referatur ad facultates; multi enim patrimonia effundunt, inconsulte largiendo; atque ita fonte ipso benignitatis exhausto rapinae sequuntur, quippe qui dando egere coeperunt, alienis bonis manus afferre coguntur. Cic. 2. Offic. Quidam etiam exemplo Mutiani apud Tacitum lib. 2. H. c. 84. s. 5. largiuntur privatim, quod avidius de Republica sumunt, ac postquam aerarium ambitione exhauserunt, per scelera supplendum curant. Id. 2. Annal. c. 43.  Atqui ea demum accipientibus grata sunt munera, cum dari sibi sciunt, quod nemini est ereptum. Plin. in Paneg. c. 27. Praestat igitur, nihil aliquem largiri, dum nihil auferat, quam aliis donare, quod aliis est ablatum, famamque liberalitatis avaritia petere. Qui vero ita benefici esse volunt, non tanta studia assequuntur eorum quibus dederunt, quanta odia eorum quibus ademerint. Cic. 2. Offic. Nam cui res erepta est sit inimicus, cui data, etiam dissimulat, se accipere voluisse. Cic. 1. Offic. Huc accedit, quod si promiscue omnibus largiti fuerimus, saepe incidamus in eos, qui deteriores accipiendo fiant, et ad idem semper expectandum parati; id quod in expeditionibus bellicis multis exitio fuit. Ideoque Alexandrum filium Philippus graviter increpuit, quod largitione benevolentiam Macedonum consectaretur. "Quae te malum", inquit, "ratio in istam spem induxit, ut hos tibi fideles putares fore, quos pecunia corrupisset? An tu id agis, ut Macedones non te Regem suum sed ministrum et praebitorem putent?" Cic. 2. Offic. Et Tacitus 2. H. c. 82. "Donativa", inquit, "militi neque Mutianus prima concione nisi modica ostenderat, ne Vespasianus quidem plus civili bello obtulit, quam alii in pace; egregie firmus adversus militarem largitionem, eoque exercitu meliore."
+
+#### §. 11
+
+Quoties igitur benevolentiae causa conferre praemia habet, ante omnia patriae subveniendum, postea propinquis, adfinibus, maxime idoneis ac indigentibus; non ut ii, qui iis potissimum donant, qui donare maxime possunt, quos viscatis hamatisque muneribus non sua promere, sed aliena corripere eleganter Plinius dicit libr. 9. Ep. 30. Porro etiam atque etiam videndum, ne specie liberalitatis imponat prodigalitas; prodigi enim sunt, qui epulis et viscerationibus, superbis aedificiis, ludorum item venationumque immodico sumptu et apparatu, pecunias profundunt in eas res, quarum memoriam aut brevem aut omninò nulla sint relicturi; Liberales autem, qui suis facultatibus aut captivos redimunt, aut aes alienum suscipiunt amicorum causa, aut in filiarum collocatione adjuvant, aut opitulantur vel in re quaerenda, vel augenda. Cic. 2. Offic.
+
+#### §. 12
+
+Nec eorum stolidae vanitati nos attemperemus, qui dum alios superare conantur, aemula ambitione plura donant, quam par est, aut res ipsorum familiaris patitur; digni qui utroque non sine contemptu irrideantur, cum et impotentiam animi prodant, et quod largiuntur, non in gratiam accipientis, sed obtrectations adversus alium obtigisse credatur. Aeque noxia malignitas est, licet a nonnullis inter arcana imperii referatur, ideo benigne habere, ac praemiis nonnullos afficere, quo suspecti ac invisi reddantur aliis, qui gratiae hujus expertes interim nullo suo merito praetereuntur; nam et illis, praeprimis si quid agatur intelligant, pretium servitutis ingratum est, et horum erga competitores invidia tandem in odium definit adversus injuriae, ut putant, authorem.  Hoc infelici consilio aliquoties usus dicitur Rex Hispaniae Philippus II, ratus isthoc artificio posse dissolvi inter Belgii Proceres animorum consensum, efficique, ut inter ipsos suspicio atque abalienatio suboriretur. Et sane processit aliquantisper hic cuniculus, nutareque male cohaerentes aliquorum animi coepere, partim metu, ne ab aliis desererentur, partim spe, quod se praecipue appellatos a Rege honoratosque videbant, partim etiam offensione aliorum, quibus se suspectos atque invisos haut obscure colligere poterant. Strada de Bello Belgico Dec. 1. Lib. 3. sin. et 7. s. ibid. Veruntamen exitu mox comprobatum est, ejus demum beneficii gratiam veram esse atque perpetuam, cujus neque dantem pudere, neque accipientem poenitere unquam potest.
+
 ### Caput IV
 
-## Epilogus
+#### §. 1
+
+Atque haec sufficere poterant videri conciliandis hominum animis, ut studiis ipsorum utilitates nostras honeste promoveremus. Caeterum cum mecum perpenderem, quam exiguis ac levibus momentis eorum voluntates circumagantur, alio insuper firmamento stabilitatis rem indigere compertus sum, quo necessitas aliqua cunctis inferatur, ut ob virtutes nos non diligant solum, sed et suspiciant, et cum admiratione quadam subvereantur.
+
+Favor enim, multitudinis praesertim acres quidem ac vehementes primos impetus habet, sed paulatim remittit, ac tempore ipso subsidet; quod si vero ad benevolentiam opinio quoque excellentis ingenii, indeque honoris ac gloriae confirmatio accesserit, enimvero tunc effici reor, ut charitas ac veneratio se invicem mutuo sustineant, et pulcherrima hac mixtura sibi ipsis addant perpetuitatem. Ut autem cum admiratione quadam honore nos dignos omnes judicent, adipisci non aliter possumus, quam illa in actionibus nostris singulari dexteritate, qua caeteros anteire, et omni dedecore nos carere probemus.
+
+#### §. 2
+
+Magnam vim esse in fortuna hac etiam in parte haud equidem inficior, cujus cum statu prospero utimur, ad exitus provehimur optatos; eadem cum reflavit, successu prorsus omni destituimur; quae res famam existimationemque de nobis hominum fere sola constituit; Eventus enim licet saepe sint fortuiti, inde tamen magnos viros aestimari aeterno cum virtutis praejudicio plerisque moris est. Ast cum infelices pariter ac imprudentes causas miseriae et effectus errorum suorum eidem attribuere soleant, mihi quid sentiam paucis exponendum; ac quid appellatione fortunae intelligam, Gallici Scriptoris sententia et verbis eloqui liceat; nimirum *Ce que Dieu adioufte aux principes, qui sont en nous; les occasions, qu'il nous fait naiftre; les moyens, qu'il nous fufcite; les obftacles, qu'il rompt ou deftourne en noftre faveur; bref, toute l'affiftance, qu'il nous donne, pour faire reüffir nos defirs, eft ce que nous appellons Bonheur, et ceux qui le recoivent, Heureux* Silhon au mefme Traitté Liv. 1. Disc. 1.
+
+Isthoc sensu quin haec sit maximum nostrae felicitatis fundamentum, nemo facile negaverit. *Mais ce Bonheur (ita porro idem philosophatur) n'accompagne pas tousjours la juftice ni les entreprifes fainctes, comme Dieu ne s'oppofe pas tous-jours aux injuftes et aux deffeins violens. La raison de cefte diverfité eft, que Dieu ne fait pas tousjours des miracles, et ne trouble point l'Ordre des Chofes pour l'amour des gens de bien. Et comme il eft fort raisonnable, que pour exciter leur courage et confirmer leurs efperances, il accourt quelquesfois vifiblement à leur secours; il eft auffi tresconforme aux loix de fa providence, et à la douceur de fa conduite, qu'il laiffe agir pour l'ordinaire les caufes fecondes, felon leur capacité et l'eftendue de leur force, et partant que felon cela le foible cede au plus puiffant: qu'une moindre vertu (j'entens Politique) obeiffe à la plus grande, et que ceux, qui ont de notables avantages, ayent auffi de notables Succez. Autrement certes il s'obligeroit à reparer toutes les fautes de ceux, qui ont de bonnes intentions: et s'il n'y avoit que la feule probité, qui fuft heureuse dans le monde, il banniroit la prudence de la vie civile, et l'adreffe du train des affaires.* Silhon au mefme lieu.
+
+#### §. 3
+
+Itaque si ab hac cooperantis Numinis assistentia discesseris, secundae partes humanae prudentiae erunt, quae quidem usu rerum ac experientia maxime paratur, sed et praeceptis ac exemplis haud parum instruitur.
+
+Etenim, ut iterum Auctoris modo laudati verbis utar, ibide Disc. 2. *Il n'y a rien, qui poliffe plutoft un efprit bien fait, que la Politique et l'Hiftoire, ni qui luy foit plus utile, que le commerce avec les morts et avec les abfens. Là il cognoit en peu de temps les affaires de plufieurs fiecles; là il jouit de l'experience de tous les grands hommes, qui l'ont precedé; et là enfin il trouve des lumieres, qui l'empefchent fouvent de faillir, et qui lui monftrent les efcueils, qu'il luy faut paffer, et les embufches, dont il fe doit prendre garde. Pour le moins à la faveur des Livres et de l'eftude il gagne cela, qu'il n'eft gueres jamais tout à fait furpris, quoi qu'il arrive, et qu'il ne furvient point d'accident fi nouveau, ni fi eftrange, qu'il n'ait leu quelque chofe d'approchant ou de semblable. La vie de l'homme eft fi courte ou fi traverfee, qu'à grand peine fuffit elle à cinq ou fix importantes negotiations; et d'ordinaire ceux qui n'ont que le fimple fens commun pour agir, ceffent de vivre, ou n'ont point de fanté, quand ils ont de l'experience. Au contraire ceux que l'eftude prepare, et que la Philofophie guide, reüffiffent promtement, s'ils ont le difcours bien fain; ils font habiles des qu'ils touchent les affaires, et ont le mefme avantage fur les premiers, qu'ont en la peinture ceux qui poffedent la fcience des deffeins et des proportions, fur ceux, qui n'ont rien d'acquis, quand ils commencent à peindre.*
+
+Fatendum tamen, parum hic certitudinis esse, et saepe honestas rerum causas, etsi judicium adhibeas, perniciosos exitus consequi, dum etiam salubriter destinata omni ratione potentior fortuna discutit. Curt. Lib. 3. c. 8. fin. *La voye mefme des Exemples eft fi trompeufe, et le paffé juge fi mal de l'avenir, qu'on n'en peut conclure rien de certain. Et comme on ne voit gueres deux vifages egalement beaux, ni deux jours, qui fe reffemblent parfaitement; De mefme la Condition des affaires eft tousjours diverfe, ou la Vertu et la fortune de ceux, qui les traitent, ne font pas egales.* Et derechef, comme il n'y a gueres de fujet à deliberer, qui n'ait deux faces, ni de parti à suivre, qui n'ait ses raisons: il n'y en a point auffi qui n'ait ses exemples, et des evenemens qui les favorisent. Silhon au mefme lieu.
+
+Inde est, quod
+*Profperum ac felix fcelus
+Virtus vocatur;* Senec. in Herc. Fur.
+
+Act. 2. v. 47. Et occisus Dictator Caesar aliis pessimum, aliis pulcherrimum facinus videbatur. Tac. 1. Ann. c. 8. Nam prout exitus factum approbat, aut favor subest, hominum quoque judicia sequuntur, qui fortunatum facile prudentem, fortem, magnanimum, et quicquid is voluerit, esse credunt. Quapropter quis neget, eximiam quoque gloriam saepius fortunae quam virtutis esse beneficium? Curt. lib. 8. c. 10. Sed et hoc concedendum *Nunquam diu eodem veftigio ftare fortunam, femperque homines, quantamcunque felicitatem habeant, invidiam tamen fentire majorem.* Idem l. 4. c. 5. Et si vere aestimare volumus, a providentia Divina minime alienum puto, ut si pie ac prudenter omnia agantur, virtutem etiam fortuna sequatur. Lib. l. 4. c. 37. et l. 5. c. 19. Itaque tunc demum ad hoc gloriae fastigium pervenire, ac admirationem hominum consequi poterimus, si virtutem fortuna provexerit, utrique vero prudentia comes adfuerit.
+
+Hinc promanare necesse est Heroicas plane actiones, quas cum stupore cuncti intueantur, dignosque forte etiam amplissima judicent, quos ita reliquos antecellere cernunt. Prudenter Machiavellus Lib. 3. c. 34. Discur. Tres, inquit, in universum mihi videntur esse res, per quas existimationem aliquam apud populum comparare poffis; et earum quidem primus locum obtinent Majores tui, ex quibus prognatus es, qui si viri fortes atque excellentes fuerint, fimilem de te que atque opinionem apud homines excitabunt. Secundum locum obtinet vitae ratio. Itaque non nisi cum viris egregiis et virtute praeditis conversari oportebit, ut similem de te opinionem excites; nam talem te homines esse opinantur, quales ii sunt, cum quibus conversaris; necessumque quodammodo videtur, ut similitudo aliqua sit inter eos, qui subinde simul sunt. Summum denique instrumentum concilianda tibi auctoritatis atque existimationis est, si aliquid vel publice vel privatim patraveris, quod honestum simul ac memorabile sit.
+
+Longeque certiora sunt judicia, quae ex hisce argumentis desumuntur, quam quae ex binis prioribus dependent. Nam quae sumuntur ex Parentibus argumenta virtutis, admodum dubia sunt, et saepe hominibus imponunt, nec quicquam certi continent, donec res ipsa suo tempore testimonium suppeditet. Quae ex vitae ratione et amicitiis, quas colis, sumuntur, aliquanto hisce certiora sunt, nondum tamen tam firma, ut quae ex actionibus et rebus gestis colliguntur. Plurimum igitur possunt ad conciliandam vel bonam vel malam existimationem apud populum, quae principio statim aetatis a te memorabilia patrantur, usque adeo, ut nec facile aboleatur eorum memoria aliis contrariisque actionibus. Itaque in id studium unice incumbere debent, qui in Republica emergere cupiunt, ut prima aetate alicujus singularis virtutis documenta edant. Romae id certe ita factitatum est a multis; quamobrem solebant aliqui vel legem aliquam rogare, quae Reipublicae salutaris futura videretur; aut potentem aliquem civem, qui in leges delinqueret, accusare, aut aliquid aliud facere, de quo necesse esset sermones apud multos haberi. Nec semel tantum fuerit tale quiddam patrandum, sed iterum atque iterum nobis virtutum documentis rerum jam ante gestarum memoria renovanda confirmandaque, ut praeclara de te sentiant homines.
+
+#### §. 4
+
+Summa igitur acquirendae conservandaeque omnium benevolentiae in eo consistit: ut diligamur; deinde ut fides nobis habeatur; quod cum Alcibiadi deesset, summus ille caeteroquin alliciendis hominum studiis artifex toties Athenis expulsus nullibi stabilem sedem nancisci potuit; *Timebatur enim non minus quam diligebatur, ne secunda fortuna magnis opibus clarus Tyrannidem concupisceret; cumque esset summo ingenio, nihil eum efficere non posse ducebant, ex quo factum, ut omnia minus prospere gesta ejus culpae tribuerent, eumque aut negligenter aut malitiose fecisse arguerent.* Corn. Nep. in vita Alcibiad. c. 2.
+
+Fides autem ut nobis habeatur, contingit, si existimabimur adepti conjunctam cum justitia prudentiam. Nam et justis hominibus, in quibus fraudis injuriaeque nulla suspicio; et iis, quos plus intelligere quam nos arbitramur quosque et futura prospicere, et cum res agatur in discrimen ventum sit, expedire rem, et consilium extempore capere posse credimus, fidem facile habemus, hisque salutem nostram, his fortunas, his liberos rectissime committi arbitramur. Plus tamen pollet justitia; quippe cum ea sine prudentia satis habeat auctoritatis, prudentia sine justitia nihil valeat ad faciendam fidem; quo quis enim versutior et callidior est, hoc invisior et suspectior detracta opinione probitatis. Cic. 3. Offic. saepeque nimia opinio ingenii maximo malo esse solet.
+
+Denique retineri ac stabiliri diximus charitatem probitate vitae, dexteritate ac magnanimitate in rebus gerendis. Ob has enim virtutes eos etiam quodammodo diligimus, et magni facimus, quos nunquam vidimus, et defunctorum quoque memoriam gloriosa recordatione prosequi solemus. Superstites vero licet summa adeptos conversa in admirationem invidia ultro amplius efferre studemus. In quibus igitur excellentes quaedam singularesque virtutes perspiciuntur, his affluere ac conferri omnia nemo bonus indignatur. Quibus autem nihil virtutis, nihil animi, nihil nervorum inest; quos neque labor, neque industria, neque cura ulla exstimulat, quique nec sibi nec aliis prosunt, hos despici ac contemni ab omnibus videmus. Cic. ibid.
+
+*Maxime tamen cum veneratione diligunt homines, quos carere intelligunt iis vitiis, quibus alii non facile possunt obsistere; nam et voluptates, blandissimae Dominae saepe animum a virtute detorquent,* Cic. ibid. et dolorum adversitatumque cum admoventur faces, praeter modum plerique exterrentur. *Vita, mors, divitiae, paupertas, ira, odium, amor etiam inordinatus, itemque invidia, plerosque homines vehementissime permovent; quae qui excelso animo vincunt ac despiciunt, et inter ipsa pericula intrepide versantur, nec ullatenus afficiuntur iis rebus, ad quas plerique inflammati aviditate rapiuntur, merito summi mortalium habentur.*
+
+### Epilogus
+
+Rerum agendarum post Summi Numinis patrocinium praecipuum adminiculum est sociata hominum multorum opera; nam et magna negotia magnis adjutoribus egent, Vellej. Pater. 2. H. 127. et rei quoque familiaris auxilia communis vita ab hominibus petere cogitur, Cic. 2. Offic. Imperia quidem ac Principatus, et omnes in universum Respublicas seu pace, seu bello consideres, nemo in iis res praeclaras gesserit ac salutares, qui non in partem curarum praestantium virorum sapientiam ac virtutem advocaverit, multorumque manibus usus fuerit. Sane cunctas Nationes et Urbes populus, aut Primores, aut singuli regunt; Tac. 4 Ann. 33.1. Sed hi, velut capita in corpore naturali, reliquorum membrorum functionibus indigent; vel quae per universos fuere decreta, singulorum opera exequitur.
+Quanta autem conspiratione, quantoque consensu sustineri oportet status publici fortunam, quo sibi tantum constet ista compages, etiamsi nemo foris turbet, atque aliunde impellat? Itaque ad beatam civium vitam haud sufficit, si moderatores Rerum publicarum, legum morumque curam gerant, nullum e subditis opprimi patiantur, bello denique fortes sint; si non imperium quoque in volentes exerceant, dignitatemque ac fastigium suum, invisum fere ex plano intuentibus, moderatione tueantur. Et profecto omnis aevi exempla hoc docent, sanctissimos saepe viros pessima hic usos fortuna, dum vero honestoque tantam inesse vim crediderunt, ut sine ulla arte externa sola semper queant sufficere ad continendas in officio mentes humanas.
+Hunc perniciosum errorem Cicero in Catone notat, de quo ad Atticum suum L. 2. Ep.1. ita scripsit: Catonem nostrum non tu amas plus quam ego; sed tamen ille optimo animo utens et summa fide nocet interdum Reipublicae; dicit enim tanquam in Platonis politeia, non tanquam in Romuli faece, sententiam. Et ut id quod res est dicendum, inter causas tantae conversionis in Republica Cato etiam, et qui eum secuti sunt, exstitere, quorum consilia fortissima quidem ac honestissima forsan, sed temporibus illis haud congrua fuerunt, quippe denegando Caesari promissum Consulatum ad civile bellum properasse videntur; et quem omni modo delinire debuissent, hunc intempestive abalienatum in ipsorum perniciem et vetustissimae libertatis excidium provocaverunt. Galba quoque Imperator omnium consensu capax imperii judicatus, nisi imperasset, Tac. 1. H. 49. 6. et vitam et imperium perdidit, dum cuncta ad veterem disciplinam revocando nullis utitur delinimentis, et destituto Nerone in partes suas transgressos Praetorianos donativi frustratur; Constat enim, teste Tacito l. 1. H. 18. 5. potuisse conciliare animos militum quantulacunque parci Senis liberalitate; sed nocuit (inquit ille) antiquus rigor et nimia severitas, cui jam pares non sumus.
+Cautior Augustus, qui prudenti indeque felici instituto, ubi militem donis, populum annona cunctos dulcedine otii pellexit, insurgere demum idque paulatim, et nullo adversante omnia in se trahere coepit, sibique Principatum in perpetuum firmavit, Id. 1. Ann. 2. 2. Itaque cum amore ac studiis omnium fere subniteretur, non solum domi improbos facillime coercere potuit, sed nec ad profliganda externa bella fides ac virtus civium suorum unquam ipsi defuit.
+Licet igitur ex sententia Boccalini Cent. 1. Rel. 69. in fin. verissimum sit, offensionem ac odium subditorum effugere eos vix posse, qui justitiae administrandae praesunt; perinde ut inveteratum malum absque gravi cruciatu Medici tollere nequeunt; temperamento tamen hic locus est, ut si perite ac prudenter officio suo fungantur, idem usu veniat, quod de fide affirmat Plinius L. 3. Ep. 9. fin. Nimirum ut *justitia* quidem in praesentia eos quibus resistit, offendat, deinde ab illis ipsis suspiciatur laudeturque, eandem scilicet virtutem mox admirantibus, cui paulo ante irascebantur; ubi vero reverentia ac parendi amor penitus excussus, et commune multorum odium adversus unum conspiravit, huic nullas opes posse resistere multoties fuit cognitum.
+Sed et privatae fortunae eadem est conditio, cujus et incrementa et interitus maximam partem ab hominibus dependent; Nam et ea, quae ad vitam nostram tuendam conservandamque pertinent, pleraque sunt hominum operis effecta, quae nec haberemus, nisi manus et ars accessisset, nec his sine hominum adminiculis uteremur. Neque enim valetudinis curatio, neque navigatio, neque agricultura, neque frugum fructuumque reliquorum perceptio ac conservatio sine opera hominum ulla esse potuisset. Jam vero et earum rerum, quibus abundaremus, exportatio, et earum, quibus egeremus, invectio certe nulla esset, nisi his muneribus homines fungerentur. Cic. 2. Offic. Caeterum sicut ad amplificationem rerum nostrarum plurimum confert isthaec societas; sic ab injuriis hominum maximae quoque clades inter nosmetipsos proveniunt adeo, ut referente Cic. ibid. Dicaearchus Libro de Interitu Hominum adserere audeat: Longe plures deletos esse hominum impetu, id est, bellis ac seditionibus, quam eluvione, pestilentia, et omni reliqua calamitate.
+Quae quidem eo pertinent, ut intelligatur, quam arcto inter se vinculo genus humanum connectatur, quodque ea propter omnis ratio et institutio vitae adjumenta hominum desideret. Quod cum neminem in dubium vocare persuasum habeam, *proprium hoc esse virtutis* cum Cicerone ibid. statuo, *Conciliare sibi animos hominum, et ad usus suos adjungere*. Id autem his potissimum modis obtineri posse reor: Primo quidem *elegantia ac facilitate morum*, queis aditum quendam nobis praeparemus, ut in universorum animos tanquam influere possimus; deinde *jucunda ac moderata conversatione* cum iis, quibus cum congregamur; porro *exercitio earum virtutum, quae pertinent ad mansuetudinem et humanitatem*; et denique *singulari quadam in rebus agendis dexteritate*.
+
+**Finis.**
 
 ## Index

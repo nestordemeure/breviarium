@@ -2,40 +2,6 @@
 
 ## Typographus Lectori
 
-## Ubi Ingenium Excolendum
-
-### De Ratione Studiorum
-
-### De Studio Studiorum
-
-### De Religione Hominis Politici
-
-### Mores Interni
-
-### Mores Externi
-
-### Mores cum Aequalibus et Minoribus
-
-### De Vita Conditione Eligenda
-
-### Electa Conditione, Qui ad Officium Adspirandum
-
-### Ratio in Officio Suo Se Gerendi
-
-### Ratio Majorem Dignitatem Consequendi
-
-### Si Major Dignitas Sit Delegata, Quid Tum Facto Opus?
-
-### Quid in Assequendis Divitiis Observandum?
-
-### De Opibus et Divitiis Acquirendis
-
-### De Divitiis Magis Magisque Augendis
-
-### Ratio Odiis et Calumniis Inferioris Succurrendi
-
-### Gratiam Principis Aucupandi Ratio
-
 ## Fundamentum
 
 ### Nosce Te Ipsum
@@ -166,16 +132,4 @@
 
 #### Vide Quid Agas
 
-## De Conciliatione Animorum
-
-### Caput I
-
-### Caput II
-
-### Caput III
-
-### Caput IV
-
-### Epilogus
-
-## Index
+## Finis

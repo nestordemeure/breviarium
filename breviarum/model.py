@@ -93,14 +93,14 @@ class Haiku(Model):
     The Haiku Model: Quick, cheap, great for debugging.
     """
     def __init__(self):
-        super().__init__(name='claude-3-haiku-20240307', max_tokens=4096, token_per_minute=50000)
+        super().__init__(name='claude-3-haiku-20240307', max_tokens=4096, token_per_minute=100000)
 
 class Opus(Model):
     """
     The Opus Model: Slow, expensive, very good, for final runs.
     """
     def __init__(self):
-        super().__init__(name='claude-3-opus-20240229', max_tokens=4096, token_per_minute=20000)
+        super().__init__(name='claude-3-opus-20240229', max_tokens=4096, token_per_minute=40000)
 
 #----------------------------------------------------------------------------------------
 # MANUAL MODE

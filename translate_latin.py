@@ -37,9 +37,10 @@ output_file = data_folder / 'english.md'
 #----------------------------------------------------------------------------------------
 # TRANSLATE
 
-def build_prompt(heading:str, heading_next:str, raw_prompt:str=raw_prompt) -> str:
+def build_prompt(latin_heading:str, english_heading:str, heading_next:str, raw_prompt:str=raw_prompt) -> str:
     """takes a heading (as well as the next one) and produces an ocr cleaning prompt"""
-    prompt = prompt.replace('$HEADING', heading)
+    prompt = raw_prompt.replace('$LATIN-HEADING', latin_heading)
+    prompt = prompt.replace('$ENGLISH-HEADING', english_heading)
     prompt = prompt.replace('$NEXT-HEADING', heading_next)
     return prompt
 
@@ -56,19 +57,19 @@ def translate(latin:str, english_index:str, output_file:Path):
         # displays progress
         nonlocal current_heading
         current_heading += 1
-        print(f"[{current_heading}/{nb_headings}] Processing '{latin_node.title}' / '{english_node.title}.")
+        print(f"[{current_heading}/{nb_headings}] Processing '{latin_node.title}' / '{english_node.title}'.")
         # load the next title
         if len(latin_node.children) > 0:
             next_title = latin_node.children[0].title
         # does the translation
         if (latin_node.level > 1) and (len(english_node.content) == 0) and (next_title is not None):
             # builds the latin extraction prompt for the heading
-            prompt = build_prompt(latin_node.title, next_title)
+            prompt = build_prompt(latin_node.title, english_node.title, next_title)
             # queries the model
             translation = model.chat(prompt, documents=[latin, output], answer_prefix='<response>', stop_sequences=['</response>'])
             # display and returns
             print(f"\n{translation}\n")
-            english_node.content = latin
+            english_node.content = translation
         # save the results so far
         write_file(output_file, english_root.__str__())
         # process the children

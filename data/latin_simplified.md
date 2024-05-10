@@ -564,7 +564,7 @@ In quacunque fueris familiaritate Domini, nunquam reverentiae et submissionis ob
 
 Non insulta malo eventui illius, qui tuo consilio non paruit, potius eventum in executore excusa.
 
-Jactanti se de opibus, robore virium, dexteritate saltus, consilio, auxilio, te fuisse no publica: secretas monitiones no suggere: si nosti ignorantiam, simula: si autem a majore sis injuria affectus, non solum non quererere, sed nec te laesum advertat, quia quem laeserunt, oderunt.
+Jactanti se de opibus, robore virium, dexteritate saltus, consilio, auxilio, te fuisse non publica: secretas monitiones no suggere: si nosti ignorantiam, simula: si autem a majore sis injuria affectus, non solum non quererere, sed nec te laesum advertat, quia quem laeserunt, oderunt.
 
 Dona vel minima veluti summa, si a Domino, depraedica, eate summe amare jacta, ostende.
 

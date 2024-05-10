@@ -2,7 +2,7 @@
 
 This is a personal, one-off, repository containing the code used to translate Mazarin's `Breviarium Politicorum` from 17th century Latin to English using Claude (API or manually).
 
-You can read the end result, as well as a description of the prompts and process, [on my blog](https://nestordemeure.github.io/writing/translations/).
+You can read the end result, as well as a description of the prompts and process, [on my blog](https://nestordemeure.github.io/writing/translations/breviarum_politicorum).
 
 ## Usage
 
@@ -15,7 +15,7 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 ## TODO
 
-* improve paragraph breakdown (starting at `Traveling to Provinces`)
-* check translation against Latin (for additional / lost parts) and other references
+* check translation (`Acquiring Gravity` / `Gravitatem Acquirere`)
+* check against french translation (`Gaining Favor from a Friend`)
 
 Good prompt to freshen up the translation: `Can you simplify the formulations to make it easier to read for a contemporary reader?`

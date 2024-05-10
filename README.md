@@ -11,11 +11,11 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 * `clean_ocr.py` used to turn the 1701 OCRs into a single clean version of the text.
 * `translate_latin.y` used to translate the Latin text into English.
+* `check_translation.py` used to double-check the translation against the Latin.
 * `markdown_to_hugo.py` used to turn a markdown file into a Hugo hierarchy of files and folders.
 
 ## TODO
 
-* check translation (`Acquiring Gravity` / `Gravitatem Acquirere`)
-* check against french translation (`Gaining Favor from a Friend`)
+* manually proofread translation (`Acquiring Gravity` / `Gravitatem Acquirere`)
 
 Good prompt to freshen up the translation: `Can you simplify the formulations to make it easier to read for a contemporary reader?`

@@ -100,7 +100,7 @@
 
 ### Overthrowing and Deposing Wicked Men
 
-### Traveling to Provinces
+### Traveling
 
 ### Not Desiring Vain Things
 

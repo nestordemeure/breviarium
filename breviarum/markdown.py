@@ -1,6 +1,6 @@
+from __future__ import annotations # for Markdown type in definition of method of the Markdown class
 import re
 from pathlib import Path
-from __future__ import annotations # for Markdown type in definition of method of the Markdown class
 from typing import Union, List
 from .io import write_file
 
@@ -63,7 +63,7 @@ class Markdown:
             next_titles = [child.title for child in node.children] + [last_title]
             next_title = next_titles[0]
             # runs the function
-            f(node, **other_nodes, next_title)
+            f(node, *other_nodes, next_title)
             # saves intermediate result
             if output_path is not None:
                 write_file(output_path, self.__str__())

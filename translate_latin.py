@@ -47,7 +47,7 @@ def build_prompt(latin_heading:str, english_heading:str, heading_next:str, raw_p
     prompt = prompt.replace('$NEXT-HEADING', heading_next)
     return prompt
 
-def translate_latin(latin_node:Markdown, english_node:Markdown, next_title:str):
+def translate_latin(english_node:Markdown, latin_node:Markdown, next_title:str):
     """Does the translation from Latin to English"""
     if (latin_node.level > 1) and (len(english_node.content) == 0):
         # builds the translation prompt from the headings
@@ -60,5 +60,5 @@ def translate_latin(latin_node:Markdown, english_node:Markdown, next_title:str):
         english_node.content = translation
 
 # translates the text
-latin_markdown.iter(translate_latin, other_markdowns=english_markdown, 
+english_markdown.iter(translate_latin, other_markdowns=latin_markdown, 
                     output_path=output_file, display_progress=True)

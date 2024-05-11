@@ -4,6 +4,8 @@ This is a personal, one-off, repository containing the code used to translate Ma
 
 You can read the end result, as well as a description of the prompts and process, [on my blog](https://nestordemeure.github.io/writing/translations/breviarum_politicorum).
 
+Note that this code is intended to perform a cyborg translation (human and AI working together for the best possible end-result) rather than a fully automatic translation.
+
 ## Usage
 
 You will need an Anthropic API key in your environment.
@@ -16,6 +18,4 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 ## TODO
 
-* manually proofread translation (`Acquiring Gravity` / `Gravitatem Acquirere`)
-
-Good prompt to freshen up the translation: `Can you simplify the formulations to make it easier to read for a contemporary reader?`
+* manually proofread translation (currently at `Acquiring Gravity` / `Gravitatem Acquirere`)

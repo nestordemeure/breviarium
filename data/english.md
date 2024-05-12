@@ -623,11 +623,15 @@ Take care not to be carried away by the passion of love.
 
 Do not value your own words and deeds too highly.
 
-Do not occupy yourself with useless matters that will be of no future use. Finally, do not entangle yourself in the affairs of others.
+Do not occupy yourself with useless matters that will be of no future use.
+
+Finally, do not entangle yourself in the affairs of others.
 
 Freely attribute to others the glory of accomplishments, even if you have brought them a great monument. It will return to you, and indeed with interest - that is, without envy.
 
-Beware of anger and revenge. When the virtues of others are recounted, listen willingly.
+Beware of anger and revenge.
+
+When the virtues of others are recounted, listen willingly.
 
 Rarely marvel at rare things.
 
@@ -635,7 +639,9 @@ Give advice sparingly.
 
 Do nothing simply to rival others.
 
-Avoid lawsuits, even sometimes at your own loss. Never show your precious or easily sought-after possessions to anyone.  
+Avoid lawsuits, even sometimes at your own loss.
+
+Never show your precious or easily sought-after possessions to anyone.  
 
 If someone incites you to do something, see that they offer themselves as a partner in the risk.
 
@@ -645,7 +651,11 @@ The rhetoricians should be reread from time to time; they suggest ways of stirri
 
 Ambiguity must be sought, so that from our statements it may indeed be made clear to both parties, yet nothing concluded; for necessity sometimes compels this. According to Nazianzus, Aristotle wrote his opinions using this art.
 
-Use this genre in books and in odious letters, counsel, forming reasons for both sides by way of discourse, but minimally declaring to which side you adhere or should adhere. Indeed, a digression will be made from this place, or amphibology, either by wishing, imploring, or declaring your affection through some rhetorical mode. Allow yourself to be admonished, even about false things, and do not excuse yourself, because no one will then admonish you, but rather demonstrate every affection for what is useful. Allow useless remarks to pass by; acknowledge some, even if they are false, so that you may appear flexible and not everywhere afflicted by error.
+Use this genre in books and in odious letters, counsel, forming reasons for both sides by way of discourse, but minimally declaring to which side you adhere or should adhere. Indeed, a digression will be made from this place, or amphibology, either by wishing, imploring, or declaring your affection through some rhetorical mode.
+
+Allow yourself to be admonished, even about false things, and do not excuse yourself, because no one will then admonish you, but rather demonstrate every affection for what is useful.
+
+Allow useless remarks to pass by; acknowledge some, even if they are false, so that you may appear flexible and not everywhere afflicted by error.
 
 Train yourself in this, to always be able to give reasons for both sides; to this end, read the modes of the rhetoricians and apologies.
 
@@ -676,13 +686,14 @@ As much as possible, promise nothing to anyone in writing, especially to women.
 
 That which you are drawn to by the greatest passion and desire, avoid if you can, or at least adhere to it most cautiously.
 
-Your affairs, even if they are most firm, never suffer from being further secured as much as possible. Reflect on your own action after it has passed, and on another's - what it lacked, when it could have been seized, when it could have been better instituted, etc.
+Your affairs, even if they are most firm, never suffer from being further secured as much as possible.
+
+Reflect on your own action after it has passed, and on another's - what it lacked, when it could have been seized, when it could have been better instituted, etc.
 
 ### Acting Cautiously
 
-There are two parts to being a cautious man: *cautious trust*, so that while acting on guard in the presence of friends (since many friendships exist to deceive), trust no one unless you suspect them.
-
-The other is a certain *generosity*, by which we are unwilling to indiscriminately tell the truth to anyone or correct their errors and habits. A pretense of this is indeed preferred, but it is scarcely harmless.
+There are two parts to being a cautious man: *cautious trust*, acting on guard in the presence of friends (since many friendships exist to deceive), trust no one unless you suspect them.
+The other is a certain *generosity*, we are unwilling to indiscriminately tell the truth to anyone or correct their errors and habits, instead a pretense of this is indeed preferred, but it is scarcely harmless.
 
 Entrust a secret to no one, because there is no one who cannot become an enemy after an hour.
 
@@ -699,7 +710,6 @@ Either dissemble the vices of others or excuse them; close off your own affectio
 In however great a friendship, consider hatred; in fortune, adversity.
 
 If you are the victor, in no case return the noblest captives to the enemy, so that if fortune turns, the enemy may have a reason to be compelled to spare you.
-
 Indeed, also do favors for the leaders of the enemies, maintaining some correspondence with them, unless pressed by an inexcusable necessity.
 
 Act nothing for the sake of appearances, unless you are ready to give a reason for it, because people, not waiting for it, will condemn your deeds. Such is life now that certain virtues are condemned, not to mention doubtful ones.
@@ -710,9 +720,13 @@ If you will converse with some where there is danger of being caught at a word, 
 
 If you are pressured by games, hunting, and Venus and carried away by passions, forbid them to yourself altogether, otherwise you are about to commit many things incautiously.
 
-With infants, the elderly, the stubborn, and those of unstable memory, and also with tyrants, act as much as possible before witnesses. Receive and request orders in writing.
+With infants, the elderly, the stubborn, and those of unstable memory, and also with tyrants, act as much as possible before witnesses.
 
-Do not readily give advice to the more ferocious and impetuous; they judge by the outcome. Where it is believable that you are being observed, speak very little; there is an easy lapse in many things.
+Receive and request orders in writing.
+
+Do not readily give advice to the more ferocious and impetuous; they judge by the outcome.
+
+Where it is believable that you are being observed, speak very little; there is an easy lapse in many things.
 
 In everything, observe vices and virtues, so that if there is need, you may be able to turn to one part or the other: this will be an armory useful for many things.
 
@@ -720,9 +734,15 @@ Have shutters on the insides of windows, and let the part where they meet the wi
 
 ### Getting Rid of an Ungrateful Guest
 
-Have a pre-arranged signal with a servant, so that when he receives a sign from you, he calls you away as if for urgent business, whispering in your ear or sending a messenger with letters, or announcing that harm has been done, or that there are disturbances among your subjects. Have a doctor forbid you from speaking or drinking, etc. Have a saddled horse brought, as if you are about to depart.
+Have a pre-arranged signal with a servant, so that when he receives a sign from you, he calls you away as if for urgent business, whispering in your ear or sending a messenger with letters, or announcing that harm has been done, or that there are disturbances among your subjects.
 
-Give oats to the horses, but first shaken with a wolf skin. Provide a stable, but where a wolf's carcass has been buried. Provide a bedroom, but in a bed made for this purpose with windows, and where it will rain, open them. The fireplace should be blocked so that it smokes; the furnace should be lit at first.
+Have a doctor forbid you from speaking or drinking, etc.
+
+Have a saddled horse brought, as if you are about to depart.
+
+Give oats to his horses, but first shake a wolf skin over them. Provide a stable, but where a wolf's carcass has been buried.
+
+Provide a bedroom, but in a bed made for this purpose with windows, and where it will rain, open them. The fireplace should be blocked so that it smokes; the furnace should be lit at first.
 
 ### Conversing with Others
 

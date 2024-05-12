@@ -53,7 +53,7 @@ class Model:
         self.client = Anthropic(api_key=os.environ.get('ANTHROPIC_API_KEY'), max_retries=4)
         self.throttler = Throttler(token_per_minute)
 
-    def chat(self, prompt:str, documents:List[str]=[], answer_prefix='<response>', stop_sequences=['</response>']) -> str:
+    def chat(self, prompt:str, documents:List[str]=[], answer_prefix=None, stop_sequences=[]) -> str:
         """
         Queries the model with, optionally, some documents and a prefix / stop criteria.
         This function takes care of throttling as well as looping when the output is too long for the maximum number of tokens produceable.
@@ -61,20 +61,19 @@ class Model:
         # assembles the inputs
         inputs = documents + [prompt]
         # iterates until we have completed our generation
-        output = ""
+        output = "" if (answer_prefix is None) else answer_prefix
         stop_reason = 'max_tokens'
         while (stop_reason == 'max_tokens'):
+            # builds messages list
+            # passing the documents, the prompt, as well as a potential priming for the answer
+            messages=[{"role": "user", "content": [{"type": "text", "text": input} for input in inputs]}]
+            if (output != ''): messages.append({"role": "assistant", "content": output})
             # queries the model
             self.throttler.start()
             answer = self.client.messages.create(
                 model=self.name,
                 max_tokens=self.max_tokens,
-                messages=[
-                    # passes the two documents as well as the prompt
-                    {"role": "user", "content": [{"type": "text", "text": input} for input in inputs]},
-                    # primes the model to start transcribing
-                    {"role": "assistant", "content": answer_prefix + output}
-                ],
+                messages=messages,
                 stop_sequences=stop_sequences
             )
             self.throttler.stop(answer.usage)
@@ -141,7 +140,7 @@ class Human(Model):
     def __init__(self):
         self.name = 'human'
 
-    def chat(self, prompt:str, documents:List[str]=[], answer_prefix='<response>', stop_sequences=['</response>']):
+    def chat(self, prompt:str, documents:List[str]=[], answer_prefix=None, stop_sequences=[]):
         """
         Queries the model with, optionally, some documents and a prefix / stop criteria.
         This function asks the human user for an answer.

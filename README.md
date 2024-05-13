@@ -21,24 +21,9 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 ## TODO
 
-* manually proofread translation (currently at `Conversing with Others`)
-
-* improve formulation:
-* `Use Venus` (when praying to venus?)
-* `the Tribunes` (in the tribunals?)
-* `he is not acting in those ways` (those are not his reasons)
-* `remitting tributes` (pardonning criminals?)
+* check against Latin:
 * `first shake a wolf skin over them`
-
-* revisit
-  * `Acquiring Gravity`
-  * `Cover what you have written in a book or another sheet of paper, or move the raised paper closer.`
-  * `Consider what needs someone is compelled by...`
-  * `do not praise places that are excessively high`
-  * `you have soldiers in a sack`
-  * `It is better, however, to know much, to see and hear, and to find this out, but circumspectly; for it is offensive to know that something is being sought about oneself, hence it must be sought in such a way that you do not seem to be seeking.`
-  * `If you notice you can do everything with the powerful`
-  * `lead him to see the fault as an example`
-  * `Provide a bedroom, but in a bed made for this purpose with windows, and where it will rain, open them. The fireplace should be blocked so that it smokes; the furnace should be lit at first.`
-
-* add a redeable.md file
+* `Being too sharp in action is precarious.`
+* `Examine giving gifts and feasting as if they were hostile plans.`
+* `Admitting a secret is more difficult than holding captive an enemy plotting against your life.`
+* `Simulating Affections` might be mistitled, `Reigning in emotions`?

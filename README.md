@@ -20,11 +20,13 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 To produce a `.epub` file for easy reading, run:
 
 ```sh
-pandoc data/english.md -o breviarium.epub --toc --metadata title="Breviarium Politicorum" --metadata author="Mazarin" --metadata translator="Nestor D."
+pandoc data/english.md -o breviarium.epub --metadata title="Breviarium Politicorum" --metadata author="Mazarin" --metadata translator="Nestor D."
 ```
 
 [^improvement]: If I were to do this again, I would provide the text of the section to be translated (extracted from the full text) inside the prompt to reduce likelihood of translating too much / not enough as well as reduce mental load for the model.
 
 ## TODO
 
-* edit the full text for redeability
+* edit the full text for readability
+* do a full read through in another format
+* add footnotes were relevant

@@ -293,29 +293,30 @@ If you arrange a banquet, share your fortune with the servants of the guests. Th
 Delegate minor tasks to others.
 
 Establish a strict schedule for yourself and adhere to it without deviation.
-Allocate the smallest periods of time to the smallest tasks, and do not spend more time than required on any task to complete it properly.
+Allocate the smallest amount of time to the smallest tasks, and spend only the time needed to complete each task effectively.
 
-If you are fatigued by work, do not undertake anything further, but refresh yourself with honest play and physical activity. Afterwards, you will accomplish more, and more easily, in a short time. Or at least take on a task that you can handle without effort.
+When fatigued by work, avoid undertaking anything further. Instead, refresh yourself with honest play and physical activity. Afterward, you will accomplish more, with greater ease and in a shorter time.
+If you must work, take on a task that you can handle without effort.
 
-Tasks that span several days should be divided into smaller, manageable portions, allowing you to complete them efficiently.
+Divide tasks that span several days into smaller, manageable portions to complete them more efficiently.
 
-Avoid tasks that offer little benefit or recognition but demand significant effort. For the sake of no one should you engage in useless tasks that demand much time.
+Avoid engaging in time-consuming, useless tasks that offer little benefit or recognition, regardless of who requests them.
 
-Do not deal personally with craftsmen, manage household affairs, gardens, or buildings. These tasks are full of labors and give rise to one concern after another.
+Refrain from personally dealing with craftsmen, household affairs, gardens, or buildings, as these tasks are labor-intensive and give rise to one concern after another.
 
 ### Acquiring Gravity
 
-Undertake suitable occupations, such as not handling weapons if you are a Prelate; not practicing chiromancy if you are a Nobleman; not practicing Medicine if you are Religious; and not being a fencing-master if you are a Priest.
+Undertake occupations suitable to your role: for example, a Prelate should not handle weapons, a Nobleman should not practice chiromancy, a Religious person should not practice medicine, and a Priest should not teach fencing.
 
-Do not easily make promises or concessions.
+Avoid making promises or concessions.
 
-Do not easily laugh or quickly conclude matters.
+Laugh sparingly, and when you do, keep it brief.
 
 Do not change what has been decided.
 
-Do not fix your eyes on another.
+Avoid staring at others.
 
-Do not toss your nose or wrinkle your forehead.
+Do not turn up your nose or furrow your brow.
 
 Do not be sullen.
 
@@ -327,101 +328,109 @@ Use few, concise and meaningful, words.
 
 Do not take excessively wide steps. Compose all of your limbs with decorum.
 
-Do not admit to anyone that you love, hate, or fear anything.
+Do not admit to anyone that you love, hate, or fear.
 
-Do not personally handle base matters, but through servants, and do not speak of them.
+Do not personally handle menial tasks; delegate them to servants and do not discuss them.
 
-Let no one be present when you are at the table, going to bed, or getting up.
+Let no one be present when you are eating, going to bed, or getting up.
 
-Have few friends and deal with them rarely, lest you be held in contempt.
+Keep your circle of friends small and interact with them infrequently, lest you be held in contempt.
 
-Do not engage in conversation indiscriminately in any place.
+Do not engage in conversation indiscriminately in public places.
 
-Do not suddenly change your habits, even for the better, nor your dress, your way of living, your splendor, etc.
+Avoid abrupt changes in your habits, dress, lifestyle, or appearance, even if these changes are improvements.
 
-When praising or criticizing, avoid excessive exaggeration. Judge proportionately to the matter at hand to prevent being seen as overly serious due to hyperbole.
+When praising or criticizing, avoid excessive exaggeration. Judge proportionately to the matter at hand to prevent your words from losing their impact or credibility.
 
-Rarely let your excessive affections, such as delights, admirations, etc., manifest.
+Rarely display strong emotions, such as excessive joy, admiration, or other feelings.
 
-Display piety even in the most intimate friendship.
+Demonstrate piety even with your closest friends.
 
-Likewise, when you act with the greatest confidence, do not complain about anyone or accuse anyone.
+Even when you are most confident in your position, refrain from complaining about or accusing others.
 
-Do not command your subordinates to do many things at once and things they cannot carry out, because they will learn to despise commands or will be able to show they were imprudently ordered.
+Do not give your subordinates too many tasks at once or tasks they cannot carry out. Doing so will lead them to either despise your commands or demonstrate that your orders were ill-advised.
 
 Make no laws, or very few.
 
 Do not be quick to anger, for if you are then quick to be appeased, you will be considered fickle.
 
-If you are going to say something publicly, meditate beforehand, and speak from a written text.
+If you are going to make a public statement, carefully consider your words beforehand and speak from a prepared text.
 
 ### Reading and Writing
 
-If you are writing in a public place, pretend to be copying from another document. Hold up a sheet of paper so others can see it, while keeping your actual writing hidden. Cover your work with a book or another sheet of paper, or position the raised paper so that only the line you've copied is visible to anyone who approaches.
+If you are writing in a public place, pretend to be copying from another document. Hold up a sheet of paper so others can see it, while keeping your actual writing hidden. Cover your work with a book or another sheet of paper, or position the raised paper so that only the line you appear to be copying is visible to anyone who approaches.
 
-If someone approaches while you are reading, immediately turn many pages so your focus is not detected. In fact, it is best to have several books combined, so that one may be presented for inspection before another.
+If someone approaches while you are reading, quickly turn to a different page to avoid drawing attention to your focus. It is best to have multiple books combined, allowing you to present one for inspection while concealing the actual book you were reading.
 
 If you are writing letters or reading a book and someone arrives who might find your activity suspicious, anticipate this and pretend to be doing something else entirely. Act as if you are consulting the book or letters in front of you.
-For example, if you are writing warnings, ask the approaching guest what you could cautiously and prudently respond to such a case, or ask for news so you could fill the letters. Do the same when counting money or reading a book.
+For example, if you are writing warnings, ask the approaching guest what you could cautiously and prudently respond to such a case, or ask for news so you could fill the letters. Employ similar tactics when counting money or reading a book.
 
-Write secrets in your own handwriting unless you are using ciphers that can be easily understood by everyone, such as those found in Trithemius' *Polygraphia*, in which case having someone else write for you can provide better concealment. However, using unreadable ciphers can raise suspicion and lead to interception, unless you are a skilled writer.
+When writing secrets, use your own handwriting unless you are employing ciphers that are easily decipherable by others, such as those found in Trithemius' *Polygraphia*. In such cases, having someone else write for you can provide better concealment. Be cautious, as using indecipherable ciphers may raise suspicion and lead to interception, unless you are a skilled writer.
 
 ### Giving Gifts and Favors
 
 Be generous in giving what you know others will not ask for, or what they will never use, such as privileges.
 
-A teacher should not teach their student everything they know, so that the student still has the desire to learn more. Nor should a parent give so much to his child that the child either does not need any favors or cannot hope for anything more. The same applies to a master with respect to his servant.
-If lands are given, they should be of a kind that require the master's goodwill, for instance lacking wood, water, or mills.
-If a contract or deed is drawn up, a clause should be included making it revocable at the master's discretion.
+A teacher should not teach his student everything he knows, in order to maintain the student's desire to learn more.
+Similarly, a parent should not give their child so much that the child no longer needs or hopes for anything more from the parent.
+The same principle applies to a master's relationship with his servant.
 
-If someone is worthy of a common office and declines it when you offer it to them, do not allow them to refuse under any circumstances, unless their refusal is made public. Otherwise, it will be believed that you did not adequately compensate his merits.
-To prevent them from making excuses, appoint them when the position requires immediate attention, and be absent during this time, so that they are forced to accept the appointment and begin their duties.
+If lands are given, they should be chosen to make the recipient dependent on the giver's goodwill. This can be done by selecting lands lacking essential resources like wood, water, or mills.
 
-A favor should be granted in such a way that you lose nothing by it, for instance by forgiving due penalties as a reward, or new taxes that you would otherwise have imposed less justly, following the example of your neighbors.
+If a contract or deed is drawn up, a clause should be included making it revocable at the giver's discretion.
+
+If someone is worthy of a public office and declines your offer, do not allow him to refuse, unless his refusal is made public. Otherwise, people may believe that you did not adequately recognize or reward their merits.
+To prevent the person from making excuses, appoint him when the position requires immediate attention, and be absent during this time, so that he is forced to accept the appointment and begin his duties.
+
+Grant favors in a way that costs you nothing. This can be done by forgiving penalties that are due or by not imposing new and unjust taxes, even if your neighbors do so.
+
 The things you use yourself, such as weapons, horses, rings, should not be too costly, so that you can give them away as a great gift at little cost to yourself.
 
 When giving gifts, avoid common methods. For instance, to give a rifle, have a contest with a prize for hitting a target, then give it to the winner as if already victorious. You can certainly decide on the matter, or rig the game.
 
-If you wish to give something pleasing to a particular person, do not promise it, because then they will decline it politely, or at least buy it with entreaties.
+If you wish to give something pleasing to a particular person, do not promise it in advance, because he may feel obligated to decline it politely or feel indebted to you for the gift.
 
 Those who praise their own possessions in front of others are inviting them to ask for those things.
 
-Do not readily condemn what predecessors have established; they foresaw things you do not notice.
+Avoid hastily criticizing the practices established by your predecessors, as they may have foreseen issues that you have not yet considered.
 
 Likewise, do not readily grant perpetual favors, because it may be necessary to change them later, and you will no longer be able to do so.
 
 Do not appear to throw away gifts, nor try to increase their value so that they may be pleasing.
 
-Consider what needs compel someone and when.
+Consider what needs compel someone to act and when those needs arise.
 
-If you have helped others, do not mention it to anyone else, as it may offend them and seem like you are reproaching them. And if you are forced to mention it, say it was a debt, and that you do not need or wish to accept thanks for it.
+If you have helped someone, do not mention it to anyone else, as it may offend him and seem like you are reproaching him. And if you are forced to mention it, say it was a debt, and that you do not need or wish to accept thanks for it.
 
 If something is given to you (even if very small), take care not to be ungrateful.
 
 ### Asking for Things
 
-See that what you ask for does not strain the purse or demand much labor, and it will be enough to indicate to a friend that you are in need of this thing. For if he does not provide it then, he will not do so at your entreaty either. But show yourself grateful for what has been provided, so that he may notice that by this very act you are requesting more.
+When asking a friend for a favor, make sure your request doesn't require too much money or effort. Simply letting them know you need help should suffice. If your friend does not provide the favor voluntarily, he will not do so even if you ask directly.
+However, express gratitude for all help provided, as this will subtly convey your desire for further assistance.
 
-If you are about to request something serious, discuss other matters and explain your desires as if doing something else.
+If you are about to request something serious, first discuss other matters and subtly explain your desires as if doing something else.
 
-Be cautious when asking nobles, because they think they are being ordered. Bring in intercessors, the most illustrious persons, such as offspring to a parent, as long as you do not employ those who are in need of the same thing.
+Be cautious when asking nobles for favors, as they may perceive your request as a command.
+Seek the help of illustrious people to advocate for you, such as a child asking their parent for a favor, but avoid involving those who have the same need as you.
 
-The time to ask is when someone is happy, which is on a feast day and after a meal, but not while he is drowsy, nor amid other business when he is distracted, nor when afflicted by sleep.
+The best time to ask for a favor is when someone is happy, such as on a feast day or after a meal, but not while they are drowsy, distracted by other business, or struggling to stay awake.
 
 Do not presume to ask for many things at once.
 
-When taking up someone's cause to promote, favor him as if he were unknown. Have rare meetings with him, so that you may seem to be moved more by honest and public affection than private.
+When advocating for someone, treat them as if you don't know them. Limit your interactions with them to demonstrate that your support is based on the merits of their cause rather than personal benefit.
 
-Propose reasons and advantages to the persons with whom you are dealing: profits and losses to the greedy; the glory of God to spiritual men; praises to the young; and mockery from companions.
+When persuading others, tailor your arguments to their interests and values: emphasize potential gains or losses for those motivated by wealth, appeal to religious beliefs for the devout, offer praise to the young and ambitious, and highlight social pressure for those concerned with their reputation.
 
-Do not ask a leader for privileges and charters, for such things are granted slowly. But at an opportune time, submit the written documents for him to sign.
+Avoid asking a leader for special favors or legal permissions, as these requests are often granted slowly. Instead, wait for the right moment and present the necessary paperwork for their signature.
 
-Do not ask another for some rare thing if he is fond of it (especially if it is useless to you).
-For if he refuses, he will think he has injured you and will hate you, for it is human to hate the one you have injured. If he grants it, he will shun you as an indiscreet petitioner.
+Do not ask someone for a rare item they cherish, especially if you have no genuine use for it.
+If he refuses, he will feel guilty for disappointing you and start hating you, as people often resent those they have wronged.
+If he agrees, he may view you as an imprudent requester and avoid you in the future.
 
-Because it is shameful to suffer rejection, ask for nothing unless you are certain of obtaining it. Therefore it is better not to ask, but only to explain the necessity.
+To avoid the shame of rejection, only make requests when you are confident they will be granted. Therefore, it is better to explain your need without directly asking for anything.
 
-Let no one notice that you love the thing you desire before you are in possession of it. Therefore, either show despair or spread the rumor that it has already been destined for another, and congratulate him.
+Conceal your strong desire for something until you have obtained it. To do this, either feign indifference or imply that it has already been promised to someone else, and congratulate them.
 
 If something is denied to you, secretly send another to request it for himself, from whom you will more easily obtain the thing.
 

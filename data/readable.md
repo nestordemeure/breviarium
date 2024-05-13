@@ -34,126 +34,23 @@ Revisit: `You should allow those committed to religious life to behave in this m
 
 ### Finding More Time for Business
 
-* "Allocate the smallest periods of time to the smallest tasks, and do not spend more time than required on any task to complete it properly."
-  * Problem: The sentence is long and contains multiple clauses, which may be difficult to follow.
-  * Suggestion: "Allocate the least amount of time to the smallest tasks, and spend only the time necessary to complete each task properly."
-
-* "If you are fatigued by work, do not undertake anything further, but refresh yourself with honest play and physical activity. Afterwards, you will accomplish more, and more easily, in a short time. Or at least take on a task that you can handle without effort."
-  * Problem: The passage is composed of several sentences that could be more concise and better connected.
-  * Suggestion: "When fatigued by work, avoid undertaking anything further. Instead, refresh yourself with honest play and physical activity. Afterward, you will accomplish more, and with greater ease, in a shorter time. If you must work, take on a task that you can handle without effort."
-
-* "Tasks that span several days should be divided into smaller, manageable portions, allowing you to complete them efficiently."
-  * Problem: The phrase "allowing you to complete them efficiently" could be more direct.
-  * Suggestion: "Divide tasks that span several days into smaller, manageable portions to complete them more efficiently."
-
-* "Avoid tasks that offer little benefit or recognition but demand significant effort. For the sake of no one should you engage in useless tasks that demand much time."
-  * Problem: The second sentence is a bit unclear and could be rephrased for better readability.
-  * Suggestion: "Avoid tasks that offer little benefit or recognition but demand significant effort. Do not engage in time-consuming, useless tasks for anyone's sake."
+Readable.
 
 ### Acquiring Gravity
 
-* "Do not easily make promises or concessions."
-  * Problem: The meaning of "concessions" in this context is unclear.
-  * Suggestion: "Do not make promises or grant favors too easily."
-
-* "Do not practice chiromancy if you are a Nobleman;"
-  * Problem: The term "chiromancy" may not be familiar to a wide audience.
-  * Suggestion: "Do not practice palm reading if you are a Nobleman;"
-
-* "Do not fix your eyes on another."
-  * Problem: It's unclear what "another" refers to in this context.
-  * Suggestion: "Do not stare at others."
-
-* "Do not toss your nose or wrinkle your forehead."
-  * Problem: The phrase "toss your nose" is unclear and may not be easily understood.
-  * Suggestion: "Do not turn up your nose or furrow your brow."
-
-* "Do not admit to anyone that you love, hate, or fear anything."
-  * Problem: The phrasing is a bit awkward and may not convey the intended meaning clearly.
-  * Suggestion: "Do not reveal your loves, hates, or fears to anyone."
-
-* "Do not personally handle base matters, but through servants, and do not speak of them."
-  * Problem: The term "base matters" is vague and may not be easily understood by a contemporary audience.
-  * Suggestion: "Do not personally handle menial tasks; delegate them to servants and do not discuss them."
-
-* "Have few friends and deal with them rarely, lest you be held in contempt."
-  * Problem: The connection between having few friends and being held in contempt is unclear.
-  * Suggestion: "Maintain a small circle of friends and interact with them infrequently to preserve your dignity."
-
-* "Display piety even in the most intimate friendship."
-  * Problem: The meaning of displaying piety in intimate friendships may not be immediately clear to readers.
-  * Suggestion: "Demonstrate reverence and respect even in your closest friendships."
-
-* "Likewise, when you act with the greatest confidence, do not complain about anyone or accuse anyone."
-  * Problem: The connection between acting with confidence and not complaining or accusing is unclear.
-  * Suggestion: "Similarly, even when you are most assured, refrain from complaining about or accusing others."
+Readable.
 
 ### Reading and Writing
 
-* "If you are writing in a public place, pretend to be copying from another document. Hold up a sheet of paper so others can see it, while keeping your actual writing hidden. Cover your work with a book or another sheet of paper, or position the raised paper so that only the line you've copied is visible to anyone who approaches."
-  * Problem: The instructions are a bit convoluted and may be difficult to follow.
-  * Suggestion: "When writing in a public place, conceal your actual work by pretending to copy from another document. Hold up a sheet of paper to obscure your writing, or cover your work with a book or another sheet of paper. Alternatively, position the raised paper so that only the line you've seemingly copied is visible to anyone who approaches."
-
-* "If someone approaches while you are reading, immediately turn many pages so your focus is not detected. In fact, it is best to have several books combined, so that one may be presented for inspection before another."
-  * Problem: The phrase "several books combined" is unclear and may confuse readers.
-  * Suggestion: "If someone approaches while you are reading, quickly turn to a different page to avoid drawing attention to your focus. It is best to have multiple books on hand, allowing you to present one for inspection while concealing the actual book you were reading."
-
-* "Write secrets in your own handwriting unless you are using ciphers that can be easily understood by everyone, such as those found in Trithemius' *Polygraphia*, in which case having someone else write for you can provide better concealment. However, using unreadable ciphers can raise suspicion and lead to interception, unless you are a skilled writer."
-  * Problem: The sentence is lengthy and contains multiple ideas, making it difficult to follow.
-  * Suggestion: "When writing secrets, use your own handwriting unless you are employing ciphers that are easily decipherable by others, such as those found in Trithemius' *Polygraphia*. In such cases, having someone else write for you can provide better concealment. Be cautious, as using indecipherable ciphers may raise suspicion and lead to interception, unless you are a skilled writer."
+Readable.
 
 ### Giving Gifts and Favors
 
-* "A teacher should not teach their student everything they know, so that the student still has the desire to learn more."
-  * Problem: The reasoning is unclear and the analogy to the parent-child and master-servant relationships is not immediately apparent.
-  * Suggestion: "A teacher should not teach their student everything they know, in order to maintain the student's desire to learn more. Similarly, a parent should not give their child so much that the child no longer needs or hopes for anything more from the parent. The same principle applies to a master's relationship with his servant."
-
-* "If lands are given, they should be of a kind that require the master's goodwill, for instance lacking wood, water, or mills."
-  * Problem: The meaning of "master's goodwill" is unclear in this context.
-  * Suggestion: "If lands are given, they should be of a kind that makes the recipient dependent on the giver's goodwill, for instance, lands lacking essential resources like wood, water, or mills."
-
-* "If someone is worthy of a common office and declines it when you offer it to them, do not allow them to refuse under any circumstances, unless their refusal is made public."
-  * Problem: The phrase "common office" is unclear and the reasoning behind not allowing refusal is not explicitly stated.
-  * Suggestion: "If someone is worthy of a public office and declines your offer, do not allow them to refuse under any circumstances, unless their refusal is made public. Otherwise, people may believe that you did not adequately recognize or reward their merits."
-
-* "To prevent them from making excuses, appoint them when the position requires immediate attention, and be absent during this time, so that they are forced to accept the appointment and begin their duties."
-  * Problem: The pronoun "them" lacks a clear antecedent, making the sentence confusing.
-  * Suggestion: "To prevent the person from making excuses, appoint them when the position requires immediate attention, and be absent during this time, so that they are forced to accept the appointment and begin their duties."
-
-* "A favor should be granted in such a way that you lose nothing by it, for instance by forgiving due penalties as a reward, or new taxes that you would otherwise have imposed less justly, following the example of your neighbors."
-  * Problem: The sentence is long and convoluted, making it difficult to follow the main point.
-  * Suggestion: "Grant favors in a way that costs you nothing, such as by forgiving penalties that are due or by imposing new taxes that you would have implemented anyway, following the example of your neighbors."
-
-* "If you wish to give something pleasing to a particular person, do not promise it, because then they will decline it politely, or at least buy it with entreaties."
-  * Problem: The meaning of "buy it with entreaties" is unclear.
-  * Suggestion: "If you wish to give something pleasing to a particular person, do not promise it in advance, because they may feel obligated to decline it politely or feel indebted to you for the gift."
-
-* "Do not readily condemn what predecessors have established; they foresaw things you do not notice."
-  * Problem: The sentence structure is awkward and the meaning of "things you do not notice" is vague.
-  * Suggestion: "Avoid readily condemning the practices established by your predecessors, as they may have foreseen issues that you have not yet considered."
+Readable.
 
 ### Asking for Things
 
-1. "For if he does not provide it then, he will not do so at your entreaty either."
-   * Suggestion: "If he does not provide it voluntarily, he will not do so even if you ask directly."
-
-2. "Be cautious when asking nobles, because they think they are being ordered."
-   * Clarification needed: Why do nobles think they are being ordered when asked for something?
-
-3. "Bring in intercessors, the most illustrious persons, such as offspring to a parent, as long as you do not employ those who are in need of the same thing."
-   * Suggestion: "Seek help from influential intermediaries, such as a child approaching their parent, but avoid those who need the same favor."
-
-4. "When taking up someone's cause to promote, favor him as if he were unknown. Have rare meetings with him, so that you may seem to be moved more by honest and public affection than private."
-   * Suggestion: "When promoting someone's cause, treat them as if they were a stranger. Meet with them infrequently to show that your support stems from genuine and public interest rather than personal gain."
-
-5. "Propose reasons and advantages to the persons with whom you are dealing: profits and losses to the greedy; the glory of God to spiritual men; praises to the young; and mockery from companions."
-   * Suggestion: "When persuading others, tailor your arguments to their interests: emphasize potential gains or losses to the greedy, divine glory to the religious, praise to the young, and peer pressure to friends."
-
-6. "Do not ask another for some rare thing if he is fond of it (especially if it is useless to you). For if he refuses, he will think he has injured you and will hate you, for it is human to hate the one you have injured. If he grants it, he will shun you as an indiscreet petitioner."
-   * Suggestion: "Avoid asking someone for a prized possession, especially if it is of no use to you. If they refuse, they may feel guilty and resent you for making them feel that way. If they agree, they may view you as an inconsiderate person who makes unreasonable requests."
-
-7. "Let no one notice that you love the thing you desire before you are in possession of it. Therefore, either show despair or spread the rumor that it has already been destined for another, and congratulate him."
-   * Suggestion: "Conceal your strong desire for something until you have obtained it. To do this, either feign indifference or imply that it has already been promised to someone else, and congratulate them."
+Readable.
 
 ### Admonishing
 
@@ -786,8 +683,6 @@ Here are a few passages that could be improved for better readability and clarit
 
 ### Having Internal Peace
 
-Here are some passages that could be improved for clarity and readability:
-
 1. "Persuade yourself that it is not likely your own people will avoid every error, let nothing be planned." - This sentence is unclear. Possible fix: "Understand that your own people are likely to make mistakes, so plan accordingly."
 
 2. "Disregard the complaints of your subjects about you; keep a secret either not accepted as a secret or held." - The second part of the sentence is confusing. Clarification needed: What does "keep a secret either not accepted as a secret or held" mean?
@@ -802,8 +697,6 @@ Here are some passages that could be improved for clarity and readability:
 
 ### Disregarding Criticism
 
-Here are a few passages that could be improved for better readability and clarity:
-
 1. "Gather written lampoons and read them yourself, and have them read by others." - It's unclear what "lampoons" are referring to in this context. Consider providing a brief explanation or using a more familiar term.
 
 Suggestion: "Collect written satires or mocking texts about you and read them yourself, as well as have others read them."
@@ -817,8 +710,6 @@ Suggestion: Clarify what "invent business" means or rephrase the sentence. For e
 Suggestion: Break down the sentence and simplify the language. For example, "If something unfavorable happens, it is not always wise to hide it. Attempting to conceal the event may lead others to believe that it was even worse than it actually was."
 
 ### Acquiring Dexterity in Acting
-
-Here are a few passages that could be improved for clarity and readability:
 
 1. "console them, as the Rhetoricians say, through commonplaces" - The term "Rhetoricians" and the concept of "commonplaces" might be unclear to a general audience. Consider simplifying or explaining these terms.
 
@@ -836,11 +727,7 @@ Suggestion: "Speak well of your superiors, even if you have been offended by the
 
 Suggestion: "Say you are doing this so that the accusations can be directly presented to the accused person."
 
-Overall, the passage is understandable but could benefit from some simplification and clarification of terms to make it more accessible to a wider audience.
-
 ### Averting Suspicion
-
-Here are a few passages that could be improved for better readability and clarity:
 
 1. "If you are suspected of having stained some accusers before the Prince"
    * Unclear what "stained" means in this context. Consider rephrasing or providing more context.
@@ -863,8 +750,6 @@ Here are a few passages that could be improved for better readability and clarit
    Suggestion: "write only the *first and last* syllables of each sentence to create an air of mystery or to pique curiosity"
 
 ### Overthrowing and Deposing Wicked Men
-
-Here are some passages that may require further work to improve readability and clarity for a contemporary, wide audience:
 
 1. "If someone is to be deposed from office" - Clarify what "deposed" means in this context. Suggestion: "If someone is to be removed from their position".
 

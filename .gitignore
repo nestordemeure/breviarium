@@ -1,5 +1,6 @@
 # project specific
 /data/hugo
+/data/research
 *.epub
 
 # Byte-compiled / optimized / DLL files

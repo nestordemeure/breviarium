@@ -17,6 +17,12 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 * `check_readability.py` used to ensure that the text reads well.
 * `markdown_to_hugo.py` used to turn a markdown file into a Hugo hierarchy of files and folders.
 
+To produce a `.epub` file for easy reading, run:
+
+```sh
+pandoc data/english.md -o breviarium.epub --toc --metadata title="Breviarium Politicorum" --metadata author="Mazarin" --metadata translator="Nestor D."
+```
+
 [^improvement]: If this were to do again, I would provide the section text to be translated (extracted from the text) inside the prompt to reduce likelihood of translating too much / not enough as well as reduce mental load for the model.
 
 ## TODO

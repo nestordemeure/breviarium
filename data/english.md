@@ -16,9 +16,11 @@ Enjoy this work of ours, and farewell.
 
 ## Fundamentals
 
-There were once two fundamental principles in sincere Philosophy: *Sustain and Abstain*. Now, new principles prevail: *Simulate and Dissimulate*, or *Learn About Yourself* and *Learn About Others*, which (if I am not mistaken) also reinforce the former.
+There were once two fundamental principles in Philosophy: *Sustain and Abstain*.
+Now, new principles have emerged: *Simulate and Dissimulate*, or *Learn About Yourself* and *Learn About Others*, which (if I am not mistaken) complement each other.
 
-We will first address *Learn About Yourself* and *Learn About Others*. Then, since human *Actions* generally occur without any set order, we will explore *Simulate and Dissimulate* in various contexts, without adhering to any particular sequence.
+We will first address *Learn About Yourself* and *Learn About Others*.
+Then, since human *Actions* often occur in no particular order, we will explore the principles of *Simulate and Dissimulate* in various contexts, without following a strict order.
 
 ### Learn About Yourself
 
@@ -141,7 +143,7 @@ To learn another's mind, suborn someone whom he loves, and through them you will
 
 ## Acting in Society
 
-As I begin this part of the discussion, I follow no set order, exploring various contexts.
+As I begin this part of the discussion, I will explore various contexts without adhering to a strict order.
 
 ### Gaining Favor from a Friend
 

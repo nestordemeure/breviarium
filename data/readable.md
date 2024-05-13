@@ -10,12 +10,6 @@ Readable.
 
 ### Learn About Yourself
 
-Here are some passages that could be improved for clarity and readability:
-
-* "Are you overcome by anger, fear, rashness, or some other passion?"
-  * Problem: The sentence is phrased as a direct question, which may not fit the context of the passage.
-  * Suggestion: "Consider whether you are overcome by anger, fear, rashness, or other passions."
-
 * "What defects are evident in your conduct during various activities, such as dining, attending church, conversing with others, playing games, or engaging in other social interactions?"
   * Problem: The sentence is lengthy and contains a long list of examples, which may be difficult for readers to process.
   * Suggestion: "Reflect on any defects in your conduct during various activities, such as dining, attending church, conversing, playing games, or engaging in other social interactions."

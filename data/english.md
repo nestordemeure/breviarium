@@ -24,20 +24,26 @@ Then, since human *Actions* often occur in no particular order, we will explore 
 
 ### Learn About Yourself
 
-Are you overcome by anger, fear, rashness, or some other passion? What defects are evident in your conduct during various activities, such as dining, attending church, conversing with others, playing games, or engaging in other social interactions?
+Are you overcome by anger, fear, rashness, or some other strong emotion?
+What defects are evident in your conduct during various activities, such as dining, attending church, conversing, playing games, or engaging in other social interactions?
 
-Examine all the parts of your body: is your eye too insolent, foot or head bent too far, forehead wrinkled, lips unkempt, gait too slow or fast?
+Examine all the parts of your body: are your eyes too insolent, foot or head bent too far, forehead wrinkled, lips unkempt, gait too slow or fast?
 
 With whom do you associate? Are they praiseworthy, successful, prudent individuals?
 
 At what times are you most likely to act carelessly or recklessly? Do you stumble in word or deed when drinking at the table, playing games, or facing calamity? As Tacitus noted, "the minds of mortals are pliable" during such moments.
 
-What places do you visit - are they suspect, vile, disreputable, unworthy of you? Be cautious in your actions, and never let caution be absent - to which end reading this little book will serve. In what place, at what time, in what station, and with a person of what rank are you interacting?
+What places do you visit - are they suspect, vile, disreputable, unworthy of you?
+
+Be cautious in your actions, and never let caution be absent - to which end reading this little book will serve.
+
+Consider the place, time, situation, and the rank of the persons with whom you are interacting.
 
 Make note of each individual defect, so that you may address it more diligently. Whenever you slip up, it will be beneficial to discipline yourself strictly.
-If you are provoked to the point of an outpouring of bile, say nothing, and show no sign of anger, provided you are in such circumstances where you can show your zeal to no purpose, and cannot satisfy yourself; but *pretend* that you are not injured in the least, and await a more opportune hour.
 
-Show nothing in your face except kindness, or even affection. Do not readily laugh at just any witticism.
+If you are provoked to the point of anger, remain silent and show no sign of it, especially when you cannot effectively express your zeal or satisfy yourself. Instead, *pretend* that you are not offended and wait for a more opportune moment. Show nothing in your face except kindness, or even affection.
+
+Do not readily laugh at just any witticism.
 
 Strive to have everyone figured out. Never reveal your secrets to anyone; fish for the secrets of others.
 
@@ -47,43 +53,47 @@ Maintain a modest and steady demeanor, but keenly observe everything with sharp 
 
 ### Learn About Others
 
-Much can be learned about someone in sickness, drunkenness, when money is involved and gain or loss is at stake, in games and while traveling - when the doors of the mind are relaxed, the wild beasts more readily emerge from their dens. Also in times of affliction, especially when insulted, etc. These occasions should be observed; in these situations one should interact with those one wishes to know.
+Much can be learned about someone's true character in situations like sickness, drunkenness, gain or loss of money, games, and travel. When the doors of the mind are relaxed, the wild beasts more readily emerge from their dens.
 
-It helps greatly to frequent someone's friends, children, young servants, and attendants, who can easily be bribed with small gifts to reveal much.
+Pay attention to how people behave during times of affliction, especially when they are insulted or facing other challenges. Interact with those you wish to know better during these situations to gain insights into their character.
 
-If you suspect what the other person is thinking, suggest the opposite in conversation, praising it. If he thinks the contrary, he will scarcely be so cautious as to not betray himself by defending it or adding something to show he feels otherwise.
+It helps greatly to frequent someone's friends, children, young servants, and attendants. They can often be easily bribed with small gifts to reveal much about the person.
 
-You will recognize what vices someone struggles with by this art: bring up in conversation the vices that most commonly occur and with which your friend is most likely to struggle; he will most fiercely attack and curse the vice with which he himself struggles. Thus, preachers are often prone to the very vices they most ardently denounce.
+If you suspect what the other person is thinking, try suggesting the opposite in conversation and praising it. If they disagree with your suggestion, they will likely abandon caution and defend their true opinion or add something to show they feel otherwise, thus revealing their actual thoughts.
 
-Ask for advice on some matter; after a few days, discuss it with the same person, for by God's providence we easily forget lies.
+To recognize someone's vices, try this technique: In conversation, mention the common vices that your friend is likely to struggle with. He will most fiercely attack and curse the very vice he himself is guilty of.
+Thus, preachers are often prone to the very vices they most ardently denounce.
 
-Pretend you have knowledge of some matter and mention it in front of the person you think knows about it; he will reveal his own knowledge by correcting you.
+Ask for advice on some matter; after a few days, discuss it with the same person, for by God's providence we easily forget lies we have told.
 
-See with whom a person associates, for a man is known by the company he keeps, etc.
+To gauge someone's expertise on a topic, pretend to have knowledge about it and mention it in their presence. If they are knowledgeable, they will likely reveal their expertise by correcting you.
+
+See with whom a person associates, for a man is known by the company he keeps.
 
 Praise someone or console them in affliction, because in such cases obscure and hidden thoughts burst forth.
 
-Entice someone to tell their life story (which can be done by telling your own, pretending); what wicked deeds they have done to others - from this you will have grounds to reason about the present. But be cautious not to reveal your own.
+Entice someone to tell their life story, which can be done by pretending to share your own. Pay attention to any wicked deeds they have done to others, as this will give you grounds to reason about their present character. However, be cautious not to reveal yourself.
 
-You will test knowledge in this way, e.g. give an epigram to be read; if he praises it excessively and it is actually poor, he is a man of little poetic ability. If he praises it insofar as it is praiseworthy, he is a poet. Likewise bring up the subject of food and you will recognize a glutton. The same holds for other vices and virtues.
+You can test someone's knowledge or character by presenting them with specific situations. For example, give them a mediocre epigram to read. If they praise it excessively, they likely have little poetic ability. If they praise it only to the extent it deserves, they may be a skilled poet. Similarly, if you bring up the subject of food and they show excessive enthusiasm, they may be a glutton. This principle can be applied to other vices and virtues as well.
 
 Have someone propose at a gathering, as if in jest, what each person's abilities are, what virtues they have, what office they are suited for - for often jests weave much truth.
 
-You can also sometimes play the doctor, mixing things into the food that will make them cheerful and talkative, etc.
+You can also sometimes play the role of a doctor, mixing things into their food that will make them cheerful and talkative.
 
 It is a sign of a malicious man to frequently contradict; one who often stoops to theft is like this.
 
 Those who boast much about themselves are not greatly to be feared; they are fantasizers.
 
-Those who are scrupulous, gloomy, say many vocal prayers, have excessively short fingernails, and practice external mortifications without internal ones are also fantasizers.
+Those who are scrupulous, gloomy, say many vocal prayers, have excessively short fingernails, and practice external mortifications without internal reflection are often prone to self-deception and fantasizing.
 
 You will recognize one raised from poverty if he starts to complain about food and clothing, for the poor, when elevated, especially desire such things above the nobility.
 
-Those devoted to wine and Venus rarely keep secrets. The later are slaves to their mistress; the former are carried away to inconsiderate speech when inebriated.
+Those devoted to wine and Venus rarely keep secrets. The latter are slaves to their desires; the former are carried away to inconsiderate speech when inebriated.
 
-You will catch out a braggart and boaster in this way: while he is enumerating his journeys, travels, military service, exploits, how many years he spent in this or that place - then add up the total of all the years; on another occasion ask him what year he began this, what year he finished. How many years his life spans - a great inconsistency will be evident. Also ask if he knows how many towers that famous city has, or that most celebrated fortress (make up a name) - or congratulate him, as if knowing everything, that he escaped this or that danger.
+To catch a braggart in a lie, listen carefully when he boasts about his journeys, travels, military service, exploits, and how many years he spent in various places. Later, add up the total of all the years he mentioned. On another occasion, ask him what year he began and finished each experience, and how many years his life spans. Any inconsistencies in his story will become evident.
+Also ask if he knows how many towers that famous city has, or that most celebrated fortress (make up a name) - or congratulate him, as if knowing everything, that he escaped this or that danger.
 
-You will recognize an upright man and his piety if consistency is observed in his life; if ambition and the desire for a higher position are absent; if his modesty is not affected and his composure in all things is not contrived; if his speech is not effeminate and excessive outward mortification is not displayed by drinking or eating too little, etc.
+You can recognize an upright and pious man by the consistency in his life, the absence of excessive ambition or desire for higher positions, genuine modesty, and uncontrived composure. His speech should not be overly effeminate, and he should not display excessive outward mortification by drinking or eating too little, or engaging in other ostentatious practices.
 
 Those who most boast of being free from ambition and pride, and who act in an overly friendly manner when offended, are by nature melancholic or phlegmatic. Those who have an affected gentleness, a little bump on the nose, and sharp eyes are usually cunning.
 
@@ -91,7 +101,8 @@ Ask for advice from someone and his prudence, skill, etc. will be recognized. He
 
 Put little trust in one who promises easily, for he is a liar and deceiver.
 
-Judge someone to be a keeper of secrets if he never reveals the secrets of another to you out of any friendship - and so suborn such a person to entrust something to him, or to seek from him what you have entrusted: but they are more apt to disclose things to women, children, their beloved, and those they love as superior to themselves. If he reveals someone else's secret to you, entrust him with nothing, because he may have someone he loves as much as you.
+Judge someone to be a keeper of secrets if he never reveals the secrets of another to you, even in friendship. Convince a friend to entrust something to the individual you are testing, or have them try to obtain information from the individual that you have entrusted to them.
+However, be aware that people are more likely to disclose secrets to women, children, their beloved, and those they consider superior to themselves. If he reveals someone else's secret to you, entrust him with nothing, because he may have someone he loves as much as you.
 
 It will sometimes be helpful to intercept, read and resend the letters of one's subjects.
 
@@ -103,7 +114,7 @@ You will notice a false friend if a third party, instructed by you, reports to h
 
 The uneducated betray themselves by excessive elegance in their possessions, by the decoration of their walls, by their fastidiousness about their bed, or if something is said that is less than pure Latin, they laugh and show they noticed it.
 
-Beware of men of small stature; they are obstinate, factious, etc.
+Beware of men of small stature: they are obstinate and factious.
 
 You will test the harmony between friends in this way: disparage one of them by name in front of the other; then praise him - from the silence or lukewarm response you will discern the whole matter.
 
@@ -121,7 +132,7 @@ Those who know many languages are often of poor judgment, because an excess of m
 
 If someone suddenly displays great virtues, having previously been wicked, be suspicious.
 
-If you think someone will betray your words, speak some unique things in front of him, things you have said in front of no one else; if the saying is spread, you have found the informer.
+If you think someone will betray your words, speak some unique things in front of them, things you have said in front of no one else; if those specific details are later spread, you have found the informer.
 
 If others tell you their dreams, ask the frequent dreamer about different dreams, and after some discussion you will learn much about his secret mind. For example, if someone says he loves you, on another occasion fish for dreams; if he never dreams of you, his love is feigned.
 
@@ -145,53 +156,55 @@ To learn another's mind, suborn someone whom he loves, and through them you will
 
 As I begin this part of the discussion, I will explore various contexts without adhering to a strict order.
 
-### Gaining Favor from a Friend
+### Gaining Favor
 
-Determine what matters your friend cares about and tailor your gifts to his interests. Suitable items include mathematics books, optical instruments, microscopes, sundials, various mirrors, and other curiosities, as well as treatises on the secrets of nature, of which *Mizauld* offers many.
+Identify your friend's interests and choose gifts that align with them. Suitable items include mathematics books, optical instruments, microscopes, sundials, various mirrors, and other curiosities, as well as treatises on the secrets of nature, such as those written by *Mizauld*.
 
 Speak with him often, consult him, and ask for his advice, then follow it. But never lay yourself so bare that if he becomes your enemy, he can use it against you.
 
-Ask nothing of him that would be difficult to grant, especially where it touches upon issues of property or money.
+Do not ask him for favors that would be difficult to grant, especially those involving property or money.
 
-Congratulate him briefly but elegantly on feast days, birthdays, good health, etc.
+Congratulate him briefly but elegantly on special occasions such as feast days, birthdays, and when he recovers from illness.
 
-Seldom praise his virtues, but consistently ignore his vices.
+Praise his virtues sparingly, but consistently ignore his vices.
 
-Share your travels with him, relate praises others have spoken of him, and whisper everything in his ear, especially things said by his superiors.
+Share your travels with him, tell him about the praises others have spoken of him, and whisper everything in his ear, especially things said by his superiors.
 
-Never reveal his faults or vices, no matter how much he may ask. If he urges you, lest you seem distrustful, relate at most the mildest faults, or those he has openly acknowledged himself. For such things leave a bitter memory, no matter how they are said, especially if there is too much truth in them.
+Never reveal his faults or vices, no matter how much he may ask. If he insists and you fear appearing distrustful, mention only the mildest faults or those he has openly acknowledged himself. For such things leave a bitter memory, no matter how they are said, especially if there is too much truth in them.
 
 Have mutual acquaintances convey your greetings frequently, and send your own regards in letters.
 
-Never defend an opinion contrary to his, or if you have dared to differ, allow him to persuade you. Show that you have been swayed and conceal that you disagreed.
+Never defend an opinion contrary to your friend's. If you have dared to voice a differing opinion, allow your friend to persuade you. Show that you have been swayed and conceal your disagreement.
 
 Be liberal in giving him titles and eagerly offer services you will never need to fulfill.
 
-Do not seek to please anyone through their vices, or even through qualities that conflict with your status. If you are a clergyman, avoid excessive jesting, scurrility, deep drinking, etc. While these may win affection in the moment, they will eventually lead to contempt, ridicule, or even fierce hatred, though it may not arise immediately. Therefore, even if at times it may be expedient to stray beyond the bounds of virtue, let it be done without vice.
+Do not seek to please anyone by indulging their vices or engaging in behavior that conflicts with your status.
+For example, if you are a clergyman, avoid excessive jesting, vulgar humor, heavy drinking, and other inappropriate behaviors. While these may win affection in the moment, they will eventually lead to contempt, ridicule, or even fierce hatred, though it may not arise immediately.
+Therefore, even if at times it may be expedient to act in a less than virtuous manner, do so without engaging in outright vice.
 
-When you arrive somewhere new, first understand who enjoys favor with the master of the place, who has influence through faction and eloquence. Win their favor by any means, so that you may use their advice and influence in promoting matters, for such people will take some of the responsibility upon themselves when they give counsel.
+When you arrive somewhere new, first identify those who are favored by the master of the place and those who have influence through their faction and eloquence. Win their favor by any means, so that you can use their advice and influence in promoting your interests. These people will share some of the responsibility when they give counsel.
 
-If you wish to take revenge on someone, make him appear suspect to them and turn their envy to your cause.
+If you wish to take revenge on someone, make that person appear suspicious to your friend and turn your friend's envy to your cause.
 
-Never commit any crime at your master's behest, for even if you win his gratitude in the moment, he will thereafter view you as a critic, able to do to your master what you readily undertook at his command, a man of faith and virtue for sale. At least part from the reward for the deed as soon as it was done.
+Never commit any crime at your master's behest, for even if you win his gratitude in the moment, he will thereafter view you as a critic, able to do to your master what you readily undertook at his command, a man of faith and virtue for sale. At the very least, distance yourself from the reward for the deed as soon as it is done.
 
-Write letters praising a third party, then let them be lost and intercepted so they are found and reach the intended recipient.
+Write letters praising a third party, then deliberately allow them to be lost or intercepted so that they reach the third party you are praising.
 
-Many judge that what pleases them will also please others; therefore they act accordingly. You should instead prudently explore what is pleasing or displeasing to the other person.
+Many people assume that what pleases them will also please others, and they act accordingly. Instead, you should prudently explore the other person's preferences and dislikes, tailoring your actions to what pleases them.
 
 Address even your inferiors as brothers and preempt them with honors, provided they are of good character.
 
 Never provide pleasing things to the point of satiety, lest you induce nausea. Leave them wanting more, whether in games, conversation, etc.
 
-Never borrow from a friend, for if he cannot grant what you ask, it is offensive, and he will hate you; or if he reluctantly agrees, or receives back less than whole, he will resent it.
+Never borrow from a friend. If he cannot grant what you ask, it will offend him, and he will hate you. If he reluctantly agrees or receives back less than the full amount, he will resent it.
 
 Never buy from a friend, for if he sells dearly, you will be harmed; if cheaply, he will be.
 
 Treat even his lowliest servants well, otherwise they will gradually turn your friend's mind against you.
 
-Observe this at banquets: entrust servants with pretended secrets, even some that pertain to their office, show that you hold them in a special position.
+At banquets, foster loyalty among servants by entrusting them with fabricated secrets, even some related to their duties, and show that you hold them in a special position.
 
-If you deal familiarly with servants, they will hold you in contempt; if angrily, they will hate you; but with gentle gravity, they will revere you.
+If you are too familiar with servants, they will hold you in contempt. If you are angry with them, they will hate you. However, if you treat them with a calm, dignified manner, they will revere you.
 
 With free men, show benevolence, love, and courtesy. Do not allow them to stoop to humble services or extreme gestures of submission, such as kissing feet. Consider the greedy to be on the same level as slaves in terms of their disposition.
 
@@ -221,53 +234,51 @@ However far you advance in his favor, treat it no differently than if you were s
 
 ### Knowing Who is Someone's Friend
 
-When you praise someone, if the other person remains silent in response, it indicates that they are not a true friend.
-You can also tell that they are not a friend if they divert the conversation elsewhere, speak halfheartedly or reluctantly, diminish the praise, claim the story is inconsistent, or attribute part of the praise to others.
-If they know about a praiseworthy deed but do not add anything to enhance your praise, they are not a true friend.
+If you praise someone and a listener remains silent in response, it indicates that the listener is not truly the praised person's friend.
 
-Additionally, if they dismiss it as a chance occurrence, attribute it to God's extraordinary providence, claim that others have accomplished equal or greater feats, or suggest that it was achieved through the counsel of another, they are not a genuine friend.
+You can also tell that a person is not another's friend if they respond to your praise in certain ways. These include diverting the conversation elsewhere, speaking halfheartedly or reluctantly, diminishing the praise, claiming the story is inconsistent, attributing part of the praise to others, or failing to enhance your praise despite knowing about a praiseworthy deed.
+Other indications that a person is not a genuine friend include: dismissing a deed as a chance occurrence, attributing it to God's extraordinary providence, claiming that others have accomplished equal or greater feats, or suggesting that it was achieved through the counsel of another.
 
-Forge letters in a friend's name to him, in which you ask for something to be entrusted. Their response will reveal their true disposition towards the friend, whether favorable or not.
+To test a person's true disposition towards their friend, you may forge letters pretending to be from the friend and send them to that person, asking for something to be entrusted. The recipient's response to this request will reveal whether their disposition towards the friend is favorable or not.
 
-When greeting him, do so in the name of another friend, or mention that you heard someone speak ill of them. Observe their reaction and see what they add to the conversation.
+When greeting a person, do so in the name of another friend or mention that you heard someone speak ill of the person you are greeting. This will allow you to observe their reaction and see what they add to the conversation.
 
 ### Gaining Esteem and Reputation
 
-Never be certain that someone will keep a secret if you act or speak too freely or confidently in their presence, not even a child or servant. Instead, they will judge you by this action and describe you as such to others.
+Never assume that someone will keep a secret if you act or speak too freely or confidently in their presence, even if they are a child or servant. They will judge you by this action and describe you accordingly to others.
 
-Never assume that someone will excuse your questionable action. In fact, they will interpret it in the worst light. Therefore, do not allow yourself anything, even with only one witness.
+Never assume that someone will excuse your questionable behavior; in fact, they will likely interpret it in the worst possible way. To prevent this, avoid engaging in any actions that could be seen as questionable, even if there is only one witness.
 
 Do not relate how you were previously defamed or wronged, for you will only defame yourself further and there will be those who approve.
+When your actions are questioned, the saying "Excuse the intention if you cannot excuse the deed" does not apply. Others may claim that you acted wrongfully by accident, without thought, or that you deliberately sought out evil to test them.
 
-The saying of Bernard does not apply here: "Excuse the intention if you cannot excuse the deed", so that they may say you sinned by accident or thoughtlessly, or that you solicited evil to test them.
-
-At times, especially with talkative people, confidently entrust a secret and ask that they not reveal it to others, namely that you have great influence with the powerful, have correspondence with others, etc. Then, avoiding being seen by others, write letters to such powerful people, seal them, and show that you are then burning the replies which you, however, carelessly keep.
-
-What some hear only partially, they also distort. Thus, if anything like this happens, it must be read carefully.
+At times, particularly with talkative individuals, you can strategically share a secret, asking them not to reveal it to others. For example, confide that you have significant influence with powerful people or maintain correspondence with them. To support this claim, write letters to these powerful individuals out of sight, seal them, and make a show of destroying the replies you have carelessly kept. However, be cautious with this tactic, as people may distort information they only partially hear.
 
 Boast that you have never harmed anyone.
 
 If you have helped someone, especially in front of this person, say that you expect a crown from God for your good deeds. You can give examples invented on the spot to support your claim.
 
-Whatever is to be made public (even if it is the smallest thing), do it as perfectly as possible, because often an eternal opinion depends on a single act.
+Whatever is to be made public, no matter how small, do it as perfectly as possible, because often a long-lasting reputation depends on a single act.
 
 Never take on many things at once, because there is no glory in doing many things, only in perfecting one thing. I attest this from experience.
 
 It is always proper and useful to yield to the angry, the powerful, and relatives. Feign humility of mind, candor, generosity, and cheerfulness. Praise, give thanks, and readily offer yourself, even to the undeserving.
 
-The beginnings of things should be done with the highest counsel and labor, and with all certainty of success. As the first things go, so go all things, and fame once gained will coalesce errors themselves into glory.
+The beginnings of any endeavor should be approached with the highest level of advice and effort, and with a strong conviction in their success. The trajectory of the initial stages often determines the course of the entire endeavor, and once achieved, fame can turn even missteps into triumphs.
 
-If there is something you are obligated to do by your office, do not take it on at anyone's request, as it will diminish your intention toward the work you owe. Be certain that respect will be diminished, however much you have done and however many cares distracted you, if you are even slightly lacking in your duty, or even by the very fact that you took them on.
+If there is something you are obligated to do by your office, do not take it on at anyone's request, as it will diminish your commitment to your primary responsibilities. Remember, your reputation will suffer if you neglect your duties even slightly or simply because you took on additional tasks, regardless of your other accomplishments and the distractions you've managed.
 
-If you are going to negotiate affairs, do not admit a partner who is suitable and more practiced in them than you. If you are going to approach someone, do not have with you one who is more acceptable. If you are going to change office, do not allow notably better successors.
+When negotiating affairs, avoid partnering with someone more suitable or experienced than you. When approaching someone, do not bring along a companion who is more well-received or respected. When changing office, do not allow successors who are notably better than you.
 
-Have honors to your House be committed to print, disregarding any accompanying criticism. Whatever is written with truth and dedication will one day be read as plausible, while words fade with or before the speaker.
+Ensure that the honors and achievements of your family or lineage are recorded in print, disregarding any accompanying criticism. Whatever is written with truth and dedication will one day be regarded as plausible. In contrast, spoken words fade with or before the speaker.
 
-You will establish a reputation for knowledge in this way: From historical sciences, whatever you can obtain, put in one little book, and when you have leisure each month, reread it. Thus you will imprint the appearances of all things, and when necessary, you will show knowledge.
+You will establish a reputation for knowledge in this way: Compile a small book of historical facts and anecdotes, and reread it monthly during your leisure time. This will help you remember the information, allowing you to demonstrate your knowledge when necessary.
 
-Have many prepared formulas for responding, greeting, speaking, and whatever must be done suddenly.
+Have many prepared formulas for responding, greeting, speaking, and handling any situation that may arise unexpectedly.
 
-Some individuals debase themselves too much in order to be praised, or so that they may seem to be carried by fortune rather than worries; by natural talent instead of effort. They begin to neglect and despise themselves, often convincing others to regard them as lazy and feeble. You should allow those committed to religious life to behave in this manner.
+Some individuals debase themselves too much in order to be praised, or so that they may seem to be favored by luck rather than burdened by concerns, and to possess natural talent instead of relying on effort. They begin to neglect and despise themselves, often convincing others to regard them as lazy and feeble.
+
+You should allow those committed to religious life to behave in this manner.
 
 Never act to the full extent of your power, so that you may be believed to be unable to do anything more.
 

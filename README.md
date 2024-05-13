@@ -14,7 +14,7 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 * `clean_ocr.py` used to turn the 1701 OCRs into a single clean version of the text.
 * `translate_latin.y` used to translate the Latin text into English[^improvement].
 * `check_translation.py` used to double-check the translation against the Latin.
-* `check_readability.py` used to ensure that the text reads well.
+* `check_readability.py` used to ensure that the text reads well, works as an editor.
 * `markdown_to_hugo.py` used to turn a markdown file into a Hugo hierarchy of files and folders.
 
 To produce a `.epub` file for easy reading, run:
@@ -23,13 +23,8 @@ To produce a `.epub` file for easy reading, run:
 pandoc data/english.md -o breviarium.epub --toc --metadata title="Breviarium Politicorum" --metadata author="Mazarin" --metadata translator="Nestor D."
 ```
 
-[^improvement]: If this were to do again, I would provide the section text to be translated (extracted from the text) inside the prompt to reduce likelihood of translating too much / not enough as well as reduce mental load for the model.
+[^improvement]: If I were to do this again, I would provide the text of the section to be translated (extracted from the full text) inside the prompt to reduce likelihood of translating too much / not enough as well as reduce mental load for the model.
 
 ## TODO
 
-* check against Latin:
-* `first shake a wolf skin over them`
-* `Being too sharp in action is precarious.`
-* `Examine giving gifts and feasting as if they were hostile plans.`
-* `Admitting a secret is more difficult than holding captive an enemy plotting against your life.`
-* `Simulating Affections` might be mistitled, `Reigning in emotions`?
+* edit the full text for redeability

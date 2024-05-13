@@ -50,8 +50,6 @@ def check_readability(output_node:Markdown, english_node:Markdown, next_title:st
         prompt = build_prompt(english_node.content)
         # queries the model
         check = model.chat(prompt)
-        # simplifies Matching answers
-        if 'Readable' in check: check = 'Readable.'
         # displays and returns
         print(f"\n{check}\n")
         output_node.content = check

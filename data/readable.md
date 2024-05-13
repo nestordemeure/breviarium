@@ -10,59 +10,11 @@ Readable.
 
 ### Learn About Yourself
 
-* "What defects are evident in your conduct during various activities, such as dining, attending church, conversing with others, playing games, or engaging in other social interactions?"
-  * Problem: The sentence is lengthy and contains a long list of examples, which may be difficult for readers to process.
-  * Suggestion: "Reflect on any defects in your conduct during various activities, such as dining, attending church, conversing, playing games, or engaging in other social interactions."
-
-* "Examine all the parts of your body: is your eye too insolent, foot or head bent too far, forehead wrinkled, lips unkempt, gait too slow or fast?"
-  * Problem: The term "insolent" may not be easily understood by all readers in this context.
-  * Suggestion: "Examine all parts of your body: are your eyes too bold, foot or head bent too far, forehead wrinkled, lips unkempt, or gait too slow or fast?"
-
-* "As Tacitus noted, "the minds of mortals are pliable" during such moments."
-  * Problem: The quote is not properly attributed or contextualized.
-  * Suggestion: "As the Roman historian Tacitus noted, "the minds of mortals are pliable" during such moments."
-
-* "In what place, at what time, in what station, and with a person of what rank are you interacting?"
-  * Problem: The sentence contains repetitive phrasing ("what" appears four times), which may be awkward for readers.
-  * Suggestion: "Consider the place, time, situation, and the rank of the person with whom you are interacting."
-
-* "If you are provoked to the point of an outpouring of bile, say nothing, and show no sign of anger, provided you are in such circumstances where you can show your zeal to no purpose, and cannot satisfy yourself; but *pretend* that you are not injured in the least, and await a more opportune hour."
-  * Problem: The sentence is lengthy and contains complex clauses, making it difficult to follow.
-  * Suggestion: "If you are provoked to the point of anger, remain silent and show no sign of it, especially when you cannot effectively express your zeal or satisfy yourself. Instead, pretend that you are not offended and wait for a more opportune moment."
+Readeable.
 
 ### Learn About Others
 
-Here are some passages that could be improved for clarity and readability:
-
-* "Much can be learned about someone in sickness, drunkenness, when money is involved and gain or loss is at stake, in games and while traveling - when the doors of the mind are relaxed, the wild beasts more readily emerge from their dens."
-  * Problem: The sentence is long and hard to follow. The metaphor at the end is unclear.
-  * Suggestion: "Much can be learned about someone's true character in situations like sickness, drunkenness, financial dealings, games, and travel. In these circumstances, people let their guard down and their hidden flaws are more easily revealed."
-
-* "You will recognize what vices someone struggles with by this art: bring up in conversation the vices that most commonly occur and with which your friend is most likely to struggle; he will most fiercely attack and curse the vice with which he himself struggles."
-  * Problem: The sentence is long and the structure is complex, making it hard to follow the main point.
-  * Suggestion: "To recognize someone's vices, try this technique: In conversation, mention the most common vices that your friend is likely to struggle with. He will most fiercely attack and curse the very vice he himself is guilty of."
-
-* "Pretend you have knowledge of some matter and mention it in front of the person you think knows about it; he will reveal his own knowledge by correcting you."
-  * Problem: The use of "some matter" is vague and unspecific.
-  * Suggestion: "Pretend you have knowledge about a specific topic and mention it in front of the person you think is knowledgeable about it. He will reveal his own expertise by correcting you."
-
-* "You will test knowledge in this way, e.g. give an epigram to be read; if he praises it excessively and it is actually poor, he is a man of little poetic ability. If he praises it insofar as it is praiseworthy, he is a poet. Likewise bring up the subject of food and you will recognize a glutton. The same holds for other vices and virtues."
-  * Problem: The examples given are very specific and may not be relatable to a contemporary audience.
-  * Suggestion: "You can test someone's knowledge in a particular area by presenting them with an example of work in that field. If they praise a mediocre piece excessively, they likely have little ability in that area. If they offer measured praise based on the work's merits, they are probably skilled in that field. Similarly, you can identify vices and virtues by observing people's reactions to related topics."
-
-* "You can also sometimes play the doctor, mixing things into the food that will make them cheerful and talkative, etc."
-  * Problem: The suggestion to secretly drug someone's food is unethical and illegal in most contexts.
-  * Suggestion: Remove this sentence entirely, as it promotes behavior that is unacceptable by modern standards.
-
-* "Those who are scrupulous, gloomy, say many vocal prayers, have excessively short fingernails, and practice external mortifications without internal ones are also fantasizers."
-  * Problem: The connection between these traits and being a "fantasizer" is unclear and seems based on outdated stereotypes.
-  * Suggestion: Remove this sentence, as it relies on stereotypes and may not be relevant or accurate for a contemporary audience.
-
-* "You will catch out a braggart and boaster in this way: while he is enumerating his journeys, travels, military service, exploits, how many years he spent in this or that place - then add up the total of all the years; on another occasion ask him what year he began this, what year he finished. How many years his life spans - a great inconsistency will be evident."
-  * Problem: The sentence is long and the structure is complex, making it hard to follow the main point.
-  * Suggestion: "To catch a braggart in a lie, listen carefully when he boasts about his journeys, exploits, and the time spent on various activities. Later, ask him specific questions about the timeline of these events. If the total years he claims to have spent on these activities exceed his actual age, you will have exposed his inconsistency."
-
-These are just a few examples of passages that could be improved for better readability and clarity. The text would benefit from a thorough review to simplify complex sentences, remove outdated or unethical suggestions, and ensure that the main points are easy to grasp for a contemporary audience.
+Readable.
 
 ## Acting in Society
 
@@ -70,109 +22,17 @@ Readable.
 
 ### Gaining Favor
 
-Here are some passages that could be improved for clarity and readability:
-
-* "Determine what matters your friend cares about and tailor your gifts to his interests."
-  * Problem: The sentence structure is a bit awkward and unclear.
-  * Suggestion: "Identify your friend's interests and choose gifts that align with them."
-
-* "Suitable items include mathematics books, optical instruments, microscopes, sundials, various mirrors, and other curiosities, as well as treatises on the secrets of nature, of which *Mizauld* offers many."
-  * Problem: The reference to *Mizauld* is unclear without context.
-  * Suggestion: "Suitable items include mathematics books, optical instruments, microscopes, sundials, various mirrors, and other curiosities, as well as treatises on the secrets of nature, such as those offered by the author *Mizauld*."
-
-* "But never lay yourself so bare that if he becomes your enemy, he can use it against you."
-  * Problem: The phrase "lay yourself so bare" might be unclear to some readers.
-  * Suggestion: "But never reveal so much about yourself that if he becomes your enemy, he can use the information against you."
-
-* "Ask nothing of him that would be difficult to grant, especially where it touches upon issues of property or money."
-  * Problem: The phrase "where it touches upon" might be unclear to some readers.
-  * Suggestion: "Avoid asking him for favors that would be difficult to grant, especially those involving property or money."
-
-* "Seldom praise his virtues, but consistently ignore his vices."
-  * Problem: The sentence might be misinterpreted as encouraging insincere behavior.
-  * Suggestion: "Praise his virtues sparingly, and tactfully avoid drawing attention to his vices."
-
-* "Share your travels with him, relate praises others have spoken of him, and whisper everything in his ear, especially things said by his superiors."
-  * Problem: The phrase "whisper everything in his ear" might be unclear or seem overly intimate.
-  * Suggestion: "Share your travels with him, tell him about the praises others have spoken of him, and discreetly share information, especially things said by his superiors."
-
-* "Never reveal his faults or vices, no matter how much he may ask. If he urges you, lest you seem distrustful, relate at most the mildest faults, or those he has openly acknowledged himself."
-  * Problem: The sentence is long and complex, making it harder to follow.
-  * Suggestion: "Never reveal his faults or vices, no matter how much he may ask. If he insists and you fear appearing distrustful, mention only the mildest faults or those he has openly acknowledged himself."
-
-* "For such things leave a bitter memory, no matter how they are said, especially if there is too much truth in them."
-  * Problem: The phrase "such things" is unclear without more context.
-  * Suggestion: "Revealing someone's faults leaves a bitter memory, no matter how they are said, especially if there is too much truth in them."
-
-* "Never defend an opinion contrary to his, or if you have dared to differ, allow him to persuade you. Show that you have been swayed and conceal that you disagreed."
-  * Problem: The sentence might be interpreted as encouraging dishonesty or insincerity.
-  * Suggestion: "Avoid defending opinions contrary to his. If you have expressed a different view, be open to his persuasion and acknowledge if he has changed your mind."
-
-* "Do not seek to please anyone through their vices, or even through qualities that conflict with your status. If you are a clergyman, avoid excessive jesting, scurrility, deep drinking, etc."
-  * Problem: The term "scurrility" might be unfamiliar to some readers.
-  * Suggestion: "Do not seek to please anyone by indulging their vices or engaging in behavior that conflicts with your status. For example, if you are a clergyman, avoid excessive jesting, vulgar humor, heavy drinking, etc."
-
-These suggestions aim to improve clarity and readability while maintaining the original meaning of the text. Please let me know if you need further assistance or have any other questions!
+Readable.
 
 ### Knowing Who is Someone's Friend
 
-Here are some passages that could be improved for clarity and readability:
-
-* "When you praise someone, if the other person remains silent in response, it indicates that they are not a true friend."
-  * Problem: The use of "the other person" is ambiguous, as it's unclear whether it refers to the person being praised or someone else.
-  * Suggestion: "When you praise someone, if they remain silent in response, it indicates that they are not a true friend."
-
-* "You can also tell that they are not a friend if they divert the conversation elsewhere, speak halfheartedly or reluctantly, diminish the praise, claim the story is inconsistent, or attribute part of the praise to others."
-  * Problem: The sentence is quite long and contains multiple ideas, which may be difficult for readers to follow.
-  * Suggestion: "You can also tell that they are not a friend if they: divert the conversation elsewhere, speak halfheartedly or reluctantly, diminish the praise, claim the story is inconsistent, or attribute part of the praise to others."
-
-* "If they know about a praiseworthy deed but do not add anything to enhance your praise, they are not a true friend."
-  * Problem: The phrase "add anything to enhance your praise" may be unclear to some readers.
-  * Suggestion: "If they know about a praiseworthy deed but do not contribute further compliments or positive remarks, they are not a true friend."
-
-* "Forge letters in a friend's name to him, in which you ask for something to be entrusted. Their response will reveal their true disposition towards the friend, whether favorable or not."
-  * Problem: The use of "him" and "their" in the same sentence is confusing, as it's unclear who "him" and "their" refer to.
-  * Suggestion: "Forge letters in a friend's name to another person, in which you ask for something to be entrusted. The recipient's response will reveal their true disposition towards your friend, whether favorable or not."
-
-* "When greeting him, do so in the name of another friend, or mention that you heard someone speak ill of them. Observe their reaction and see what they add to the conversation."
-  * Problem: The use of "him," "them," and "their" in the same sentence is confusing, as it's unclear who each pronoun refers to.
-  * Suggestion: "When greeting a person, do so in the name of a friend, or mention that you heard someone speak ill of that friend. Observe the person's reaction and see what they add to the conversation."
+Readable.
 
 ### Gaining Esteem and Reputation
 
-Here is a list of passages that could be improved, along with suggestions:
-
-* "Never be certain that someone will keep a secret if you act or speak too freely or confidently in their presence, not even a child or servant. Instead, they will judge you by this action and describe you as such to others."
-  * Problem: The second sentence is unclear and lacks a clear referent for "they" and "such".
-  * Suggestion: "Never assume that someone will keep a secret if you act or speak too freely or confidently in their presence, not even a child or servant. They will judge your character based on your actions and words, and will describe you accordingly to others."
-
-* "The saying of Bernard does not apply here: "Excuse the intention if you cannot excuse the deed", so that they may say you sinned by accident or thoughtlessly, or that you solicited evil to test them."
-  * Problem: The sentence is long and convoluted, making it difficult to understand the main point.
-  * Suggestion: "In this case, Bernard's saying, "Excuse the intention if you cannot excuse the deed," does not apply. Others may claim that you sinned accidentally, thoughtlessly, or that you sought out evil to test them."
-
-* "At times, especially with talkative people, confidently entrust a secret and ask that they not reveal it to others, namely that you have great influence with the powerful, have correspondence with others, etc. Then, avoiding being seen by others, write letters to such powerful people, seal them, and show that you are then burning the replies which you, however, carelessly keep."
-  * Problem: The passage is long and contains multiple ideas, making it difficult to follow.
-  * Suggestion: "Sometimes, particularly with talkative individuals, you can strategically share a secret, asking them not to reveal it to others. For example, confide that you have significant influence with powerful people or maintain correspondence with them. Then, discreetly write letters to these powerful individuals, seal them, and make a show of burning the replies, which you actually keep without much concern for secrecy."
-
-* "What some hear only partially, they also distort. Thus, if anything like this happens, it must be read carefully."
-  * Problem: The connection between the two sentences is unclear, and "it" lacks a clear referent.
-  * Suggestion: "People often distort information they hear only partially. Therefore, if you encounter such a situation, carefully review the original source to ensure accuracy."
-
-* "Never take on many things at once, because there is no glory in doing many things, only in perfecting one thing. I attest this from experience."
-  * Problem: The use of "I" in the second sentence is inconsistent with the rest of the text and may confuse the reader.
-  * Suggestion: "Never take on many things at once, because there is no glory in doing many things, only in perfecting one thing. This advice is attested by experience."
-
-* "If there is something you are obligated to do by your office, do not take it on at anyone's request, as it will diminish your intention toward the work you owe. Be certain that respect will be diminished, however much you have done and however many cares distracted you, if you are even slightly lacking in your duty, or even by the very fact that you took them on."
-  * Problem: The second sentence is long and complex, making it difficult to understand the main point.
-  * Suggestion: "If there is something you are obligated to do by your office, do not take it on at anyone's request, as it will diminish your commitment to your primary responsibilities. Remember that even if you have accomplished much and dealt with numerous distractions, your reputation will suffer if you neglect your duties in the slightest or simply because you took on additional tasks."
-
-* "Have honors to your House be committed to print, disregarding any accompanying criticism. Whatever is written with truth and dedication will one day be read as plausible, while words fade with or before the speaker."
-  * Problem: The meaning of "House" in this context may be unclear to some readers.
-  * Suggestion: "Ensure that the honors and achievements of your family or lineage are recorded in print, disregarding any accompanying criticism. Whatever is written with truth and dedication will one day be regarded as plausible, while spoken words fade with or before the speaker."
+Revisit: `You should allow those committed to religious life to behave in this manner.`
 
 ### Finding More Time for Business
-
-Here are some passages that could be improved for clarity and readability:
 
 * "Allocate the smallest periods of time to the smallest tasks, and do not spend more time than required on any task to complete it properly."
   * Problem: The sentence is long and contains multiple clauses, which may be difficult to follow.
@@ -191,8 +51,6 @@ Here are some passages that could be improved for clarity and readability:
   * Suggestion: "Avoid tasks that offer little benefit or recognition but demand significant effort. Do not engage in time-consuming, useless tasks for anyone's sake."
 
 ### Acquiring Gravity
-
-Here are some passages that I believe require further work to improve readability and clarity for a contemporary audience:
 
 * "Do not easily make promises or concessions."
   * Problem: The meaning of "concessions" in this context is unclear.
@@ -232,8 +90,6 @@ Here are some passages that I believe require further work to improve readabilit
 
 ### Reading and Writing
 
-Here are a few passages that could be improved for better readability and clarity:
-
 * "If you are writing in a public place, pretend to be copying from another document. Hold up a sheet of paper so others can see it, while keeping your actual writing hidden. Cover your work with a book or another sheet of paper, or position the raised paper so that only the line you've copied is visible to anyone who approaches."
   * Problem: The instructions are a bit convoluted and may be difficult to follow.
   * Suggestion: "When writing in a public place, conceal your actual work by pretending to copy from another document. Hold up a sheet of paper to obscure your writing, or cover your work with a book or another sheet of paper. Alternatively, position the raised paper so that only the line you've seemingly copied is visible to anyone who approaches."
@@ -247,8 +103,6 @@ Here are a few passages that could be improved for better readability and clarit
   * Suggestion: "When writing secrets, use your own handwriting unless you are employing ciphers that are easily decipherable by others, such as those found in Trithemius' *Polygraphia*. In such cases, having someone else write for you can provide better concealment. Be cautious, as using indecipherable ciphers may raise suspicion and lead to interception, unless you are a skilled writer."
 
 ### Giving Gifts and Favors
-
-Here are some passages that could be improved for clarity and readability:
 
 * "A teacher should not teach their student everything they know, so that the student still has the desire to learn more."
   * Problem: The reasoning is unclear and the analogy to the parent-child and master-servant relationships is not immediately apparent.
@@ -394,8 +248,6 @@ Here are some passages that could be improved for clarity and readability:
 
 ### Uncovering Secrets
 
-Here are a few passages that could be improved for clarity and readability:
-
 * "Overcome by kindness, especially if you grease their palms with gold, they will disclose everything (the same can be achieved through boys, but with risk)."
   * Problem: The phrase "grease their palms with gold" might not be immediately understood by all readers as a metaphor for bribery. The reference to "boys" is unclear and the meaning of "with risk" is not specified.
   * Suggestion: "By treating them kindly and offering them money, they will likely tell you everything you want to know. (You can also gather information by engaging young men, but this comes with certain risks.)"
@@ -409,8 +261,6 @@ Here are a few passages that could be improved for clarity and readability:
   * Suggestion: "Despite these tactics, it is crucial to always keep your promises to everyone. Failing to do so will cause them to lose trust in you."
 
 ### Discerning the Intention Behind Someone's Words
-
-Here are some passages that could be improved for better readability and clarity:
 
 * "First, consider his reasons and determine if they align with his stated actions, his usual behavior, or the actions of which he is suspected. Also, observe whether they act more fervently or more remissly than usual."
   * Problem: The pronoun "they" is used without a clear antecedent, making it unclear who is being referred to.
@@ -468,8 +318,6 @@ Here are some passages that could be improved for better readability and clarity
 
 ### Encouraging Others to Act
 
-Here are a few passages that could be improved for better readability:
-
 * "To encourage someone to act, take responsibility for any potential losses, such as goods or property, and offer specific rewards in return."
   * Problem: The sentence is quite long and contains multiple ideas, which may be difficult for readers to follow.
   * Suggestion: "To motivate someone to take action, offer specific rewards and guarantee compensation for any potential losses, such as damage to their goods or property."
@@ -497,11 +345,7 @@ Here are a few passages that could be improved for better readability:
 
 7. "On each or certain days, have hours in which you premeditate how to act if this or that should happen." - The phrase "this or that" is vague. Consider providing examples of the types of situations one should premeditate on.
 
-Overall, the translation would benefit from simplifying complex sentences, explaining unfamiliar terms, and providing more context for abstract concepts. These changes would make the text more accessible and engaging for a wider audience.
-
 ### Acting Cautiously
-
-Here is a list of passages that may require further work to improve readability and clarity for a contemporary, wide audience:
 
 1. "trust no one unless you suspect them" - This phrase seems contradictory. Consider rephrasing or clarifying the intended meaning.
 
@@ -519,11 +363,7 @@ Here is a list of passages that may require further work to improve readability 
 
 8. "Have shutters on the insides of windows, and let the part where they meet the windows be black, so that it cannot be discerned whether the window is closed or not." - The purpose of this advice is unclear. Provide additional context or consider removing it if not essential to the overall message.
 
-Overall, the translation would benefit from simplifying some sentence structures, clarifying ambiguous phrases, and providing additional context where needed to ensure better understanding for a wide, contemporary audience.
-
 ### Getting Rid of an Ungrateful Guest
-
-Here are a few passages that could be improved for better readability and clarity:
 
 * "Have a pre-arranged signal with a servant, so that when he receives a sign from you, he calls you away as if for urgent business, whispering in your ear or sending a messenger with letters, or announcing that harm has been done, or that there are disturbances among your subjects."
   * Problem: The sentence is long and contains multiple clauses, making it difficult to follow.
@@ -536,6 +376,8 @@ Here are a few passages that could be improved for better readability and clarit
 * "Provide a bedroom, but in a bed made for this purpose with windows, and where it will rain, open them. The fireplace should be blocked so that it smokes; the furnace should be lit at first."
   * Problem: The sentence structure is confusing, and it is unclear what "made for this purpose" means in the context of the bed.
   * Suggestion: "When providing a bedroom, use a bed with windows. If it starts raining, open the windows. Block the fireplace so that it smokes, and initially light the furnace."
+
+Revisit `first shake a wolf skin over them`
 
 ### Conversing with Others
 
@@ -573,8 +415,6 @@ Here are a few passages that could be improved for better readability and clarit
 
 ### Avoiding Ambushes
 
-Here are some passages that could be improved for clarity and readability:
-
 * "Pretend to have a quarrel with a friend, so that your enemy suspects it is a real quarrel and reveals their true feelings, wishing to take advantage of the situation."
   * Problem: The sentence is long and complex, making it difficult to follow.
   * Suggestion: "Stage a quarrel with a friend to trick your enemy into believing it's real. This may prompt your enemy to reveal their true feelings as they attempt to exploit the situation."
@@ -597,8 +437,6 @@ Here are some passages that could be improved for clarity and readability:
 
 ### Acquiring and Retaining Money
 
-Here are a few passages that could be improved for better readability and clarity:
-
 1. "Do not be lavish with them, such as allowing pieces of bread, food, or oats for horses to go to waste."
    * Suggestion: "Avoid being wasteful with resources, such as allowing bread, food, or horse feed to go to waste."
 
@@ -619,8 +457,6 @@ Here are a few passages that could be improved for better readability and clarit
 
 ### Gaining and Conferring Honors
 
-Here are some passages that I believe would benefit from further clarification or revision to improve readability for a contemporary, wide audience:
-
 1. "First persuade that it is necessary to confer honor that is such as you yourself describe through the circumstances." - This sentence is unclear. Consider rephrasing it to clarify the meaning, such as: "First, persuade others that it is necessary to bestow honor in a manner that you yourself define through the circumstances."
 
 2. "Strive for good and clear counsel and do many things that are pleasing to the public, such as the construction of public buildings, toward the poor, and those things that can be done without increasing the sudden taxes." - The phrase "toward the poor" seems out of place. Consider revising to: "Strive for good and clear counsel and do many things that are pleasing to the public, such as the construction of public buildings, providing aid to the poor, and implementing measures that can be done without suddenly increasing taxes."
@@ -635,8 +471,6 @@ Here are some passages that I believe would benefit from further clarification o
 
 ### Responding to Requests
 
-Here are some passages that might benefit from further clarification or revision to improve readability for a contemporary, non-specialist audience:
-
 1. "The nature of the common people is to fly, die, or languish on impulse." - This metaphorical language may be unclear. Consider rephrasing or providing context.
 
 2. "Hence, if they ask for something unjust, do not refuse immediately, but put them off with splendid reasons and some favors." - The term "splendid reasons" is vague. Consider using more specific language or examples.
@@ -650,8 +484,6 @@ Here are some passages that might benefit from further clarification or revision
 6. "Announce that if anyone asks through himself, you will grant it, but deny it to him if he arranges it through others. In the future, let everything be denied." - The shift from granting requests to denying everything in the future may be confusing. Consider providing more context or explanation for this change in approach.
 
 ### Assuming Various Affections
-
-Here are a few passages that could be improved for clarity and readability:
 
 1. "Compile for yourself examples of affections from the Poets, such as the *Palace of Eloquence* provides, and practice those you need until you have absorbed them."
    * Clarify what "affections" means in this context.
@@ -1124,8 +956,6 @@ Here are a few passages that could be improved for clarity and readability:
 
 ### Simulating Affections
 
-Here are a few passages that could be improved for clarity and readability:
-
 * "If you display affections for an extended time in public, people will eventually oppose your actions."
   * Problem: The term "affections" is vague and may not be easily understood by a contemporary audience.
   * Suggestion: "If you openly display strong emotions or personal feelings for too long, people will eventually oppose your actions."
@@ -1141,6 +971,8 @@ Here are a few passages that could be improved for clarity and readability:
 * "By doing so, no one will be able to discern your true feelings of anger or happiness, no matter how closely they observe you."
   * Problem: The sentence is clear, but it could be more concise.
   * Suggestion: "By doing so, you will conceal your true feelings of anger or happiness from even the most attentive observers."
+
+Rename `Reigning in emotions`?
 
 ### Avoiding Lending Money
 
@@ -1273,8 +1105,6 @@ Overall, the translation would benefit from simplifying sentence structures, pro
 
 ## Axioms
 
-Here are some passages that could be improved for better readability and clarity:
-
 * "It is dangerous in a community if one person becomes too powerful."
   * Problem: The sentence lacks specificity and context.
   * Suggestion: "In any community, it is dangerous when a single individual acquires excessive power."
@@ -1302,6 +1132,12 @@ Here are some passages that could be improved for better readability and clarity
 * "Admitting a secret is more difficult than holding captive an enemy plotting against your life."
   * Problem: The comparison between admitting a secret and holding a captive enemy may not be immediately clear to readers.
   * Suggestion: "Revealing a secret can be more dangerous than imprisoning an enemy who threatens your life."
+
+Revisit:
+
+* `Being too sharp in action is precarious.`
+* `Examine giving gifts and feasting as if they were hostile plans.`
+* `Admitting a secret is more difficult than holding captive an enemy plotting against your life.`
 
 ## Summary
 

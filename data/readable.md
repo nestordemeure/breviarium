@@ -54,94 +54,19 @@ Readable.
 
 ### Admonishing
 
-1. "Begin by relating other matters, then exaggerate and condemn the deeds about which you wish to admonish, adding other circumstances, lest the listener realize he is being rebuked."
-   * Clarify what "other matters" and "other circumstances" refer to.
-   * Simplify the sentence structure for easier comprehension.
-
-2. "Often tell the listener to be of good mind and cheerful, mixing in jests. If he becomes sad, ask the cause, then at the end append everything else, even speaking about remedies in the abstract."
-   * Clarify what "everything else" refers to.
-   * Explain what "remedies in the abstract" means.
-
-3. "If someone knows he is suspected by you of some vice, put him in charge of secret matters, but not with risk. In order not to remove your suspicion of him, he will carry out the task with his whole heart. Therefore, it is sometimes expedient to show yourself as suspicious."
-   * Clarify what "secret matters" and "risk" refer to.
-   * Simplify the sentence structure and establish clearer connections between the ideas.
-
-4. "If you reprove headstrong youths who fall into illicit acts, you will only inflame them more. Therefore, it is better to await their repentance or satiety."
-   * Consider replacing "satiety" with a more commonly understood term or phrase.
-
-5. "If it happens that you must change tactics, do not abruptly shift from harsh to gentle."
-   * Provide more context or examples to illustrate what "tactics" and "harsh to gentle" refer to.
-
-6. "With cold people, one must act openly and incite fear; with fervent people, act cautiously and gently."
-   * Define or provide examples of what "cold people" and "fervent people" mean in this context.
+Readable.
 
 ### Avoiding Deception
 
-1. "Give moderate trust to prudent men, because they too greatly understate what concerns their prerogatives; and because they put too favorable an interpretation on the reputation of others."
-   * Clarify what "prerogatives" means in this context.
-   * Consider rephrasing for easier comprehension, e.g., "Be cautious when trusting prudent men, as they may downplay matters concerning their own privileges and be overly generous in interpreting the reputations of others."
-
-2. "They will not admit if anyone has spoken ill of you in their presence, nor from whom you should beware, nor with what vices they struggle."
-   * Clarify who "they" refers to (presumably the prudent men).
-   * Consider splitting the sentence into two for better readability.
-
-3. "From one you fear may make complaints against you, raise a disturbance, or do something along those lines in your absence - keep him with you under the guise of friendship, in entertainments, hunting, at table, in conversation, in military service, etc."
-   * The sentence is quite long and complex. Consider breaking it into two sentences or using a colon instead of a dash.
-   * Clarify what "something along those lines" refers to.
-
-4. "Thus, to prevent neighboring nations from rebelling while you are entangled in another war, bring their leading men with you to the war with a small force, from which no treachery can be feared, as if they were most faithful."
-   * Consider rephrasing for clarity, e.g., "To prevent neighboring nations from rebelling while you are engaged in another war, bring their leaders with you to the war, accompanied by a small, trustworthy force, as if they were your most faithful allies."
-
-5. "It will be useful to have a mirror in front of you while you sit at table or write, so that you may see what is being done behind your back."
-   * This sentence is clear and readable.
+Readable.
 
 ### Preserving Health
 
-1. "Pay attention here to avoid deficiencies or excesses in food, in terms of both quantity and quality, as well as in clothing with respect to heat and cold."
-   * Suggestion: "Be mindful to avoid eating too little or too much, and ensure that your food is of good quality. Dress appropriately for the weather, avoiding excessive heat or cold."
-
-2. "Repletion and evacuation are the sources of diseases; let motion and rest be moderate, and the passions of the mind not unbridled."
-   * Clarification needed: The terms "repletion" and "evacuation" might not be familiar to a wide audience. Consider using simpler terms or providing a brief explanation.
-   * Suggestion: "Overindulgence and extreme deprivation can lead to illness. Engage in moderate physical activity and rest, and keep your emotions in check."
-
-3. "Do not dwell near swamps or even rivers."
-   * Clarification needed: Explain why dwelling near swamps or rivers should be avoided.
-
-4. "One should not pursue serious business for more than two hours at a time, but at intervals allow for some relaxation of the mind."
-   * Suggestion: "Avoid engaging in serious work for more than two hours at a stretch. Take regular breaks to relax and refresh your mind."
-
-5. "Use Venus moderately in whatever state you remain, and do so according to the requirements of your own constitution."
-   * Clarification needed: The term "Venus" might not be immediately understood as referring to sexual activity. Consider using a more explicit term or providing context.
-   * Suggestion: "Engage in sexual activity moderately, according to your own physical and emotional needs, regardless of your marital status."
+Readable.
 
 ### Avoiding Envy
 
-1. "Do not speak of anyone lowly or base, and do not give signs; if you scorn someone with a remark, continue the conversation as if it were nothing."
-   * Clarify what "give signs" means in this context.
-   * Rephrase the second part for clarity, e.g., "If you make a scornful remark about someone, continue the conversation as if nothing happened."
-
-2. "Beware of sudden splendor, because it dazzles the eyes before they become accustomed to beholding it."
-   * Consider rephrasing using more contemporary language, e.g., "Be cautious of sudden fame or glory, as it can overwhelm people before they become accustomed to it."
-
-3. "If you have the author of some odious deed, do not offer yourself to fresh hatred, nor do anything by which you may seem to approve of the deed, take glory in it, or mock those injured."
-   * Clarify what "have the author" means in this context.
-   * Rephrase for clarity, e.g., "If you know the perpetrator of a deplorable act, do not invite new hatred upon yourself by appearing to approve of the deed, glorifying it, or mocking those who were harmed."
-
-4. "Do not entrust to any of the servants either the right of individuals over others, or deal with him in such a way that you seem to act in common, especially if he is hated by the others, nor at least is he to be extolled with rewards, unless his virtue is clear to all, so that it may be an incitement."
-   * Break this long sentence into shorter, clearer sentences.
-   * Clarify the meaning of "the right of individuals over others" and "act in common."
-
-5. "E.g. the Tribunes, because discipline is lax, so that they may notice there is need for correction, and a harsh one at that, yet the manner is not prescribed, for they will sink to harsher things, by which they may avenge themselves, and they will give you the opportunity to show benevolence to appellants."
-   * Rephrase this passage to clarify its meaning and context, as it seems to be a part of the previous point.
-
-6. "Refer your good outcomes and successes to someone else's good, as if you had acted by their aid, auspices, or counsel."
-   * Consider rephrasing "someone else's good" to "someone else's contributions" for clarity.
-
-7. "If you are compelled to pass an envious sentence, resort to an ambiguous manner of speaking, e.g. arguments for both sides, but be more serious for the one you intend, and seem to conclude for the other, or omit the conclusion."
-   * Clarify what "pass an envious sentence" means in this context.
-
-8. "The places over which others preside, their fields, workshops, stables, etc. and places where they can see they are being observed. Do not go to these places of your own accord."
-   * Rephrase this passage as two separate sentences for clarity.
+Readable.
 
 ### Uncovering Secrets
 

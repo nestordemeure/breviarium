@@ -14,7 +14,7 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 * `clean_ocr.py` used to turn the 1701 OCRs into a single clean version of the text.
 * `translate_latin.y` used to translate the Latin text into English[^improvement].
 * `check_translation.py` used to double-check the translation against the Latin.
-* `check_readability.py` used to ensure that the text reads well, works as an editor.
+* `check_readability.py` used to ensure that the text reads well, works as an editor[^edit].
 * `markdown_to_hugo.py` used to turn a markdown file into a Hugo hierarchy of files and folders.
 
 To produce a `.epub` file for easy reading, run:
@@ -25,8 +25,12 @@ pandoc data/english.md -o breviarium.epub --metadata title="Breviarium Politicor
 
 [^improvement]: If I were to do this again, I would provide the text of the section to be translated (extracted from the full text) inside the prompt to reduce likelihood of translating too much / not enough as well as reduce mental load for the model.
 
+[^edit]: If I were to redo this, I would emphasize that the edit process should (while making the text accessible) preserve the flavor and texture of the 17th century original. Also keeping the emphasis on `will` rather than `may`.
+
 ## TODO
 
 * edit the full text for readability
 * do a full read through in another format
 * add footnotes were relevant
+
+* produce new translation from latin+translation in order to preserve more of the 17th century flavor?

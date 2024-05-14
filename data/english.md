@@ -438,98 +438,106 @@ If someone wants to snatch from you an honor that you seek, send someone to him 
 
 ### Admonishing
 
-Begin by relating other matters, then exaggerate and condemn the deeds about which you wish to admonish, adding other circumstances, lest the listener realize he is being rebuked.
+To reprimand someone without them realizing it, begin by discussing unrelated topics. Then, subtly exaggerate and criticize the actions you want to address.
+To obscure the fact that you are reprimanding them, add other details to the conversation. Additionally, frequently encourage them to be positive and cheerful, and include some jokes to lighten the mood.
+If they become sad, inquire about the reason. After discussing their emotional state, add all the other points you want to make at the end, even discussing potential solutions in a general sense.
 
-Often tell the listener to be of good mind and cheerful, mixing in jests. If he becomes sad, ask the cause, then at the end append everything else, even speaking about remedies in the abstract.
+If someone is aware that you suspect them of a certain vice, assign them to handle confidential matters, but without putting anything important at risk. To dispel your suspicion, they will execute the task with great dedication. Hence, it can sometimes be beneficial to appear suspicious.
 
-If someone knows he is suspected by you of some vice, put him in charge of secret matters, but not with risk. In order not to remove your suspicion of him, he will carry out the task with his whole heart. Therefore, it is sometimes expedient to show yourself as suspicious.
-
-If you reprove headstrong youths who fall into illicit acts, you will only inflame them more. Therefore, it is better to await their repentance or satiety.
+Scolding stubborn young people who engage in forbidden actions will only encourage them further. Instead, wait for their remorse or for them to grow tired of their behavior.
 
 If it happens that you must change tactics, do not abruptly shift from harsh to gentle.
 
-With cold people, one must act openly and incite fear; with fervent people, act cautiously and gently.
+When dealing with emotionally distant people, be direct and instill fear. However, when dealing with passionate people, proceed cautiously and gently.
 
 ### Avoiding Deception
 
-Give moderate trust to prudent men, because they too greatly understate what concerns their prerogatives; and because they put too favorable an interpretation on the reputation of others.
-They will not admit if anyone has spoken ill of you in their presence, nor from whom you should beware, nor with what vices they struggle.
+Be cautious when trusting prudent men. They may minimize issues related to their own duties and be too generous when judging the reputations of others.
+They will not reveal if anyone has spoken badly about you in their presence, nor whom you should be wary of, or what vices they themselves struggle with.
 The same is true of priests when they praise their penitents, because they can say nothing but good about them, no less than parents about their children.
 
-From one you fear may make complaints against you, raise a disturbance, or do something along those lines in your absence - keep him with you under the guise of friendship, in entertainments, hunting, at table, in conversation, in military service, etc.
-Thus, to prevent neighboring nations from rebelling while you are entangled in another war, bring their leading men with you to the war with a small force, from which no treachery can be feared, as if they were most faithful.
+If you fear someone may complain about you, cause trouble, or do something along those lines in your absence, keep them close to you. Engage them in activities under the guise of friendship, such as entertainments, hunting, dining, conversation, or military service.
+Thus, to prevent neighboring nations from rebelling while you are engaged in another war, bring their leaders with you, accompanied by a small, trusted force, as if they were your most loyal allies.
 
 It will be useful to have a mirror in front of you while you sit at table or write, so that you may see what is being done behind your back.
 
 ### Preserving Health
 
-Pay attention here to avoid deficiencies or excesses in food, in terms of both quantity and quality, as well as in clothing with respect to heat and cold. Avoid distress in sleep, work, and location, and do not praise places that are excessively high. Repletion and evacuation are the sources of diseases; let motion and rest be moderate, and the passions of the mind not unbridled.
+Avoid eating too little or too much, and ensure that your food is of good quality.
+
+Dress appropriately for the weather, avoiding excessive heat or cold.
+
+Avoid sleeping, working, or living in uncomfortable or stressful environments.
+
+Do not spend too much time in high altitudes.
+
+Overeating and irregular bowel movements are the sources of diseases. Engage in moderate physical activity and rest, and keep your emotions under control.
 
 Do not dwell near swamps or even rivers.
 
 The windows of your bedroom should face more to the North and East than to the South.
 
-One should not pursue serious business for more than two hours at a time, but at intervals allow for some relaxation of the mind.
+Avoid engaging in serious work for more than two hours at a stretch. Take regular breaks to relax and refresh your mind.
 
-Foods should be well-prepared and such that they can be obtained anywhere.
+Consume well-prepared foods that can be obtained everywhere.
 
-Use Venus moderately in whatever state you remain, and do so according to the requirements of your own constitution.
+Engage in sexual activity moderately and do so according to your own physical needs, regardless of your marital status.
 
 ### Avoiding Envy
 
-Do not act as a witness because you will offend one side or the other.
+Avoid acting as a witness in disputes. Doing so will inevitably offend one side or the other.
 
-Do not speak of anyone lowly or base, and do not give signs; if you scorn someone with a remark, continue the conversation as if it were nothing.  
+Do not speak poorly of anyone, and do not show disdain through your gestures. If you make a scornful remark about someone, continue the conversation as if nothing happened.
 
-In the presence of others, show no singular favor to anyone, because others, thinking themselves despised, will begin to hate.
+In the presence of others, do not show special favor to anyone. If you do, those who are not favored will feel despised and begin to hate you.
 
-Beware of sudden splendor, because it dazzles the eyes before they become accustomed to beholding it.
+Be cautious of sudden fame or glory, as people can become overwhelmed before they grow accustomed to it.
 
-Do not accuse those things which are pleasing to the common people, whether vices or customs.
+Do not criticize or condemn the vices or customs that are pleasing to the common people.
 
-If you have the author of some odious deed, do not offer yourself to fresh hatred, nor do anything by which you may seem to approve of the deed, take glory in it, or mock those injured. These greatly increase envy. It is better to be absent and pass over the deed in silence.
+If you know the perpetrator of a hateful act, do not expose yourself to new hatred. Avoid appearing to approve of the deed, taking glory in it, or mocking those who were harmed. Such actions greatly increase envy. It is better to be absent and remain silent about the deed.
 
-Introduce nothing new in dress, appearance, or banquets.
+Avoid introducing novelties in your attire, appearance, or the banquets you host.
 
-If you make laws, do not show distrust of virtue, but compel all to act uniformly.  
+When making laws, do not imply that people lack virtue. Instead, compel all to act uniformly.
 
-Give reasons for things to satisfy everyone, but only after the fact, lest you be hindered.
+Provide explanations for your actions to satisfy everyone, but only after you have taken action, to avoid being obstructed or delayed.
 
-Have it as a universal principle, but very justly, to speak neither well nor ill of anyone, no matter how much.
-Do not report good or bad deeds; perhaps there will be a friend of the third party to whom you relate it, and so you will offend. And your words, increased for the worse, will at some point come to the one of whom you speak.
+Make it a universal principle to speak neither positively nor negatively about anyone, not even a little.
+Do not report good or bad deeds, as the person you are speaking to may be a friend of the one you are discussing, and you may inadvertently offend them. Your words, possibly distorted and exaggerated, will eventually reach the person you are speaking about.
 If you praise, perhaps the third party who hears will be less of a friend of the praised, and so he will become your enemy.
-It is better, however, to know much, to see and hear, and to find this out, but circumspectly; for it is offensive to know that something is being sought about oneself, hence it must be sought in such a way that you do not seem to be seeking.
+However, it is better to be well-informed by observing and listening carefully. Be discreet in your inquiries, as people may take offense if they realize you are seeking information about them. Gather knowledge in a way that does not look like you are seeking.
 
-One must beware of a certain excessive generosity, for it seems that someone is being despised; as if you were to say that you have soldiers in a sack, you are not seeking them, etc.
+Be cautious of excessive generosity, as it may give the impression that you consider yourself superior to others. Similarly, if you claim to have an abundance of resources or support, it may seem that you do not value or need the help of others.
 
-Do not boast that you will proceed more strictly and rigidly by law than your predecessors, for this alienates friends; even if you do this by right, propose only those intentions you know to be pleasing.
+Avoid boasting that you will enforce the law more strictly and rigidly than your predecessors, as this may alienate friends. Even if you have the right to do so, only propose changes that you know will be well-received.
 
-Do not entrust to any of the servants either the right of individuals over others, or deal with him in such a way that you seem to act in common, especially if he is hated by the others, nor at least is he to be extolled with rewards, unless his virtue is clear to all, so that it may be an incitement.
+Do not give any servant authority over others or deal with them in a way that suggests you are acting together, especially if they are disliked by the others. Do not praise or reward them unless their virtue is evident to all, as this may encourage others to emulate them.
 
-If some severity must be done to your people, it should be carried out through others, and as if not by your command; so that if those affected complain, you can diminish it, and accuse those who did it, as if they were the sole authors of the severity.
-E.g. the Tribunes, because discipline is lax, so that they may notice there is need for correction, and a harsh one at that, yet the manner is not prescribed, for they will sink to harsher things, by which they may avenge themselves, and they will give you the opportunity to show benevolence to appellants.
+If it becomes necessary to treat your people with severity, have others carry out the actions. Make it appear as though they are acting independently of your command. This way, if those affected complain, you can minimize the severity and blame those who executed it, as if they were solely responsible.
+For example, if discipline is lax, allow others, such as the Tribunes, to notice the need for correction and carry out harsh measures without specific instructions from you. They may resort to even harsher actions to avenge themselves, giving you the opportunity to show benevolence to those who appeal to you.
 
-Whatever one has earned full glory from harshness, attribute everything to him, because thus it will return to you in full measure and without envy, and not doing this will itself be a glory.
+When someone else has earned glory through harsh actions, give them full credit. This way, you will receive the benefits without provoking envy. Doing so can also be seen as a form of glory.
 
-Refer your good outcomes and successes to someone else's good, as if you had acted by their aid, auspices, or counsel.
+Attribute your good outcomes and successes to the influence, guidance, or advice of others. Act as if you had their support and wisdom.
 
 In success, claim nothing for yourself.
 
-Let your interactions, table, and clothing remain the same, and change them only in a certain way.
+Let your interactions, table, and clothing remain the same. If changes are necessary, make them subtly and gradually.
 
-If someone must be punished, lead them to confess their own guilt, or commit the judgment to another who is secretly ordered by you to pass a harsh sentence, which you may then soften.
+If someone must be punished, either lead them to confess their own guilt or delegate the judgment to another person. Secretly order this person to pass a harsh sentence, which you can then soften to appear merciful.
 
 Do not insult the vanquished, nor your antagonist, and even if you conquer him, do not proclaim yourself the victor in deeds or words. Be content with true victory.
 
-If you are compelled to pass an envious sentence, resort to an ambiguous manner of speaking, e.g. arguments for both sides, but be more serious for the one you intend, and seem to conclude for the other, or omit the conclusion.
+If you must make a decision that may provoke envy, use ambiguous language. Present arguments for both sides, emphasizing the one you prefer. However, appear to conclude in favor of the other side or avoid stating a conclusion altogether.
 
-If someone asks you to intercede, promise, and at the same time show that the matter is not in your hands and may perhaps turn out otherwise.
+If someone asks you to intercede, promise to do so, but simultaneously indicate that the matter is not entirely within your control and the outcome may not be favorable.
 
-If vengeance is to be taken through another or an unknown person, order the injured party to grant pardon to the offender, but secretly allow him to flee as soon as possible.
+If vengeance is to be taken through another or an unknown person, order the injured party to grant pardon to the offender, but secretly allow the offender to flee as soon as possible.
 
 If parents are quarreling, do not readily adhere to either side, but find business to be absorbed in, so you may be excused by both sides, and neither will know you are not on their side, even if you show no special friendship to either.
 
-Do not be deemed the author of any new laws, especially adverse ones, point to superiors and the one who rules.
+Do not be seen as the author of any new laws, especially adverse ones. Instead, attribute them to your superiors and the ruler.
 
 Be rare in public, readily report trivial matters to your superior, and do not boast of his friendship.
 
@@ -547,9 +555,7 @@ Do not deal openly with those who are hated by all, nor suggest advice to them.
 
 Never let it be known you were in a council in which hated things are believed to be done even against enemies, although you can be the author from afar.
 
-Do not find fault with anyone's deeds, do not criticize, do not inspect the duties of others.
-
-The places over which others preside, their fields, workshops, stables, etc. and places where they can see they are being observed. Do not go to these places of your own accord.
+Do not find fault with anyone's deeds, do not criticize, do not inspect the duties of others. The places over which others preside, their fields, workshops, stables, etc. and places where they can see they are being observed. Do not go to these places of your own accord.
 
 Inquire very cautiously from servants and boys about their masters.
 

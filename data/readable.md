@@ -70,170 +70,39 @@ Readable.
 
 ### Uncovering Secrets
 
-* "Overcome by kindness, especially if you grease their palms with gold, they will disclose everything (the same can be achieved through boys, but with risk)."
-  * Problem: The phrase "grease their palms with gold" might not be immediately understood by all readers as a metaphor for bribery. The reference to "boys" is unclear and the meaning of "with risk" is not specified.
-  * Suggestion: "By treating them kindly and offering them money, they will likely tell you everything you want to know. (You can also gather information by engaging young men, but this comes with certain risks.)"
-
-* "Set Servants against each other, so they will betray each other's secrets."
-  * Problem: The capitalization of "Servants" is inconsistent with the rest of the text and may confuse readers.
-  * Suggestion: "Set servants against each other, so they will betray each other's secrets."
-
-* "However, always keep your promises to everyone, or they will lose trust in you."
-  * Problem: The use of "however" at the beginning of the sentence might not effectively convey the contrast between this advice and the previous suggestions, which seem to encourage deception.
-  * Suggestion: "Despite these tactics, it is crucial to always keep your promises to everyone. Failing to do so will cause them to lose trust in you."
+revisit [`through boys`]
 
 ### Discerning the Intention Behind Someone's Words
 
-* "First, consider his reasons and determine if they align with his stated actions, his usual behavior, or the actions of which he is suspected. Also, observe whether they act more fervently or more remissly than usual."
-  * Problem: The pronoun "they" is used without a clear antecedent, making it unclear who is being referred to.
-  * Suggestion: "First, consider a person's reasons and determine if they align with their stated actions, usual behavior, or the actions of which they are suspected. Also, observe whether the person acts more fervently or more reservedly than usual."
-
-* "If he is not acting on his own behalf, or if he suddenly changes opinion with fervor, it will be a sign he has received bribes."
-  * Problem: The sentence structure is a bit confusing, and the term "fervor" might not be easily understood by a wide audience.
-  * Suggestion: "If a person is not acting on their own behalf, or if they suddenly change their opinion with intense enthusiasm, it may be a sign that they have received bribes."
-
-* "Similarly, if their arguments that are too elaborate, subtle, far-fetched, contrary to nature, or frivolous, and yet fervently pursues the cause, it is a sign they are not acting on their own behalf."
-  * Problem: The sentence is long and convoluted, making it difficult to follow. The subject "they" is also unclear.
-  * Suggestion: "Similarly, if a person presents arguments that are too elaborate, subtle, far-fetched, contrary to nature, or frivolous, and yet they fervently pursue the cause, it is a sign that they are not acting on their own behalf."
-
-* "Send someone to deal with him confidently in the name of friendship and to frankly inquire about the cause. Then he will betray everything else."
-  * Problem: The term "deal with" is vague and might be misinterpreted. The pronoun "he" is also unclear, as it could refer to either the person being sent or the person being inquired about.
-  * Suggestion: "Send someone to approach the person confidently in the name of friendship and to frankly inquire about the cause. In doing so, the person being questioned may reveal everything else."
+Readable.
 
 ### Avoiding Offense
 
-1. "If you have shown yourself more difficult or less free to someone in granting some request, take care not to show yourself liberal in a similar matter, however inferior or equal, within any period of time."
-   * Clarify what "liberal" means in this context.
-   * Rephrase "however inferior or equal" to be more specific.
-
-2. "If you begin something new that offends the eyes of others or the Prince, lead him to see the fault as an example, and the envy will be mitigated by the multitude."
-   * Clarify who "him" refers to (the Prince or others).
-   * Explain how "the envy will be mitigated by the multitude."
-
-3. "If you are believed to be the author of hateful counsels, do some good things openly among the people, such as remitting tributes, punishments, etc., especially to those who are accepted by the people."
-   * Clarify what "hateful counsels" means.
-   * Explain "those who are accepted by the people."
-
-4. "When you are about to impose new laws, show the necessity, and deliberate with the prudent about establishing it; or at least let there be a rumor that you used their counsel, and thus you are more prudent. Then, rejecting their advice, impose other laws by your own judgment."
-   * Clarify who "the prudent" refers to.
-   * Rephrase the last sentence to make the meaning clearer.
-
-5. "It happens that if someone comes to a new place, he may too freely extol the old ways and persons. You should be cautious in the common error."
-   * Explain what "the common error" is.
-
-6. "Even if you feel the contrary, follow the more lax opinion, whether in matters of conscience or in others, yet preach the stricter one."
-   * Clarify what "feel the contrary" means.
-   * Explain the difference between "lax" and "stricter" opinions.
-
-7. "Thus, in the presence of no one should you reveal your opinion about another in any confidence."
-   * Rephrase to clarify the meaning, possibly: "Similarly, never reveal your opinion about another person in confidence, regardless of who is present."
-
-8. "If someone is going to do something pleasing to you, e.g. congratulate, greet, etc., show that it is most pleasing to you. Otherwise, you will overturn it in the future."
-   * Clarify what "overturn it" means in this context.
-
-9. "As much as you can, allow yourself to be defeated by your lord in games, in which the contest is always about glory, not about any loss to you. Thus you are strong if you conquer other men, even if you are conquered by your lord alone."
-   * Rephrase to make the meaning clearer and more concise.
-
-10. "To one boasting of his wealth, strength, dexterity in leaping, counsel, aid—do not act in a way that suggests you are not enjoying it. If you know his ignorance, feign ignorance yourself."
-    * Clarify what "it" refers to in "enjoying it."
-    * Explain what "feign ignorance yourself" means in this context.
+Readable
 
 ### Encouraging Others to Act
 
-* "To encourage someone to act, take responsibility for any potential losses, such as goods or property, and offer specific rewards in return."
-  * Problem: The sentence is quite long and contains multiple ideas, which may be difficult for readers to follow.
-  * Suggestion: "To motivate someone to take action, offer specific rewards and guarantee compensation for any potential losses, such as damage to their goods or property."
-
-* "For example, before a battle, a commander should announce compensation for specific injuries, that he will cover their losses in goods and baggage; meanwhile, he should place a strong garrison in the camp, lest concern for it distract the soldiers' minds."
-  * Problem: The sentence is very long and contains multiple clauses, making it challenging to follow. The use of "lest" may be unfamiliar to some readers.
-  * Suggestion: "For instance, before a battle, a commander should:
-     1. Announce compensation for specific injuries.
-     2. Guarantee coverage of losses in goods and baggage.
-     3. Place a strong garrison in the camp to prevent soldiers from being distracted by concerns about its safety."
+Readable.
 
 ### Acquiring Prudence
 
-1. "Freely attribute to others the glory of accomplishments, even if you have brought them a great monument. It will return to you, and indeed with interest - that is, without envy." - The meaning of "monument" in this context is unclear. Consider rephrasing or clarifying the metaphor.
-
-2. "The rhetoricians should be reread from time to time; they suggest ways of stirring up envy, retorting, excusing, diminishing, etc." - The term "rhetoricians" might not be familiar to a wide audience. Consider explaining the term or using a more common word.
-
-3. "Ambiguity must be sought, so that from our statements it may indeed be made clear to both parties, yet nothing concluded; for necessity sometimes compels this. According to Nazianzus, Aristotle wrote his opinions using this art." - This passage is complex and might be difficult for readers to grasp. Consider breaking it down into simpler sentences and providing more context about Nazianzus and Aristotle.
-
-4. "Indeed, a digression will be made from this place, or amphibology, either by wishing, imploring, or declaring your affection through some rhetorical mode." - The term "amphibology" is likely unfamiliar to many readers. Consider explaining the term or using a simpler word.
-
-5. "If you are an ambassador and deal with an enemy, write down for your leader whatever gift you receive from him, so that you may be held free from suspicion of infidelity. Apply this to other cases as well." - The meaning of "infidelity" in this context might be unclear. Consider clarifying the type of infidelity being referred to (e.g., political, personal, etc.).
-
-6. "Often have mixed counselors (for it is rare to find temperate ones) - one cold, the other fiery, one gentle and the other harsh." - The terms "cold," "fiery," "gentle," and "harsh" might be too abstract in this context. Consider using more specific descriptions of the counselors' characteristics.
-
-7. "On each or certain days, have hours in which you premeditate how to act if this or that should happen." - The phrase "this or that" is vague. Consider providing examples of the types of situations one should premeditate on.
+[Aristote note](https://en.wikipedia.org/wiki/Syntactic_ambiguity#:~:text=Aristotle%20writes%20about%20an%20influence%20of%20ambiguities%20on%20arguments%20and%20also%20about%20this%20influence%20depending%20on%20either%20combination%20or%20division%20of%20words%3A)
 
 ### Acting Cautiously
 
-1. "trust no one unless you suspect them" - This phrase seems contradictory. Consider rephrasing or clarifying the intended meaning.
-
-2. "a certain *generosity*, we are unwilling to indiscriminately tell the truth to anyone or correct their errors and habits" - The connection between generosity and not correcting others' errors is unclear. Rephrase or provide additional context.
-
-3. "Entrust a secret to no one, because there is no one who cannot become an enemy after an hour." - The meaning of "after an hour" is ambiguous. Consider rephrasing or providing context.
-
-4. "Do not assume that anyone will interpret your deed favorably; there are scarcely two such interpreters in the world." - The reference to "two such interpreters" is unclear. Clarify or rephrase.
-
-5. "Either dissemble the vices of others or excuse them; close off your own affections or assume their opposites." - The meaning of "close off your own affections or assume their opposites" is unclear. Rephrase or provide additional context.
-
-6. "Act nothing for the sake of appearances, unless you are ready to give a reason for it, because people, not waiting for it, will condemn your deeds." - The phrase "not waiting for it" is ambiguous. Clarify or rephrase.
-
-7. "If you are pressured by games, hunting, and Venus and carried away by passions, forbid them to yourself altogether, otherwise you are about to commit many things incautiously." - The reference to "Venus" might be unclear to some readers. Consider rephrasing or providing context.
-
-8. "Have shutters on the insides of windows, and let the part where they meet the windows be black, so that it cannot be discerned whether the window is closed or not." - The purpose of this advice is unclear. Provide additional context or consider removing it if not essential to the overall message.
+Readable.
 
 ### Getting Rid of an Ungrateful Guest
-
-* "Have a pre-arranged signal with a servant, so that when he receives a sign from you, he calls you away as if for urgent business, whispering in your ear or sending a messenger with letters, or announcing that harm has been done, or that there are disturbances among your subjects."
-  * Problem: The sentence is long and contains multiple clauses, making it difficult to follow.
-  * Suggestion: "Arrange a signal with your servant beforehand. When they receive the signal from you, they should call you away as if for urgent business. They can do this by whispering in your ear, sending a messenger with letters, or announcing that harm has been done or that there are disturbances among your subjects."
-
-* "Give oats to his horses, but first shake a wolf skin over them. Provide a stable, but where a wolf's carcass has been buried."
-  * Problem: It is unclear who "his" refers to, and the purpose of shaking a wolf skin over the oats or burying a wolf's carcass in the stable is not explained.
-  * Suggestion: "If you are providing oats for someone's horses, first shake a wolf skin over the oats. This will [explain the purpose or effect]. Similarly, if you are providing a stable, bury a wolf's carcass in it beforehand. This will [explain the purpose or effect]."
-
-* "Provide a bedroom, but in a bed made for this purpose with windows, and where it will rain, open them. The fireplace should be blocked so that it smokes; the furnace should be lit at first."
-  * Problem: The sentence structure is confusing, and it is unclear what "made for this purpose" means in the context of the bed.
-  * Suggestion: "When providing a bedroom, use a bed with windows. If it starts raining, open the windows. Block the fireplace so that it smokes, and initially light the furnace."
 
 Revisit `first shake a wolf skin over them`
 
 ### Conversing with Others
 
-1. "Some people's conversations are pleasing to no one at first, but gradually become sweeter, and their prudence does not immediately come forth as if from a vestibule." - The metaphor "as if from a vestibule" might be unclear. Consider rephrasing or removing it.
-
-2. "Others are immediately prudent and learned, but bring a longer delay, and shamefully fail either in judgment or in consequences." - The meaning of "bring a longer delay" is unclear. Clarify what this delay refers to.
-
-3. "Be a rare guest, lest you become commonplace; in your conversations, consume the material with which you know someone to be affected, praising it." - The phrase "consume the material" might be confusing. Consider rephrasing, e.g., "focus on topics that interest your conversational partner."
-
-4. "Consider the time, whether it is unsuitable; those who prevail by faction or favor, by whatever means, strive to make them your friends, intent on every occasion, premeditating, for example, if someone should constrain you with a remark in some gathering, conceive in some way a sting for pretending, responding calmly with words, and certainly persuade yourself that you will show yourself outwardly such as you have formed yourself inwardly." - This sentence is very long and complex. Break it into smaller, more manageable sentences and clarify the meaning of "a sting for pretending."
-
-5. "If you must speak of a third party, let his name be unspoken, indeed the place, time, and all circumstances, lest perhaps the one passing by, if he should hear, may be able to guess of whom there is talk; things which are told with difficulty and are considered fictitious, even if they are most true, never utter again." - Break this into two separate sentences for clarity.
-
-6. "Display sincerity in those things which, if divulged, will bring you no harm or praise, e.g., entrusted virtues, and not fictitious ones." - Provide a clearer example of "entrusted virtues" to help readers understand the concept.
-
-7. "Be rare with the talkative, who have everything in their mouth." - The phrase "have everything in their mouth" might be confusing. Consider rephrasing, e.g., "who openly discuss everything."
+Readable.
 
 ### Joking
 
-1. "Include nothing obscene in your words or deeds (for this is the way of buffoons), and do not imitate the voices of birds or other animals."
-   * The connection between obscenity and imitating animal voices is unclear. Consider separating these ideas into two sentences or clarifying the relationship between them.
-
-2. "A joke should never contain truths that the other person would blush at, defects of nature or character, for they leave a bitter memory."
-   * The phrase "defects of nature or character" is a bit unclear. Consider rephrasing it to something like "personal flaws or shortcomings."
-
-3. "Also, do not relate another's misfortunes, whether present or absent; these are to be heard, not told."
-   * The meaning of "whether present or absent" is ambiguous. Does it refer to the person experiencing the misfortunes or the person relating them? Clarify this point.
-   * The phrase "these are to be heard, not told" is a bit cryptic. Consider rephrasing it to something like "it is better to listen to others' misfortunes than to share them."
-
-4. "For honest and pleasant conversation, read authors who relate events full of interest, and even poets, so that you may learn to mingle emotions."
-   * The term "mingle emotions" is unclear. Consider rephrasing it to something like "express a range of emotions" or "incorporate emotional depth into your conversations."
-
-5. "Never act too freely or commit anything reprehensible in another's presence, no matter how close the relationship."
-   * The phrase "act too freely" is a bit vague. Consider providing examples or rephrasing it to something like "avoid overly familiar or inappropriate behavior."
+Readable.
 
 ### Avoiding Ambushes
 

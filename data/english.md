@@ -571,69 +571,71 @@ Do not act toward those not subject to you in ways that seem to be exerting juri
 
 ### Uncovering Secrets
 
-Engage even people of low status in conversation. Overcome by kindness, especially if you grease their palms with gold, they will disclose everything (the same can be achieved through boys, but with risk).
+Engage even people of low status in conversation. Overcome by kindness, especially if you grease their palms with gold, they will likely tell you everything you want to know. (You can also gather information by engaging young men, but this comes with certain risks.)
 
-Set Servants against each other, so they will betray each other's secrets.
+Set servants against each other, so they will betray each other's secrets.
 
-However, always keep your promises to everyone, or they will lose trust in you.
+However, it is crucial to always keep your promises to everyone. Failing to do so will cause them to lose trust in you.
 
 Do not act on information without verifying it first.
 
 ### Discerning the Intention Behind Someone's Words
 
-First, consider his reasons and determine if they align with his stated actions, his usual behavior, or the actions of which he is suspected. Also, observe whether they act more fervently or more remissly than usual.
+First, examine a person's motives and assess whether they are consistent with their claimed actions, typical behavior, or the actions they are suspected of committing.
+Additionally, note if the person is acting more passionately or more cautiously than they typically do.
 
-If he is not acting on his own behalf, or if he suddenly changes opinion with fervor, it will be a sign he has received bribes.
+If a person is not acting in their own interest, or if they abruptly change their stance with great zeal, it may indicate that they have been bribed.
 
-If after the reasons have been well refuted he does not acquiesce, he is not acting in those ways.
+If a person does not agree after their stated reasons have been thoroughly disproven, they are not genuinely motivated by those reasons.
 
-Similarly, if their arguments that are too elaborate, subtle, far-fetched, contrary to nature, or frivolous, and yet fervently pursues the cause, it is a sign they are not acting on their own behalf.
+Likewise, if someone offers excessively complex, subtle, implausible, unnatural, or trivial arguments while passionately advocating for a cause, it indicates that they are not acting in their own interest.
 
-If on different occasions, when promoting the same thing, he alleges different reasons, neglecting the former ones; because we tend to forget arguments that do not originate from our own thoughts.
+If an individual advocates for the same position on multiple occasions but offers different justifications each time, disregarding their previous reasons, it is likely because people often struggle to remember arguments that do not stem from their own ideas.
 
-Send someone to deal with him confidently in the name of friendship and to frankly inquire about the cause. Then he will betray everything else.
+Send someone to approach the person confidently in the name of friendship and to frankly inquire about the cause. This will uncover the person's true motivations.
 
 ### Avoiding Offense
 
-If you have shown yourself more difficult or less free to someone in granting some request, take care not to show yourself liberal in a similar matter, however inferior or equal, within any period of time. Otherwise, you will either excite distrust toward yourself or hatred between them.
+If you have been reluctant or less generous in granting someone's request, be careful not to be overly generous to others in a similar situation for some time afterward, even if it seems minor.
+Otherwise, you will either arouse distrust towards yourself or incite hatred between the parties involved.
 
-Never increase severity toward those you govern unless you also increase favors at the same time, for you will either incur hatred or contempt. But if you increase both, you will mix love with fear.
+Never increase severity toward those you govern unless you also increase rewards or benefits at the same time; otherwise, you will either incur hatred or contempt. If you increase both severity and rewards, you will mix love with fear.
 
-If you begin something new that offends the eyes of others or the Prince, lead him to see the fault as an example, and the envy will be mitigated by the multitude.
+If you introduce something new that offends others or your superior, present it as a common occurrence, and the widespread nature of the fault will lessen the envy towards you.
 
-If you are believed to be the author of hateful counsels, do some good things openly among the people, such as remitting tributes, punishments, etc., especially to those who are accepted by the people.
+If you are believed to be the source of an unpopular policy, openly perform good deeds among the people, such as reducing taxes or punishments, especially for those well-liked by the public.
 
-If you are planning something unusual, first meet secretly with a theologian, etc., and win him over to your side, so that they may publicly advise, promote, and even compel you to do the same.
+If you are planning something unusual, first meet secretly with a theologian or another influential figure and win this person over to your side, so that they may publicly advise, promote, and even compel you to follow through with your plan.
 
-When you are about to impose new laws, show the necessity, and deliberate with the prudent about establishing it; or at least let there be a rumor that you used their counsel, and thus you are more prudent. Then, rejecting their advice, impose other laws by your own judgment.
+When you are about to impose new laws, demonstrate their necessity and deliberate with the prudent about establishing them. Alternatively, let there be a rumor that you sought their counsel, making you appear more prudent. You can then, rejecting their advice, impose other laws by your own judgment.
 
-Do not procure a wife, maidservant, etc. for anyone, or persuade them to a certain state of life.
+Do not procure a wife, maidservant, or other personal roles for anyone, or persuade them to a certain state of life.
 
 Beware of acting as the executor of a will.
 
 If you are in someone's retinue while he is organizing and commanding his household, be present indeed, but do not suggest or assist with the methods.
 
-It happens that if someone comes to a new place, he may too freely extol the old ways and persons. You should be cautious in the common error.
+When someone comes to a new place, they may too freely praise the old ways and people. Be cautious not to fall into this common mistake.
 
-Even if you feel the contrary, follow the more lax opinion, whether in matters of conscience or in others, yet preach the stricter one.
+Even if you personally disagree, follow the more lenient opinion in matters of conscience or other areas, while publicly advocating for the more stringent position.
 
 In the presence of no one should you show that you have power over superiors or have obtained a favor.
 
-Thus, in the presence of no one should you reveal your opinion about another in any confidence.
+In the presence of no one should you reveal your opinion about another in any confidence.
 
-Always soothe a superior with profit, in whatever office you may be.
+Always please a superior by generating profit or benefits, regardless of your position.
 
 It is better to be somewhat, or at least apparently, lax with subjects rather than strict.
 
-If you hear that a presumed friend has spoken ill of you, do not reproach him. You will make an enemy of one who until now was indifferent.
+If you hear that a presumed friend has spoken ill of you, do not reproach them. You will make an enemy of someone who, until now, was indifferent.
 
 Do not wish to know all the secrets of the great. If it happens to be divulged from elsewhere, suspicion will oppress you.
 
 If someone is going to do something pleasing to you, e.g. congratulate, greet, etc., show that it is most pleasing to you. Otherwise, you will overturn it in the future.
 
-If someone does not keep his word or deed as promised, do not reproach him. You will gain nothing but hatred.
+If someone does not keep their word or deed as promised, do not reproach them. You will gain nothing but hatred.
 
-As much as you can, allow yourself to be defeated by your lord in games, in which the contest is always about glory, not about any loss to you. Thus you are strong if you conquer other men, even if you are conquered by your lord alone.
+As much as you can, allow yourself to be defeated by your lord in games, in which the contest is always about glory, not about any loss to you. Thus, you are strong if you conquer others, even if you are conquered by your lord alone.
 
 In whatever familiarity you may have with your lord, never forget reverence and submission. Otherwise, he will think that familiarity breeds contempt.
 
@@ -667,7 +669,7 @@ Do not occupy yourself with useless matters that will be of no future use.
 
 Finally, do not entangle yourself in the affairs of others.
 
-Freely attribute to others the glory of accomplishments, even if you have brought them a great monument. It will return to you, and indeed with interest - that is, without envy.
+Freely give others credit for accomplishments, even if you have greatly contributed to the project. By doing so, you will receive even greater recognition in return, without inciting envy.
 
 Beware of anger and revenge.
 
@@ -681,86 +683,84 @@ Do nothing simply to rival others.
 
 Avoid lawsuits, even sometimes at your own loss.
 
-Never show your precious or easily sought-after possessions to anyone.  
+Never show your valuable or highly desirable possessions to anyone.
 
 If someone incites you to do something, see that they offer themselves as a partner in the risk.
 
-If an exhortation, request, or similar matter is to be made, and some business is to be undertaken, first read and seek judgments and similar cases in histories, so that you may be informed.
+Before making a request, offering advice, or undertaking any business, research similar cases and historical judgments to guide your decisions.
 
 The rhetoricians should be reread from time to time; they suggest ways of stirring up envy, retorting, excusing, diminishing, etc.
 
-Ambiguity must be sought, so that from our statements it may indeed be made clear to both parties, yet nothing concluded; for necessity sometimes compels this. According to Nazianzus, Aristotle wrote his opinions using this art.
+Strive for ambiguity in your statements, making your position appear clear to both parties without committing to a definite conclusion. This technique of double meaning, as employed by Aristotle according to Nazianzus, can be useful in various situations.
+Use this technique in books, in odious letters and counsel, presenting arguments for both sides of an issue while minimally revealing your own position.
+In addition to using ambiguous language, you can express your desires, make requests, or declare your affection through rhetorical techniques.
 
-Use this genre in books and in odious letters, counsel, forming reasons for both sides by way of discourse, but minimally declaring to which side you adhere or should adhere. Indeed, a digression will be made from this place, or amphibology, either by wishing, imploring, or declaring your affection through some rhetorical mode.
+Allow others to criticize you, even if their claims are false. Do not defend yourself, as this will encourage them to continue. Instead, show appreciation for useful advice.
 
-Allow yourself to be admonished, even about false things, and do not excuse yourself, because no one will then admonish you, but rather demonstrate every affection for what is useful.
+Ignore useless remarks, but acknowledge some, even if they are false. This will make you appear flexible and not overly concerned with being right all the time.
 
-Allow useless remarks to pass by; acknowledge some, even if they are false, so that you may appear flexible and not everywhere afflicted by error.
+Train yourself to always be able to provide arguments for both sides of an issue; to accomplish this, study the techniques of rhetoricians and their methods of justification.
 
-Train yourself in this, to always be able to give reasons for both sides; to this end, read the modes of the rhetoricians and apologies.
-
-If you are an ambassador and deal with an enemy, write down for your leader whatever gift you receive from him, so that you may be held free from suspicion of infidelity. Apply this to other cases as well.
+If you are an ambassador dealing with an enemy, document any gifts you receive from them and report it to your leader. This will protect you from suspicion of disloyalty. Apply this principle of transparency to other situations as well.
 
 Do not send as an ambassador one who is averse to you, because he will give contrary advice and himself desires to rule.
 
-Often have mixed counselors (for it is rare to find temperate ones) - one cold, the other fiery, one gentle and the other harsh. Consult them, and thus you will arrive at the best advice.
+Seek out diverse counselors, as it is rare to find well-balanced individuals. Have one cautious counselor, another passionate, one gentle, and another harsh. By consulting them, you will arrive at the best advice.
 
-Always pay attention to which side fortune is turning or can turn, and have even the least servants of the ruler, and even the greater ones, on your side.
+Always pay attention to who is gaining or losing favor, and ensure that servants of the ruler from the least to the greatest are on your side.
 
 On each or certain days, have hours in which you premeditate how to act if this or that should happen.
 
-Concerning servants and friends, keep a diary whose pages are assigned to each person, divided into four columns:
+To keep track of your relationships with servants and friends, maintain a ledger with a page for each person. This will help you address any grievances and recognize their contributions effectively.
+Divide the page into four columns to record the following:
 
 1. Note the losses received from that person, how often he failed in his duty.
 2. What good you conferred on him with your labor.
 3. What he accomplished for you.
 4. What trouble he received from you, and what extraordinary labors.
 
-Thus you will have everything at hand against complaints and for glory.
-
 Put these rules into practice each day in conversation.
 
-Whether you receive correction from a superior justly or unjustly, always excuse him in the presence of others and speak well of him.
+Whether you receive correction from a superior justly or unjustly, always refrain from criticizing them in the presence of others and speak well of them."
 
 As much as possible, promise nothing to anyone in writing, especially to women.
 
 That which you are drawn to by the greatest passion and desire, avoid if you can, or at least adhere to it most cautiously.
 
-Your affairs, even if they are most firm, never suffer from being further secured as much as possible.
+Even if your affairs are on solid ground, it never hurts to take additional measures to secure them as much as possible.
 
 Reflect on your own action after it has passed, and on another's - what it lacked, when it could have been seized, when it could have been better instituted, etc.
 
 ### Acting Cautiously
 
-There are two parts to being a cautious man: *cautious trust*, acting on guard in the presence of friends (since many friendships exist to deceive), trust no one unless you suspect them.
-The other is a certain *generosity*, we are unwilling to indiscriminately tell the truth to anyone or correct their errors and habits, instead a pretense of this is indeed preferred, but it is scarcely harmless.
+Being cautious involves two aspects: *cautious trust* and a certain *generosity*. *Cautious trust* means being on guard even with friends, as some friendships exist to deceive, and trusting no one without reason to suspect them. *Generosity*, in this context, means refraining from indiscriminately telling the truth or correcting others' errors and habits, while maintaining a pretense of doing so, although this is not entirely harmless.
 
-Entrust a secret to no one, because there is no one who cannot become an enemy after an hour.
+Entrust a secret to no one, because anyone can become an enemy at any moment.
 
-Do nothing when distracted by life's joys, or you will err or betray yourself.
+Do nothing when distracted by life's joys, or you will make mistakes and betray yourself.
 
-Do not assume that anyone will interpret your deed favorably; there are scarcely two such interpreters in the world.
+Do not assume that anyone will interpret your actions favorably, as people who do so are exceedingly rare.
 
 Entrust nothing to letters that you would not want read by a third party; in fact, put his praises in them, so that they may come into his hands.
 
-If you perceive someone wishing to extract knowledge of a matter from you and pretending to know it, do not correct him when he errs.
+If someone tries to extract information from you by pretending to know it already, do not correct their errors.
 
-Either dissemble the vices of others or excuse them; close off your own affections or assume their opposites.
+Either conceal the vices of others or excuse them; hide your own feelings or pretend to have the opposite ones.
 
-In however great a friendship, consider hatred; in fortune, adversity.
+No matter how great a friendship may be, consider the possibility of hatred; in times of fortune, prepare for adversity.
 
-If you are the victor, in no case return the noblest captives to the enemy, so that if fortune turns, the enemy may have a reason to be compelled to spare you.
-Indeed, also do favors for the leaders of the enemies, maintaining some correspondence with them, unless pressed by an inexcusable necessity.
+If you are victorious, never return the noblest captives to the enemy. By holding them, you may compel the enemy to spare you if fortune turns against you, as they will seek the release of their own captured nobles.
+Moreover, do favors for the leaders of your enemies and maintain correspondence with them, unless faced with an unavoidable and pressing situation that prevents you from doing so.
 
-Act nothing for the sake of appearances, unless you are ready to give a reason for it, because people, not waiting for it, will condemn your deeds. Such is life now that certain virtues are condemned, not to mention doubtful ones.
+Avoid acting solely for the sake of appearances, unless you are prepared to justify your actions. People will condemn your deeds without waiting for an explanation, and in this era, even certain virtues are condemned, let alone questionable ones.
 
 If inferiors and servants ask something of you, order them to leave it in writing for you, so that you may be able to inspect all the circumstances more closely. You, however, give responses only orally.
 
-If you will converse with some where there is danger of being caught at a word, protest that you say many things in jest, even trying contraries, conniving at some things. For this reason, if something happens rather incautiously, you will be able to excuse that you protested beforehand that you sometimes say certain things in jest.
+When conversing in situations where your words may be used against you, preemptively claim that you often speak in jest, exploring contradictory ideas and occasionally being mischievous. This way, if you say something incautious, you can excuse it by reminding others of your earlier disclaimer.
 
-If you are pressured by games, hunting, and Venus and carried away by passions, forbid them to yourself altogether, otherwise you are about to commit many things incautiously.
+If you find yourself pressured by games, hunting, and love or lust, and carried away by passions, forbid these activities to yourself altogether. Otherwise, you are likely to act incautiously in many situations.
 
-With infants, the elderly, the stubborn, and those of unstable memory, and also with tyrants, act as much as possible before witnesses.
+When dealing with infants, the elderly, the stubborn, those with unstable memory, or tyrants, act as much as possible in the presence of witnesses.
 
 Receive and request orders in writing.
 
@@ -774,65 +774,76 @@ Have shutters on the insides of windows, and let the part where they meet the wi
 
 ### Getting Rid of an Ungrateful Guest
 
-Have a pre-arranged signal with a servant, so that when he receives a sign from you, he calls you away as if for urgent business, whispering in your ear or sending a messenger with letters, or announcing that harm has been done, or that there are disturbances among your subjects.
+Arrange a signal with your servant beforehand. When they receive the signal, have them call you away as if for urgent business. They can whisper in your ear, send a messenger with letters, or announce that harm has been done or that there are disturbances among your subjects.
 
 Have a doctor forbid you from speaking or drinking, etc.
 
 Have a saddled horse brought, as if you are about to depart.
 
-Give oats to his horses, but first shake a wolf skin over them. Provide a stable, but where a wolf's carcass has been buried.
+Give oats to your guest's horses, but first shake a wolf skin over them. Provide a stable where a wolf's carcass has been buried.
 
-Provide a bedroom, but in a bed made for this purpose with windows, and where it will rain, open them. The fireplace should be blocked so that it smokes; the furnace should be lit at first.
+Provide a bedroom with a specially prepared bed near windows. If it starts raining, open the windows. Block the fireplace so that it smokes, and initially light the furnace.
 
 ### Conversing with Others
 
-Know yourself, from what background you come.
+Know yourself and from what background you come.
 
-Some people's conversations are pleasing to no one at first, but gradually become sweeter, and their prudence does not immediately come forth as if from a vestibule.
+Some people may seem unpleasant to talk to at first, but as you spend more time with them, their wisdom becomes apparent, making the conversation more agreeable.
+Others may appear prudent and learned at first, but over time, they may prove to be flawed in their judgment or the consequences of their actions.
+Adapt your interactions based on the type of person you're dealing with. If someone's wisdom emerges gradually, engage in fewer but longer conversations. If they are immediately prudent and learned, interact with them often but briefly, in a way that you find pleasing.
 
-Others are immediately prudent and learned, but bring a longer delay, and shamefully fail either in judgment or in consequences.
+Be a rare guest, lest you become commonplace.
 
-Therefore, temper your meetings in this way: If you are among the former, rarely engage in conversation, but at greater length; if among the latter, do so frequently, but briefly, where you are considered pleasing.
+Consume material and engage in conversations about topics that others are passionate about, such as statues, weapons, or poetry, and praise their interests.
 
-Be a rare guest, lest you become commonplace; in your conversations, consume the material with which you know someone to be affected, praising it. With some discuss statues, with others weapons, poetry, etc.
+Avoid interacting with someone who is distracted by other matters, as they will be less attentive to you.
 
-Do not deal with him while he is distracted by other business, because then he will pay you less attention.
+When interacting with those who are prone to melancholy, be serious. When dealing with those who are easily angered, be assertive and patient. This is especially important if you are in a subordinate position.
 
-With the melancholic, be serious; with the choleric, be warlike and patient, if you are inferior.
+Do not put on an air of seriousness or solemnity.
 
-Do not affect gravity; with the learned or experienced in business, use few words and do not pile up many reasons, as on the contrary with the uneducated.
+When speaking with the learned or those experienced in business, be concise and avoid excessive explanations. On the contrary, when interacting with the uneducated, you may need to provide more detailed explanations.
 
-Consider the time, whether it is unsuitable; those who prevail by faction or favor, by whatever means, strive to make them your friends, intent on every occasion, premeditating, for example, if someone should constrain you with a remark in some gathering, conceive in some way a sting for pretending, responding calmly with words, and certainly persuade yourself that you will show yourself outwardly such as you have formed yourself inwardly.
+Be mindful of the timing of your interactions, and whether it is appropriate.
 
-If you must speak of a third party, let his name be unspoken, indeed the place, time, and all circumstances, lest perhaps the one passing by, if he should hear, may be able to guess of whom there is talk; things which are told with difficulty and are considered fictitious, even if they are most true, never utter again.
+Seek to befriend those who hold influence, either through their alliances or by being in their favor, by any means necessary.
 
-Deal reverently with all, as if they were your superiors.
+Be prepared for every situation. For example, if someone challenges you with a comment in a gathering, plan a way to respond calmly with sharp words while maintaining a composed outward demeanor.
 
-Display sincerity in those things which, if divulged, will bring you no harm or praise, e.g., entrusted virtues, and not fictitious ones.
+If you must speak of someone not present, avoid mentioning their name, location, or any identifying details, in case a passerby overhears and guesses the subject of your conversation.
 
-Beware of conversing with those who show themselves venal and ready for any crime against you, because they will also be against you.
+Never repeat information that is hard to explain or may be perceived as false, even if it is entirely true.
 
-Avoid the furious and the desperate, because to deal with them is a matter full of danger.
+Treat everyone with respect, as if they were your superiors.
 
-With rulers, always be sparing of words; they prefer to be heard than to hear. Here act the philosopher, not the orator, however familiar they may be, be reverent.
+Be sincere about things that, if revealed, will neither harm nor benefit you. For example, be honest about genuine virtues that have been entrusted to you, rather than false ones.
+
+Beware of conversing with those who show themselves venal and ready to commit any crime for you, because they will likely turn against you.
+
+Avoid the furious and the desperate, as such interactions can be fraught with danger.
+
+When interacting with rulers, always be concise; they prefer to be listened to rather than to listen. In these situations, be thoughtful and measured in your speech, rather than overly eloquent. Regardless of your familiarity with them, always show reverence.
 
 Give the first seats to the elderly, submit to their admonitions, praise and revere them, for they readily accuse.
 
-Praise and venerate the boastful; among the uneducated, read their condition.
+Praise and show respect to the boastful.
 
-Be rare with the talkative, who have everything in their mouth.
+When dealing with the uneducated, try to understand their situation and mindset.
+
+Limit your interactions with talkative people, who have everything in their mouth.
 
 Diligently praise what someone loves; censure what he hates. Acting to the contrary, even unwittingly, will offend.
 
-When you deal with individuals, act as if you had that one as a friend, and no others.
+When interacting with individuals, act as if they were your only friend, no one else.
 
 ### Joking
 
-Include nothing obscene in your words or deeds (for this is the way of buffoons), and do not imitate the voices of birds or other animals.
+Avoid obscene words or actions, as these are the habits of foolish people. Similarly, refrain from mimicking the sounds of birds or other animals.
 
-A joke should never contain truths that the other person would blush at, defects of nature or character, for they leave a bitter memory. Also, do not relate another's misfortunes, whether present or absent; these are to be heard, not told.
+Never make jokes about things that would embarrass the other person, such as their physical or personality flaws, as these will leave a negative lasting impression.
+Furthermore, avoid speaking about the misfortunes of others, whether they are present or not. It is better to listen to such stories than to tell them.
 
-For honest and pleasant conversation, read authors who relate events full of interest, and even poets, so that you may learn to mingle emotions.
+To engage in honest and pleasant conversation, read authors who tell captivating stories and even poets, so that you may learn to express a range of emotions in your interactions.
 
 Never act too freely or commit anything reprehensible in another's presence, no matter how close the relationship.
 

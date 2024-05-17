@@ -10,7 +10,7 @@ Readable.
 
 ### Learn About Yourself
 
-Readeable.
+Readable.
 
 ### Learn About Others
 
@@ -30,7 +30,7 @@ Readable.
 
 ### Gaining Esteem and Reputation
 
-Revisit: `You should allow those committed to religious life to behave in this manner.`
+Readable.
 
 ### Finding More Time for Business
 
@@ -94,7 +94,7 @@ Readable.
 
 ### Getting Rid of an Ungrateful Guest
 
-Revisit `first shake a wolf skin over them`
+Readable.
 
 ### Conversing with Others
 
@@ -126,7 +126,7 @@ Readeable.
 
 ### Feasting
 
-[`candles burning from ice` or `made of ice`?]
+Readable.
 
 ### Avoiding Losses
 
@@ -162,7 +162,7 @@ Readable.
 
 ### Controlling Anger
 
-[`new honors`]
+Readable.
 
 ### Fleeing
 
@@ -196,8 +196,6 @@ Readable.
 
 [check section titles]
 
-[send sluggish senators]
-
 ### Overthrowing and Deposing Wicked Men
 
 Readable.
@@ -212,11 +210,11 @@ Readable.
 
 ### Arguing and Correcting
 
-Redeable.
+Readable.
 
 ### Simulating Affections
 
-[Rename `Reigning in emotions`?]
+readable.
 
 ### Avoiding Lending Money
 
@@ -232,12 +230,11 @@ Readable.
 
 ### Being Accused
 
-[`As once the accuser had to put down for the judges in the year of military service.`]
-[`he will eventually reveal his true feelings towards them`]
+Readable.
 
 ### Visiting Provinces
 
-Redeable.
+Readable.
 
 ### Reading Speculative Books
 

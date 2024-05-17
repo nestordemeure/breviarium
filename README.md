@@ -29,8 +29,8 @@ pandoc data/english.md -o breviarium.epub --metadata title="Breviarium Politicor
 
 ## TODO
 
-* go back to all notes that needs checking against latin source
-* redo section titles given the latin title and translation
+* update section titles mentionned in the text
+* check the `through boys` against the Latin
 
 * do a full read through in another format
 

@@ -232,7 +232,7 @@ First win over the servants of one whose friendship you seek, even bribing them 
 
 However far you advance in his favor, treat it no differently than if you were still seeking it through a thousand kindnesses: for favor, once acquired, wishes to be maintained so as not to be lost; indeed, it requires to be nourished by attentions.
 
-### Knowing Who is Someone's Friend
+### Identifying Who is Someone's Friend
 
 If you praise someone and a listener remains silent in response, it indicates that the listener is not truly the praised person's friend.
 
@@ -276,9 +276,7 @@ You will establish a reputation for knowledge in this way: Compile a small book 
 
 Have many prepared formulas for responding, greeting, speaking, and handling any situation that may arise unexpectedly.
 
-Some individuals debase themselves too much in order to be praised, or so that they may seem to be favored by luck rather than burdened by concerns, and to possess natural talent instead of relying on effort. They begin to neglect and despise themselves, often convincing others to regard them as lazy and feeble.
-
-You should allow those committed to religious life to behave in this manner.
+Some individuals debase themselves too much in order to be praised, or so that they may seem to be favored by luck rather than burdened by concerns, and to possess natural talent instead of relying on effort. They begin to neglect and despise themselves, often convincing others to regard them as lazy and feeble. Leave these actions to those dedicated to religious duties.
 
 Never act to the full extent of your power, so that you may be believed to be unable to do anything more.
 
@@ -365,7 +363,7 @@ If someone approaches while you are reading, quickly turn to a different page to
 If you are writing letters or reading a book and someone arrives who might find your activity suspicious, anticipate this and pretend to be doing something else entirely. Act as if you are consulting the book or letters in front of you.
 For example, if you are writing warnings, ask the approaching guest what you could cautiously and prudently respond to such a case, or ask for news so you could fill the letters. Employ similar tactics when counting money or reading a book.
 
-When writing secrets, use your own handwriting unless you are employing ciphers that are easily decipherable by others, such as those found in Trithemius' *Polygraphia*. In such cases, having someone else write for you can provide better concealment. Be cautious, as using indecipherable ciphers may raise suspicion and lead to interception, unless you are a skilled writer.
+When writing secrets, use your own handwriting unless you are employing ciphers that are easily decipherable by others, such as those found in [Trithemius](https://en.wikipedia.org/wiki/Johannes_Trithemius)' [*Polygraphia*](https://en.wikipedia.org/wiki/Polygraphia_(book)). In such cases, having someone else write for you can provide better concealment. Be cautious, as using indecipherable ciphers may raise suspicion and lead to interception, unless you are a skilled writer.
 
 ### Giving Gifts and Favors
 
@@ -579,7 +577,7 @@ However, it is crucial to always keep your promises to everyone. Failing to do s
 
 Do not act on information without verifying it first.
 
-### Discerning the Intention Behind Someone's Words
+### Discerning Intentions
 
 First, examine a person's motives and assess whether they are consistent with their claimed actions, typical behavior, or the actions they are suspected of committing.
 Additionally, note if the person is acting more passionately or more cautiously than they typically do.
@@ -651,7 +649,7 @@ Praise even the smallest gifts as the greatest, if from your lord. Boast that yo
 
 Refuse dignities with your whole heart, and do not let many things be conferred on you that shine greatly but bring little utility.
 
-### Encouraging Others to Act
+### Encouraging Action
 
 To encourage someone to act, take responsibility for any potential losses, such as goods or property, and offer specific rewards in return.
 
@@ -774,7 +772,7 @@ In everything, observe vices and virtues, so that if there is need, you may be a
 
 Have shutters on the insides of windows, and let the part where they meet the windows be black, so that it cannot be discerned whether the window is closed or not.
 
-### Getting Rid of an Ungrateful Guest
+### Getting Rid of an Unwelcome Guest
 
 Arrange a signal with your servant beforehand. When they receive the signal, have them call you away as if for urgent business. They can whisper in your ear, send a messenger with letters, or announce that harm has been done or that there are disturbances among your subjects.
 
@@ -782,7 +780,8 @@ Have a doctor forbid you from speaking or drinking, etc.
 
 Have a saddled horse brought, as if you are about to depart.
 
-Give oats to your guest's horses, but first shake a wolf skin over them. Provide a stable where a wolf's carcass has been buried.
+Give oats to your guest's horses, but first shake a wolf skin over them, or provide a stable where a wolf's carcass has been buried.
+This will keep them restless.
 
 Provide a bedroom with a specially prepared bed near windows. If it starts raining, open the windows. Block the fireplace so that it smokes, and initially light the furnace.
 
@@ -859,7 +858,7 @@ If the person setting the ambush is powerful, choose your words diplomatically t
 
 If others are urging you to take an action that may be harmful to you, feign enthusiasm and make preparations to comply, as long as the preparations are not too complicated or demanding. Meanwhile, secretly plan to do the opposite of what they suggest.
 
-### Acquiring and Retaining Money
+### Managing Wealth
 
 Do not despise small gifts and be attentive to losses.
 
@@ -920,9 +919,9 @@ Establish a set time each year, or at least every three years, to review a writt
 
 Announce that if anyone makes a request directly to you, you will grant it. However, if they arrange the request through others, deny it. Announce that in the future, all indirect requests will be denied.
 
-### Assuming Various Affections
+### Managing Emotions
 
-Compile examples of emotions and expressions from poetry, such as those found in the *Palatium Eloquentiae*[^poem], and practice the ones you need until you have mastered them.
+Compile examples of emotions and expressions from poetry, such as those found in the [*Palatium Eloquentiae*](https://archive.org/details/bub_gb_HSr-RWjM08YC)[^poem], and practice the ones you need until you have mastered them.
 
 [^poem]: Most likely [Louis II de Bourbon, Prince of Condé](https://en.wikipedia.org/wiki/Louis,_Grand_Cond%C3%A9)'s [*Reginae Eloquentiae Palatium sive Exercitationes Oratoriae*](https://archive.org/details/bub_gb_HSr-RWjM08YC) (which roughly translates to *Palace of the Queen of Eloquence or Oratorical Exercises*).
 
@@ -971,7 +970,7 @@ Consider four things before acting in a novel way:
 3. Third, consider whether it aligns with your current status?  
 4. Fourth, consider whether you are respected in your current role? And in the role you aspire to?
 
-### Not Losing a Bargain
+### Negotiating Shrewdly
 
 When betting on an outcome, place an equal bet with another person on the opposite result. This way, regardless of the actual outcome, you will not incur any net loss.
 
@@ -991,7 +990,7 @@ If you have forgotten something you said (which also happens to those not preten
 
 Be most cautious when attempting to confuse others, as you may accidentally reveal either your ignorance or true intention. Therefore, plan for both potential outcomes beforehand.
 
-### Stirring Up Hatred Against Wicked Men
+### Stirring Hatred Against the Wicked
 
 When in the presence of someone whose favor your target seeks or enjoys, praise your target in a way that may turn into an offense to their benefactor.
 Mention that what you said is commonly rumored, emphasizing that you are not expressing your own opinion. Imply to the benefactor that he should be concerned about his own reputation and that the reputation of those close to them is also at risk. Simultaneously, reassure the benefactor to disregard rumors and let trivial matters fade away. However, ensure that they still feel the issue at hand concerns them.
@@ -1008,7 +1007,7 @@ Your enemy's character and deeds must be interpreted, and when the occasion allo
 
 Never attack many at once, but form friendships with others in the meantime. Always secure your own affairs before attacking those of others, and do not indulge in revenge or neglect occasions for conducting your own business.
 
-### Dissolving a Friendship
+### Dissolving Friendships
 
 When ending a friendship, never abruptly break it off, as if you suddenly hate the person due to a perceived slight or offense.
 Instead, having reconciled and showing fervent love, gradually withdraw. To allow the friendship to gently dissolve, gradually reduce the frequency of your meetings. If you must meet, keep the conversations brief and invite them to dinner, acting as if you are burdened by business. This way, it won't seem like you were only pretending to be their friend until you decided to cast them out.
@@ -1125,7 +1124,7 @@ If the people are rebellious or unruly, they must above all be guided towards vi
 
 Spread false rumors accusing the instigators of the factions of seeking hidden private gain and dominion at the expense of the people's well-being and lives. Emphasize that they will not benefit from their actions.
 
-### Hearing and Speaking Self-Praise
+### Handling Self-Praise
 
 Be cautious not to let praise lead to comparisons or claims of being unique, even if true, as such statements are rarely believed.
 
@@ -1136,7 +1135,7 @@ Avoid boasting about all your capabilities, as it will only serve to inform your
 
 If you wish to spread your glory through books, such as those containing panegyrics, choose a book that is easily purchased and esteemed worldwide. Ensure that the authors of such works are well-known beforehand and that they include your name and praises. This will spread your fame more effectively than a huge volume that no one will buy or read.
 
-### Having Internal Peace
+### Maintaining Inner Peace
 
 Avoid setting strict deadlines for accomplishing tasks, as unforeseen circumstances may arise, causing you to either neglect other matters or become distressed if you are unable to meet your goal.
 
@@ -1189,7 +1188,7 @@ Alternatively, if you wish to vex them, allow genuinely blank letters to be inte
 
 Another option is to write only the *first and last* syllables of each sentence. Then, openly express your hope that these letters do not reach the Prince's hands, so as not to appear as a flatterer.
 
-### Overthrowing and Deposing Wicked Men
+### Deposing the Wicked
 
 If you want to remove someone from their position, start by withholding the funds necessary for them to perform their key responsibilities. This will cause the person to incur debts. These debts can then be used as a pretext to justify their removal from office and subsequent punishment. Ensure that the debts are portrayed as illegitimate, so that the creditors themselves may demand repayment from the person, further pressuring them. Thus you have punished the person financially without trouble.
 
@@ -1203,9 +1202,7 @@ If you notice an arrogant and unqualified individual seeking your office (for ex
 Pretend to be distracted by another war and suggest that he should replace you in your position. Do not give him an account of the war, the places, or the enemy. As a result, he will encounter difficulties. Do not rush to his aid until he acknowledges both his own shortcomings and your greater expertise and authority.
 
 If you need to manipulate some young people and make them more compliant, encourage them to engage in activities like singing, painting, and sculpting, which will divert their attention and make them more pliable. Assign them tutors who are desperate servants, lacking in honesty, entirely corrupt, and prone to indulging the desires of youths rather than guiding them properly.
-Likewise, assign unscrupulous servants to those you wish to manipulate, enabling the servants to take advantage of their employer's weakened and exposed state.
-
-Send sluggish senators to a sluggish Senator.
+Likewise, assign unscrupulous servants to those you wish to manipulate, enabling the servants to take advantage of their employer's weakened and exposed state. Similarly, send lazy and ineffective subordinates to a lazy and ineffective superior.
 
 Arrange for an unknown person to send fabricated letters that appear to be written by the targeted individual's friend. Ensure that these letters are lost, as if through the bearer's carelessness, so that they may be read by many. This will undermine the targeted individual's affairs and reputation.
 
@@ -1240,7 +1237,7 @@ Be brief in your speech, as saying too much may jeopardize your wealth or your l
 
 Oxen proceed more safely than horses through mountains.
 
-### Not Desiring Vain Things
+### Avoiding Vain Pursuits
 
 When dealing with a serious matter, let others focus on trivial aspects like applause and glory.
 
@@ -1270,7 +1267,7 @@ Pay attention to the people with whom a person associates and sever those connec
 Companions of the same gender should be associated with the person in this matter - men with men, women with women, as the opposite sex has proven harmful.
 Assign companions who, if not virtuous themselves, at least have opposing vices. For example, assign one companion who is fierce and another who is gentle, or some who are passionate and others who are calm.
 
-### Simulating Affections
+### Managing Emotions
 
 If you openly display strong emotions or personal feelings for too long, people will eventually oppose your actions.
 Therefore, it is better to refrain from publicly displaying these emotions or behaviors.
@@ -1281,8 +1278,6 @@ In the meantime, it is best to focus on serious matters to distract yourself fro
 By doing so, you will conceal your true feelings of anger or happiness from even the most attentive observers.
 
 ### Avoiding Lending Money
-
-**Avoiding Lending Money**
 
 When lending items, instruct the servant who is delivering them to provide a detailed receipt. Have the servant sign the receipt as if they were acting on their own behalf, without your knowledge.
 
@@ -1331,13 +1326,13 @@ If you notice that someone has accused you, conceal your knowledge of the accusa
 
 Instead, when the opportunity arises, insinuate to the Prince that your accuser is an enemy and an informer. Suggest that informers, like traitors, are useful when needed but should never be truly trusted or loved.
 Argue that if he maligns others in your presence, he will do the same to you in the presence of others, and that there is less prudence and harmony among those who are not allies, but rather critics of each other.
-If the Prince finds such men useful, he will eventually reveal his true feelings towards them.
+Even if the Prince finds such men useful, he will eventually reveal his true feelings towards them.
 
 Approach the person who accused you and consult with them about how to handle the accusation, as if seeking advice from an intimate friend.
 
 In the presence of another, if he has spoken ill of you, trying to turn that person against you, speak favorably about a third person, with whom you are connected, in the presence of the same individual.
 
-At the beginning of the dispute, expose the accuser as a co-conspirator or ensure that the trial is conducted in their presence, especially in matters that are agreeable to you. As once the accuser had to put down for the judges in the year of military service.
+At the beginning of the dispute, expose the accuser as a co-conspirator or ensure that the trial is conducted in their presence, especially in matters that are agreeable to you, as was once done in military trials.
 
 If you are accused of multiple offenses, do not deny everything, lest you forfeit all credibility. Acknowledge certain things, even if untrue, to avoid the impression that you are malleable and universally prone to mistakes.
 
@@ -1423,7 +1418,7 @@ Keep these five things in mind:
 2. **Dissimulate.**  
 3. **Trust No One.**
 4. **Praise All.**
-5. **Be Mindful of Your Words.**
+5. **Mind Your Words**
 
 #### Simulate, Dissimulate
 
@@ -1463,6 +1458,6 @@ Also, praise those whose favor you need.
 
 Similarly, express appreciation for the food and clothing you receive from others.
 
-#### Be Mindful of your Words
+#### Mind Your Words
 
 Consider your words carefully. Could they be interpreted negatively? If so, they certainly will be interpreted that way. Someone you do not see may be watching or listening.

@@ -29,8 +29,9 @@ pandoc data/english.md -o breviarium.epub --metadata title="Breviarium Politicor
 
 ## TODO
 
-* edit the full text for readability
+* go back to all notes that needs checking against latin source
+* redo section titles given the latin title and translation
+
 * do a full read through in another format
-* add footnotes were relevant
 
 * produce new translation from latin+translation in order to preserve more of the 17th century flavor?

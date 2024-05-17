@@ -29,9 +29,5 @@ pandoc data/english.md -o breviarium.epub --metadata title="Breviarium Politicor
 
 ## TODO
 
-* update section titles mentionned in the text
-* check the `through boys` against the Latin
-
 * do a full read through in another format
-
 * produce new translation from latin+translation in order to preserve more of the 17th century flavor?

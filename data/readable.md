@@ -70,7 +70,7 @@ Readable.
 
 ### Uncovering Secrets
 
-revisit [`through boys`]
+readable.
 
 ### Discerning the Intention Behind Someone's Words
 

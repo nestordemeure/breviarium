@@ -569,7 +569,7 @@ Do not act toward those not subject to you in ways that seem to be exerting juri
 
 ### Uncovering Secrets
 
-Engage even people of low status in conversation. Overcome by kindness, especially if you grease their palms with gold, they will likely tell you everything you want to know. (You can also gather information by engaging young men, but this comes with certain risks.)
+Engage even people of low status in conversation. Overcome by kindness, especially if you grease their palms with gold, they will likely tell you everything you want to know. (You can also gather information by talking with children, but this comes with certain risks.)
 
 Set servants against each other, so they will betray each other's secrets.
 

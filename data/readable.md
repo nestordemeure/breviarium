@@ -194,7 +194,7 @@ Readable.
 
 ### Averting Suspicion
 
-[check section titles]
+Readable.
 
 ### Overthrowing and Deposing Wicked Men
 

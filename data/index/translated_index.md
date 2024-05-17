@@ -1,6 +1,6 @@
 # Breviarum Politicorum
 
-## A Word from the Publisher  
+## A Word from the Publisher
 
 ## Fundamentals
 
@@ -12,7 +12,7 @@
 
 ### Gaining Favor
 
-### Knowing Who is Someone's Friend
+### Identifying Who is Someone's Friend
 
 ### Gaining Esteem and Reputation
 
@@ -34,19 +34,19 @@
 
 ### Avoiding Envy
 
-### Uncovering Secrets  
+### Uncovering Secrets
 
-### Discerning the Intention Behind Someone's Words
+### Discerning Intentions
 
 ### Avoiding Offense
 
-### Encouraging Others to Act
+### Encouraging Action
 
 ### Acquiring Prudence
 
 ### Acting Cautiously
 
-### Getting Rid of an Ungrateful Guest
+### Getting Rid of an Unwelcome Guest
 
 ### Conversing with Others
 
@@ -54,27 +54,27 @@
 
 ### Avoiding Ambushes
 
-### Acquiring and Retaining Money
+### Managing Wealth
 
 ### Gaining and Conferring Honors
 
 ### Responding to Requests
 
-### Assuming Various Affections
+### Managing Emotions
 
 ### Feasting
 
 ### Avoiding Losses
 
-### Acting in a Novel Way
+### Acting in Novel Ways
 
-### Not Losing a Bargain
+### Negotiating Shrewdly
 
 ### Covering Mistakes
 
-### Stirring Up Hatred Against Wicked Men
+### Stirring Hatred Against the Wicked
 
-### Dissolving a Friendship
+### Dissolving Friendships
 
 ### Praising Others
 
@@ -86,11 +86,11 @@
 
 ### Punishing and Correcting
 
-### Quelling a Sedition
+### Quelling Sedition
 
-### Hearing and Speaking Self-Praise
+### Handling Self-Praise
 
-### Having Internal Peace
+### Maintaining Inner Peace
 
 ### Disregarding Criticism
 
@@ -98,15 +98,15 @@
 
 ### Averting Suspicion
 
-### Overthrowing and Deposing Wicked Men
+### Deposing the Wicked
 
 ### Traveling
 
-### Not Desiring Vain Things
+### Avoiding Vain Pursuits
 
 ### Arguing and Correcting
 
-### Simulating Affections
+### Managing Emotions
 
 ### Avoiding Lending Money
 
@@ -126,8 +126,8 @@
 
 #### Simulate, Dissimulate
 
-#### Trust no One
+#### Trust No One
 
 #### Praise All
 
-#### Be Mindful of your Actions
+#### Mind Your Words

@@ -14,7 +14,7 @@ from breviarum.markdown import Markdown
 data_folder = Path('./data')
 
 # input
-input_file = data_folder / 'latin.md'
+input_file = data_folder / 'english.md'
 input = read_file(input_file)
 markdown = Markdown.from_text(input)
 

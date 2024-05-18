@@ -2,44 +2,46 @@
 
 ## A Word from the Publisher
 
-I had been delaying the publication of this Political treatise, sent to me by an Italian Prince, due to being overwhelmed with the most pressing matters. Now, under the orders of that same Excellent Prince, I am making it public. The importance of the subject, and the name of Cardinal Mazarin, whose life serves as the model and standard for the ideas presented here, will add significant weight to the commonly proposed political rules. Everyone is aware of the serious storms the Eminent Prince faced and nearly succumbed to.
+I had been delaying the publication[^printer] of this Political treatise, sent to me by an Italian Prince, due to being overwhelmed with the most pressing matters. Now, under the orders of that same Excellent Prince, I am making it public. The importance of the subject, and the name of Cardinal Mazarin, whose life serves as the model and standard for the ideas presented here, will add significant weight to the commonly proposed political rules. Everyone is aware of the serious storms the Eminent Prince faced and nearly succumbed to.
 
-However, it is not so obvious to everyone the skills he used to overcome those various tides of misfortune, which seemed certain to overwhelm him, and how he navigated through them to reach a safe harbor. He achieved great things in managing a powerful Kingdom torn apart by factions during those dangerous and challenging times, and emerged from numerous difficulties with increased glory. Notably, he instilled in the mind of *Louis XIV*, easily the greatest of all French Kings, the principles of ruling that allowed him to vastly expand France's borders and raise it to the height of dignity and power upon taking the throne. Extracting these lessons is difficult, but this Treatise will spare you that task.
+[^printer]: This introduction was written by the *original* printer and, maybe, by the actual writer of the text.
 
-As there is hardly any complete and perfected system of Political precepts, since the particular circumstances that greatly vary the general rules are infinite, no simpler or more fortunate method can be provided than to make the discipline, supported only by general precepts, practical or active by adapting those general rules to the particular circumstances on which they depend.
+However, the skills he used to overcome those various tides of misfortune, which seemed certain to overwhelm him, and how he navigated through them to reach a safe harbor, are not so obvious to everyone. He achieved great things in managing a powerful Kingdom torn apart by factions during those dangerous and challenging times, and emerged from numerous difficulties with increased glory. Notably, he instilled in the mind of *Louis XIV*, easily the greatest of all French Kings, the principles of ruling that allowed him to vastly expand France's borders and raise it to the height of dignity and power upon taking the throne. Extracting these lessons is difficult, but this Treatise will spare you that task.
 
-But you will more easily achieve that goal, dear Reader, if you strive to keep this illustrious example before your eyes, according to whose model today's Politicians attempt to conform and adapt their rules using their own wisdom. However, I wish for you to conduct yourself in a way that allows you to clearly understand the reasoning and norms that Political men typically use, not to deceive others, but to avoid being deceived yourself, by combining the two norms of the highest prudence prescribed by the general rule of fairness and justice, and the teaching of the Gospel:
+As there is hardly any complete and perfected system of Political precepts, since the general rules can be altered by an infinity of circumstances, no simpler or more fortunate method can be provided than to make the discipline, supported only by general precepts, practical or active by adapting those general rules to the particular circumstances on which they depend. But you will more easily achieve that goal, dear Reader, if you strive to keep this illustrious example before your eyes, according to whose model today's Politicians attempt to conform and adapt their rules using their own wisdom.
+
+However, I wish for you to conduct yourself in a way that allows you to clearly understand the reasoning and norms that Political men typically use, not to deceive others, but to avoid being deceived yourself, by combining the two norms of the highest prudence prescribed with the general rule of fairness and justice, and the teaching of the Gospel:
 
 > *Do not do to others what you would not want done to you, Be wise as Serpents, and innocent as Doves.*
 
 Enjoy this work of ours, and farewell.
 
-## Fundamentals
+## I. Fundamentals
 
-There were once two fundamental principles in Philosophy: *Sustain and Abstain*.
-Now, new principles have emerged: *Simulate and Dissimulate*, or *Learn About Yourself* and *Learn About Others*, which (if I am not mistaken) complement each other.
+In the past, two fundamental principles dominated philosophy: *Sustain* and *Abstain*.
+However, new principles have since emerged, namely *Simulate* and *Dissimulate*, and, complementing them, *Learn About Yourself* and *Learn About Others*.
 
 We will first address *Learn About Yourself* and *Learn About Others*.
-Then, since human *Actions* often occur in no particular order, we will explore the principles of *Simulate and Dissimulate* in various contexts, without following a strict order.
+Then, since human *Actions* do not follow a particular order, we will explore the principles of *Simulate and Dissimulate* in various contexts.
 
 ### Learn About Yourself
 
 Are you overcome by anger, fear, rashness, or some other strong emotion?
 What defects are evident in your conduct during various activities, such as dining, attending church, conversing, playing games, or engaging in other social interactions?
 
-Examine all the parts of your body: are your eyes too insolent, foot or head bent too far, forehead wrinkled, lips unkempt, gait too slow or fast?
+Examine all the parts of your body: are your eyes too insolent, foot or head bent too far, forehead wrinkled, lips unkempt, gait too slow or too fast?
 
 With whom do you associate? Are they praiseworthy, successful, prudent individuals?
 
-At what times are you most likely to act carelessly or recklessly? Do you stumble in word or deed when drinking at the table, playing games, or facing calamity? As Tacitus noted, "the minds of mortals are pliable" during such moments.
+At what times are you most likely to act carelessly or recklessly? Do you stumble in word or deed when drinking at the table, playing games, or facing calamity? As [Tacitus](https://en.wikipedia.org/wiki/Tacitus) noted, "the minds of mortals are pliable" during such moments.
 
 What places do you visit - are they suspect, vile, disreputable, unworthy of you?
 
-Be cautious in your actions, and never let caution be absent - to which end reading this little book will serve.
+Be always cautious in your actions, to which end reading this little book will serve.
 
 Consider the place, time, situation, and the rank of the persons with whom you are interacting.
 
-Make note of each individual defect, so that you may address it more diligently. Whenever you slip up, it will be beneficial to discipline yourself strictly.
+Make note of each of your individual defect, so that you may address it more diligently; whenever you slip up, it will be beneficial to discipline yourself strictly.
 
 If you are provoked to the point of anger, remain silent and show no sign of it, especially when you cannot effectively express your zeal or satisfy yourself. Instead, *pretend* that you are not offended and wait for a more opportune moment. Show nothing in your face except kindness, or even affection.
 
@@ -47,7 +49,7 @@ Do not readily laugh at just any witticism.
 
 Strive to have everyone figured out. Never reveal your secrets to anyone; fish for the secrets of others.
 
-Say or do nothing indecorous in the presence of anyone, even if it is natural and not malicious, because such things are despised by others.
+Say or do nothing indecorous in the presence of anyone, even if it is natural and not malicious, such things are despised by others.
 
 Maintain a modest and steady demeanor, but keenly observe everything with sharp eyes and an inquisitive expression. Those who do so are considered prudent, astute, and precise.
 
@@ -152,7 +154,7 @@ Catch a keeper of secrets in this way: tell him something under the strictest se
 
 To learn another's mind, suborn someone whom he loves, and through them you will discover his most secret thoughts.
 
-## Acting in Society
+## II. Acting in Society
 
 As I begin this part of the discussion, I will explore various contexts without adhering to a strict order.
 
@@ -1392,7 +1394,7 @@ If someone explains the text to you, first reread it yourself to develop the abi
 
 Finally, consider how this line of reasoning could be useful in discussions with physicians or scholars.
 
-## Axioms
+## III. Axioms
 
 1. Treat any friend as if he may one day become your enemy.
 2. It is dangerous when a single individual becomes too powerful within any group or organization.
@@ -1410,7 +1412,7 @@ Finally, consider how this line of reasoning could be useful in discussions with
 14. Plan giving gifts and feasting as if they were a military campaign.
 15. Revealing a secret can be more dangerous than holding captive an enemy plotting against your life.
 
-## Summary
+## IV. Summary
 
 Keep these five things in mind:
 

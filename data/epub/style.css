@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "IMFellDWPica";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/IMFellDWPica-Regular.ttf");
+}
+
+@font-face {
+    font-family: "IMFellDWPica";
+    font-style: italic;
+    font-weight: normal;
+    src: url("../fonts/IMFellDWPica-Italic.ttf");
+}
+
+@font-face {
+    font-family: "IMFellDWPicaSC";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/IMFellDWPicaSC-Regular.ttf");
+}
+
+body {
+    font-family: "IMFellDWPica", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "IMFellDWPicaSC", serif;
+}

@@ -24,5 +24,13 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 ## TODO
 
+* make a get ready script that prepares everything for moving to the blog:
+  * hugo export
+  * remove files that should be replaced by blog ones
+  * epub export to an asset folder
+  * move english to a translation folder and add header
+
 * do a full read through in another format
 * produce new translation from latin+translation in order to preserve more of the 17th century flavor?
+
+* edits that need inclusion:

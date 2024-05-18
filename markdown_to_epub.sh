@@ -2,7 +2,7 @@
 
 # Define input and output file paths
 INPUT_FILE="./data/english.md"
-OUTPUT_FILE="./data/epub/Mazarin - Breviarium Politicorum.epub"
+OUTPUT_FILE="./data/epub/Mazarin_Breviarium_Politicorum.epub"
 CSS_FILE="./data/epub/style.css"
 FONT_DIR="./data/epub/fonts"
 TITLE_PAGE="./data/epub/title_page.png"

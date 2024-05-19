@@ -27,5 +27,3 @@ Tweak script variables to pick models (`human` for manual mode, `haiku` for test
 
 * do a full read through in another format
 * produce new translation from latin+translation in order to preserve more of the 17th century flavor?
-
-* edits that need inclusion:

@@ -63,6 +63,7 @@ def id_of_str(title:str):
     words = title.split()
 
     # remove stop words
+    words = [word for word in words if word not in {'i', 'ii', 'iii', 'iv', 'v'}]
     words_filtered = remove_stop_words(words)
     if (len(words_filtered) > 0) and (len(words) > 2):
         words = words_filtered
